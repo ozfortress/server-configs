@@ -1,4 +1,5 @@
 ozfortress.com's version controlled server configs
+
 last updated: 15th july 2012 by seeker
 
 To use these configurations, clone the repository into orangebox/tf/ and modify rcon_password and hostname within autoexec.cfg to suit your server.
