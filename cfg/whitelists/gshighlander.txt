@@ -1,0 +1,43 @@
+// gaming sydney highlander whitelist (updated 14/7/2012 by seeker)
+
+"item_whitelist"
+{
+	"unlisted_items_default_to"			"1"
+
+//Set Hats
+	"The Attendant"					"0"
+	"The Familiar Fez"				"0"
+	"Ol' Snaggletooth"				"0"
+	"The Grenadier's Softcap"			"0"
+	"The Milkman"					"0"
+	"Big Chief"					"0"
+
+//Weapons
+	"The Machina"					"0"
+	"The Reserve Shooter"				"0"
+	"The Enforcer"					"0"
+	"The Detonator"					"0"
+        "The Pomson 6000"				"0"
+        "The Phlogistinator"				"0"
+        "The Manmelter"					"0"
+        "The Eureka Effect"				"0"
+        "The Third Degree"				"0"
+        "The Wrap Assassin"				"0"
+        "The Spy-cicle"					"0"
+        "The Holiday Punch"				"0"
+	"Baby Face's Blaster"				"0"
+	"Pretty Boy's Pocket Pistol"			"0"
+	"The Beggar's Bazooka"				"0"
+	"The Rainblower"				"0"
+	"The Scorch Shot"				"0"
+	"The Lollichop"					"0"
+	"The Hitman's Heatmaker"			"0"
+	"The Cleaner's Carbine"				"0"
+	"Pet Balloonicorn"				"0"
+	"Autogrant Pyrovision Goggles"			"0"
+	"Pyrovision Goggles"				"0"
+
+//Misc.
+	"Bombinomicon"					"0"
+
+}
