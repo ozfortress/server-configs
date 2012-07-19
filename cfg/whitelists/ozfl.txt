@@ -552,6 +552,7 @@
 "Festive Knife 2011"					"1"
 "The Escape Plan"					"1"
 "Frying Pan"					"1"
+"Golden Wrench"					"1"
 
 // PDAS
 "The Cloak and Dagger"					"1"
