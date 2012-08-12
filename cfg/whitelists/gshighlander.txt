@@ -1,4 +1,4 @@
-// gaming sydney highlander whitelist (updated 14/7/2012 by seeker)
+// ozfortress highlander whitelist (updated 12/9/2012 by sti)
 
 "item_whitelist"
 {
@@ -36,6 +36,13 @@
 	"Pet Balloonicorn"				"0"
 	"Autogrant Pyrovision Goggles"			"0"
 	"Pyrovision Goggles"				"0"
+	"The Neon Annihilator"				"0"
+	"Promo Neon Annihilator"			"0"
+	"The Flying Guillotine"				"0"
+	"Promo Flying Guillotine"			"0"
+	"The Huo Long Heatmaker"			"0"
+	"Promo Huo Long Heatmaker"			"0"
+
 
 //Misc.
 	"Bombinomicon"					"0"
