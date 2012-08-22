@@ -515,6 +515,14 @@
 "Festive Flamethrower 2011"					"1"
 "Festive Sniper Rifle 2011"					"1"
 "Festive Scattergun 2011"					"1"
+"Botkiller Sniper Rifle"					"1"
+"Botkiller Rocket Launcher"					"1"
+"Botkiller Scattergun"					"1"
+"Botkiller Flame Thrower"					"1"
+"Gold Botkiller Sniper Rifle"					"1"
+"Gold Botkiller Rocket Launcher"					"1"
+"Gold Botkiller Scattergun"					"1"
+"Gold Botkiller Flame Thrower"					"1"
 
 // SECONDARY
 "The Kritzkrieg"					"1"
@@ -529,6 +537,10 @@
 "TTG Max Pistol - Poker Night"					"1"
 "Festive Stickybomb Launcher 2011"					"1"
 "Festive Medigun 2011"					"1"
+"Botkiller Minigun"					"1"
+"Botkiller Stickybomb Launcher"					"1"
+"Gold Botkiller Minigun"					"1"
+"Gold Botkiller Stickybomb Launcher"					"1"
 
 // MELEE
 "The Ubersaw"					"1"
@@ -553,6 +565,10 @@
 "The Escape Plan"					"1"
 "Frying Pan"					"1"
 "Golden Wrench"					"1"
+"Botkiller Knife"					"1"
+"Botkiller Wrench"					"1"
+"Gold Botkiller Knife"					"1"
+"Gold Botkiller Wrench"					"1"
 
 // PDAS
 "The Cloak and Dagger"					"1"
