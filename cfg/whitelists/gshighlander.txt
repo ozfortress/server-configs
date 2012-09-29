@@ -1,4 +1,4 @@
-// ozfortress highlander whitelist (updated 12/9/2012 by sti)
+// ozfortress highlander whitelist (updated 29/9/2012 by sti)
 
 "item_whitelist"
 {
