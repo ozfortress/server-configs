@@ -13,13 +13,10 @@
 	"Big Chief"					"0"
 
 //Weapons
-	"The Machina"					"0"
 	"The Reserve Shooter"				"0"
 	"The Enforcer"					"0"
-	"The Detonator"					"0"
         "The Pomson 6000"				"0"
         "The Phlogistinator"				"0"
-        "The Manmelter"					"0"
         "The Eureka Effect"				"0"
         "The Third Degree"				"0"
         "The Wrap Assassin"				"0"
@@ -42,7 +39,8 @@
 	"Promo Flying Guillotine"			"0"
 	"The Huo Long Heatmaker"			"0"
 	"Promo Huo Long Heatmaker"			"0"
-
+	"Red-Tape Recorder"				"0"
+	"The Red-Tape Recorder"				"0"	
 
 //Misc.
 	"Bombinomicon"					"0"
