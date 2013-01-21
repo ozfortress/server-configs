@@ -692,6 +692,7 @@
 
 // SECONDARY
 "The Kritzkrieg"					"1"
+"The Quick-Fix"						"1"
 "The Gunboats"					"1"
 "TTG Max Pistol"					"1"
 "TTG Sam Revolver"					"1"
@@ -760,7 +761,8 @@
 "Gold Botkiller Knife Mk.II"					"1"
 "Gold Botkiller Wrench Mk.II"					"1"
 "Festive Holy Mackerel"					"1"
-"Festive Ubersaw"					"1"
+"Festive Ubersaw" 					"1"
+"Golden Wrench"						"1"
 
 "Frying Pan"                                            "1"
 "The Conscientious Objector"                            "1"
