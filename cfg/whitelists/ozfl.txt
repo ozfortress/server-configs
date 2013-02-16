@@ -692,7 +692,6 @@
 
 // SECONDARY
 "The Kritzkrieg"					"1"
-"The Quick-Fix"						"1"
 "The Gunboats"					"1"
 "TTG Max Pistol"					"1"
 "TTG Sam Revolver"					"1"
@@ -720,12 +719,12 @@
 "Silver Botkiller Stickybomb Launcher Mk.II"					"1"
 "Gold Botkiller Medi Gun Mk.II"					"1"
 "Gold Botkiller Stickybomb Launcher Mk.II"					"1"
-"Festive Ambassador"					"1"
+"Festive Ambassador"					"0"
 
 // MELEE
 "The Ubersaw"					"1"
 "The Pain Train"					"1"
-"Golden Wrench"					"1"
+"Golden Wrench"					"0"
 "Upgradeable TF_WEAPON_BAT"					"1"
 "Upgradeable TF_WEAPON_BOTTLE"					"1"
 "Upgradeable TF_WEAPON_FIREAXE"					"1"
@@ -762,14 +761,14 @@
 "Gold Botkiller Wrench Mk.II"					"1"
 "Festive Holy Mackerel"					"1"
 "Festive Ubersaw" 					"1"
-"Golden Wrench"						"1"
+"Golden Wrench"						"0"
 
 "Frying Pan"                                            "1"
 "The Conscientious Objector"                            "1"
 "The Freedom Staff"                                     "1"
-"High Five Taunt"                                       "1"
+"High Five Taunt"                                       "0"
 "Replay Taunt"                                          "1"
 "Laugh Taunt"                                           "1"
 "Meet the Medic Heroic Taunt"                           "1"
-
+"Bombinomicon"						"1"
 }
