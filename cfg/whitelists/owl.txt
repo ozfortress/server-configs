@@ -1,4 +1,5 @@
 //owl9 whitelist (written on 16/02/2013 by ferelah)
+"item_whitelist"
 {
 	"unlisted_items_default_to"		"0"
 
