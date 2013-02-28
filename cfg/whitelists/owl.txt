@@ -724,7 +724,6 @@
 // MELEE
 "The Ubersaw"					"1"
 "The Pain Train"					"1"
-"Golden Wrench"					"0"
 "Upgradeable TF_WEAPON_BAT"					"1"
 "Upgradeable TF_WEAPON_BOTTLE"					"1"
 "Upgradeable TF_WEAPON_FIREAXE"					"1"
