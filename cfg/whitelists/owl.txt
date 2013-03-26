@@ -689,6 +689,7 @@
 "Gold Botkiller Rocket Launcher Mk.II"					"1"
 "Festive Frontier Justice"					"0"
 "Festive Grenade Launcher"					"1"
+"Cloak and Dagger"						"1"
 
 // SECONDARY
 "The Kritzkrieg"					"1"
