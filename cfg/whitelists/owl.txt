@@ -769,7 +769,7 @@
 "Shred Alert"						"1"
 "Replay Taunt"                                          "1"
 "Laugh Taunt"                                           "1"
-"Meet the Medic Heroic Taunt"                           "1"
+"Taunt: The Meet the Medic Taunt"                       "1"
 "Bombinomicon						"0"
 "Tux" 							"1"
 }
