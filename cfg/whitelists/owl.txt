@@ -689,7 +689,7 @@
 "Gold Botkiller Rocket Launcher Mk.II"					"1"
 "Festive Frontier Justice"					"0"
 "Festive Grenade Launcher"					"1"
-"Cloak and Dagger"						"1"
+"The Cloak and Dagger"						"1"
 
 // SECONDARY
 "The Kritzkrieg"					"1"
@@ -761,11 +761,12 @@
 "Gold Botkiller Wrench Mk.II"					"1"
 "Festive Holy Mackerel"					"1"
 "Festive Ubersaw"					"1"
-
-
 "Frying Pan"                                            "1"
 "The Conscientious Objector"                            "1"
 "The Freedom Staff"                                     "1"
+
+//Action Slot
+"Shred Alert"						"1"
 "Replay Taunt"                                          "1"
 "Laugh Taunt"                                           "1"
 "Meet the Medic Heroic Taunt"                           "1"
