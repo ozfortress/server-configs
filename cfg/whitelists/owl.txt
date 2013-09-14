@@ -1,4 +1,4 @@
-// OWL9 Blacklist as written by face
+// OWL10 Blacklist as written by ferelah
 
 "item_whitelist"
 {
@@ -237,6 +237,7 @@
 // ---- PDA            
         "The Dead Ringer"                                       "0"
         "The Red-Tape Recorder"                                 "0"
+        "The Cloak and Dagger"                                  "0"
                        
  
  
