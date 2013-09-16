@@ -1,9 +1,4 @@
 // OWL10 Blacklist as written by ferelah
-// Whitelist generated at Mon, 16 Sep 2013 04:30:01 +0200
-// Custom Whitelist ID: 144
-
-// Share or view this whitelist:
-//	http://whitelist.tf/144
 
 // New items added to the game are: NOT allowed
 // Hats are: allowed
