@@ -19,7 +19,6 @@
         "Bonk! Atomic Punch"                                    "0"
         "Crit-a-Cola"                                           "0"
         "Mad Milk"                                              "0"
-        "The Winger"                                            "0"
         "Pretty Boy's Pocket Pistol"                            "0"
         "The Flying Guillotine"                                 "0"
                        
@@ -96,7 +95,6 @@
         "The Loch-n-Load"                                       "0"
         "Ali Baba's Wee Booties"                                "0"
         "The Bootlegger"                                        "0"
-        "The Loose Cannon"                                      "0"
                        
 // ---- SECONDARY              
         "The Scottish Resistance"                               "0"
