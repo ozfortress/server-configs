@@ -1,4 +1,4 @@
-// OWL10 Blacklist as written by ferelah
+// OWL11 Blacklist as written by ferelah
 
 // New items added to the game are: NOT allowed
 // Hats are: allowed
@@ -43,17 +43,26 @@
 	//----------------- Allowed weapons (Total: 9) ------------------\\
 	//______________________ Multiple classes _______________________\\
 	"The Pain Train"						"1"
+	"The Winger"							"1"
 	//____________________________ Scout ____________________________\\
 	"The Boston Basher"						"1"
 	//___________________________ Soldier ___________________________\\
 	"The Escape Plan"						"1"
 	"The Gunboats"							"1"
+	"The Black Box"							"1"
 	//____________________________ Medic ____________________________\\
 	"The Amputator"							"1"
 	"The Crusader's Crossbow"					"1"
 	"The Kritzkrieg"						"1"
 	"The Overdose"							"1"
 	"The Ubersaw"							"1"
+	"The Blutsauger"						"1"
+	//____________________________ Heavy ____________________________\\
+	"The Dalokohs Bar"						"1"
+	//__________________________ Engineer ___________________________\\
+	"The Jag"							"1"
+	//_____________________________ Spy _____________________________\\
+	"Conniver's Kunai"						"1"
 
 	//------------- Allowed weapon reskins (Total: 109) -------------\\
 	//_________________________ All classes _________________________\\
