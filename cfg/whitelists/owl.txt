@@ -20,6 +20,10 @@
 // - Melee
 //  * Boston Basher
 
+// Allowed weapons for Demoman
+// - Primary
+//  * The Loose Cannon
+
 // Allowed weapons for Soldier
 // - Secondary
 //  * Gunboats
@@ -46,6 +50,8 @@
 	"The Winger"							"1"
 	//____________________________ Scout ____________________________\\
 	"The Boston Basher"						"1"
+	//___________________________ Demoman ___________________________\\
+	"The Loose Cannon"						"1"
 	//___________________________ Soldier ___________________________\\
 	"The Escape Plan"						"1"
 	"The Gunboats"							"1"
