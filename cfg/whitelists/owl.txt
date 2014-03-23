@@ -293,7 +293,6 @@
 	"The Wrangler"							"0"
 	"Festive Frontier Justice"					"0"
 	//____________________________ Medic ____________________________\\
-	"The Blutsauger"						"0"
 	"The Quick-Fix"							"0"
 	"The Solemn Vow"						"0"
 	"The Vaccinator"						"0"
