@@ -1,4 +1,4 @@
-// Whitelist generated at Thu, 19 Jun 2014 07:37:44 +0200
+// Whitelist generated at Tue, 26 Aug 2014 05:53:34 +0200
 // Whitelist: ozfortress 6v6 (OWL 11) (ID: 908)
 
 // Share or view this whitelist:
@@ -91,7 +91,7 @@
 	//_____________________________ Spy _____________________________\\
 	"Conniver's Kunai"						"1"
 
-	//------------- Allowed weapon reskins (Total: 114) -------------\\
+	//------------- Allowed weapon reskins (Total: 115) -------------\\
 	//_________________________ All classes _________________________\\
 	"Gold Frying Pan"						"1"
 	"Saxxy"								"1"
@@ -217,8 +217,9 @@
 	"The Black Rose"						"1"
 	"The Quackenbirdt"						"1"
 	"The Sharp Dresser"						"1"
+	"The Snack Attack"						"1"
 
-	//------------ Blocked weapons/reskins (Total: 138) -------------\\
+	//------------ Blocked weapons/reskins (Total: 137) -------------\\
 	//______________________ Multiple classes _______________________\\
 	"The B.A.S.E. Jumper"						"0"
 	"The Half-Zatoichi"						"0"
@@ -363,7 +364,6 @@
 	"The Diamondback"						"0"
 	"The Enforcer"							"0"
 	"The Red-Tape Recorder"						"0"
-	"The Snack Attack"						"0"
 	"The Spy-cicle"							"0"
 	"The Wanga Prick"						"0"
 	"Your Eternal Reward"						"0"
@@ -561,10 +561,9 @@
 	"Under Cover"							"0"
 	"Zombie Spy"							"0"
 
-	//---------------------- Hats (Total: 458) ----------------------\\
+	//---------------------- Hats (Total: 454) ----------------------\\
 	//_________________________ All classes _________________________\\
 	"A Rather Festive Tree"						"1"
-	"Antlers"							"1"
 	"Benefactor's Kanmuri"						"1"
 	"Camera Helm"							"1"
 	"Daily Duel Winner Reward Hat"					"1"
@@ -633,6 +632,7 @@
 	"The Human Cannonball"						"1"
 	"The Kiss King"							"1"
 	"The Law"							"1"
+	"The Merc's Mohawk"						"1"
 	"The Polar Pullover"						"1"
 	"The Public Accessor"						"1"
 	"The Sarif Cap"							"1"
@@ -659,7 +659,6 @@
 	"The Deep Cover Operator"					"1"
 	"The Doublecross-Comm"						"1"
 	"The Menpo"							"1"
-	"The Merc's Mohawk"						"1"
 	"The Mutton Mann"						"1"
 	"The Team Captain"						"1"
 	"The Wilson Weave"						"1"
@@ -706,7 +705,6 @@
 	"Chieftain's Challenge"						"1"
 	"Defiant Spartan"						"1"
 	"Dr's Dapper Topper"						"1"
-	"Exquisite Rack"						"1"
 	"Full Metal Drill Hat"						"1"
 	"Furious Fukaamigasa"						"1"
 	"Ground Control"						"1"
@@ -718,7 +716,6 @@
 	"Soldier Drill Hat"						"1"
 	"Soldier Samurai Hat"						"1"
 	"Soldier's Slope Scopers"					"1"
-	"Soldier's Stash"						"1"
 	"Stahlhelm"							"1"
 	"Stainless Pot"							"1"
 	"Steel Shako"							"1"
@@ -916,7 +913,6 @@
 	"The Last Straw"						"1"
 	"The Pardner's Pompadour"					"1"
 	"The Peacenik's Ponytail"					"1"
-	"The Pencil Pusher"						"1"
 	"The Plug-In Prospector"					"1"
 	"The Timeless Topper"						"1"
 	"The Tin-1000"							"1"
@@ -1025,19 +1021,20 @@
 	"The Familiar Fez"						"1"
 	"The Harmburg"							"1"
 	"The Lacking Moral Fiber Mask"					"1"
-	"The Napolean Complex"						"1"
+	"The Napoleon Complex"						"1"
 	"The Ninja Cowl"						"1"
 	"The Pom-Pommed Provocateur"					"1"
 	"The Scarecrow"							"1"
 	"The Stealth Steeler"						"1"
 	"tw_spybot_hood"						"1"
 
-	//--------------------- Miscs (Total: 858) ----------------------\\
+	//--------------------- Miscs (Total: 888) ----------------------\\
 	//_________________________ All classes _________________________\\
 	"AU Highlander Community League First Place Season 1"		"1"
 	"AU Highlander Community League Participant Season 1"		"1"
 	"AU Highlander Community League Second Place Season 1"		"1"
 	"AU Highlander Community League Third Place Season 1"		"1"
+	"Antlers"							"1"
 	"Asiafortress Cup Division 1 1st Place Season 7"		"1"
 	"Asiafortress Cup Division 1 2nd Place Season 7"		"1"
 	"Asiafortress Cup Division 1 3rd Place Season 7"		"1"
@@ -1488,22 +1485,34 @@
 	"TournamentMedal - UGCHLDiv3 Winners"				"1"
 	"Towering Pillar of Summer Shades"				"1"
 	"Tumblr Vs Reddit Participant Season 1"				"1"
+	"Tumblr Vs Reddit Participant Season 2"				"1"
 	"Tux"								"1"
+	"UGC 4vs4 Silver Participant Season 1"				"1"
+	"UGC 4vs4 Steel Participant Season 1"				"1"
 	"UGC 6vs6 1st Place Platinum Season 13"				"1"
+	"UGC 6vs6 1st Place Platinum Season 14"				"1"
 	"UGC 6vs6 2nd Place Platinum Season 13"				"1"
+	"UGC 6vs6 2nd Place Platinum Season 14"				"1"
 	"UGC 6vs6 3rd Place Platinum Season 13"				"1"
+	"UGC 6vs6 3rd Place Platinum Season 14"				"1"
 	"UGC 6vs6 European Participant Season 11"			"1"
+	"UGC 6vs6 Gold Participant Season 14"				"1"
 	"UGC 6vs6 Iron Participant Season 13"				"1"
+	"UGC 6vs6 Iron Participant Season 14"				"1"
 	"UGC 6vs6 Platinum Participant Season 11"			"1"
 	"UGC 6vs6 Platinum Participant Season 13"			"1"
+	"UGC 6vs6 Platinum Participant Season 14"			"1"
 	"UGC 6vs6 Silver Participant Season 11"				"1"
 	"UGC 6vs6 Silver Participant Season 13"				"1"
+	"UGC 6vs6 Silver Participant Season 14"				"1"
 	"UGC 6vs6 Steel Participant Season 11"				"1"
 	"UGC 6vs6 Steel Participant Season 13"				"1"
+	"UGC 6vs6 Steel Participant Season 14"				"1"
 	"UGC Highlander 1st Place European Platinum Season 6"		"1"
 	"UGC Highlander 1st Place European Silver Season 6"		"1"
 	"UGC Highlander 1st Place European Steel Season 6"		"1"
 	"UGC Highlander 1st Place Gold Season 11"			"1"
+	"UGC Highlander 1st Place Gold Season 12"			"1"
 	"UGC Highlander 1st Place Gold Season 9"			"1"
 	"UGC Highlander 1st Place Iron Season 11"			"1"
 	"UGC Highlander 1st Place Iron Season 8"			"1"
@@ -1512,11 +1521,13 @@
 	"UGC Highlander 1st Place North American Silver Season 6"	"1"
 	"UGC Highlander 1st Place North American Steel Season 6"	"1"
 	"UGC Highlander 1st Place Platinum Season 11"			"1"
+	"UGC Highlander 1st Place Platinum Season 12"			"1"
 	"UGC Highlander 1st Place Platinum Season 8"			"1"
 	"UGC Highlander 1st Place Platinum Season 9"			"1"
 	"UGC Highlander 1st Place Season 8"				"1"
 	"UGC Highlander 1st Place Season 9"				"1"
 	"UGC Highlander 1st Place Silver Season 11"			"1"
+	"UGC Highlander 1st Place Silver Season 12"			"1"
 	"UGC Highlander 1st Place Silver Season 8"			"1"
 	"UGC Highlander 1st Place Silver Season 9"			"1"
 	"UGC Highlander 1st Place South American Platinum Season 6"	"1"
@@ -1528,6 +1539,7 @@
 	"UGC Highlander 2nd Place European Silver Season 6"		"1"
 	"UGC Highlander 2nd Place European Steel Season 6"		"1"
 	"UGC Highlander 2nd Place Gold Season 11"			"1"
+	"UGC Highlander 2nd Place Gold Season 12"			"1"
 	"UGC Highlander 2nd Place Gold Season 9"			"1"
 	"UGC Highlander 2nd Place Iron Season 11"			"1"
 	"UGC Highlander 2nd Place Iron Season 8"			"1"
@@ -1536,11 +1548,13 @@
 	"UGC Highlander 2nd Place North American Silver Season 6"	"1"
 	"UGC Highlander 2nd Place North American Steel Season 6"	"1"
 	"UGC Highlander 2nd Place Platinum Season 11"			"1"
+	"UGC Highlander 2nd Place Platinum Season 12"			"1"
 	"UGC Highlander 2nd Place Platinum Season 8"			"1"
 	"UGC Highlander 2nd Place Platinum Season 9"			"1"
 	"UGC Highlander 2nd Place Season 8"				"1"
 	"UGC Highlander 2nd Place Season 9"				"1"
 	"UGC Highlander 2nd Place Silver Season 11"			"1"
+	"UGC Highlander 2nd Place Silver Season 12"			"1"
 	"UGC Highlander 2nd Place Silver Season 8"			"1"
 	"UGC Highlander 2nd Place Silver Season 9"			"1"
 	"UGC Highlander 2nd Place South American Platinum Season 6"	"1"
@@ -1552,6 +1566,7 @@
 	"UGC Highlander 3rd Place European Silver Season 6"		"1"
 	"UGC Highlander 3rd Place European Steel Season 6"		"1"
 	"UGC Highlander 3rd Place Gold Season 11"			"1"
+	"UGC Highlander 3rd Place Gold Season 12"			"1"
 	"UGC Highlander 3rd Place Gold Season 9"			"1"
 	"UGC Highlander 3rd Place Iron Season 11"			"1"
 	"UGC Highlander 3rd Place Iron Season 8"			"1"
@@ -1560,11 +1575,13 @@
 	"UGC Highlander 3rd Place North American Silver Season 6"	"1"
 	"UGC Highlander 3rd Place North American Steel Season 6"	"1"
 	"UGC Highlander 3rd Place Platinum Season 11"			"1"
+	"UGC Highlander 3rd Place Platinum Season 12"			"1"
 	"UGC Highlander 3rd Place Platinum Season 8"			"1"
 	"UGC Highlander 3rd Place Platinum Season 9"			"1"
 	"UGC Highlander 3rd Place Season 8"				"1"
 	"UGC Highlander 3rd Place Season 9"				"1"
 	"UGC Highlander 3rd Place Silver Season 11"			"1"
+	"UGC Highlander 3rd Place Silver Season 12"			"1"
 	"UGC Highlander 3rd Place Silver Season 8"			"1"
 	"UGC Highlander 3rd Place Silver Season 9"			"1"
 	"UGC Highlander 3rd Place South American Platinum Season 6"	"1"
@@ -1573,19 +1590,24 @@
 	"UGC Highlander 3rd Place Steel Season 8"			"1"
 	"UGC Highlander 3rd Place Steel Season 9"			"1"
 	"UGC Highlander Gold Participant Season 11"			"1"
+	"UGC Highlander Gold Participant Season 12"			"1"
 	"UGC Highlander Gold Participant Season 9"			"1"
 	"UGC Highlander Iron Participant Season 11"			"1"
+	"UGC Highlander Iron Participant Season 12"			"1"
 	"UGC Highlander Iron Participant Season 9"			"1"
 	"UGC Highlander Participant Season 8"				"1"
 	"UGC Highlander Platinum Participant Season 11"			"1"
+	"UGC Highlander Platinum Participant Season 12"			"1"
 	"UGC Highlander Platinum Participant Season 6"			"1"
 	"UGC Highlander Platinum Participant Season 8"			"1"
 	"UGC Highlander Platinum Participant Season 9"			"1"
 	"UGC Highlander Silver Participant Season 11"			"1"
+	"UGC Highlander Silver Participant Season 12"			"1"
 	"UGC Highlander Silver Participant Season 6"			"1"
 	"UGC Highlander Silver Participant Season 8"			"1"
 	"UGC Highlander Silver Participant Season 9"			"1"
 	"UGC Highlander Steel Participant Season 11"			"1"
+	"UGC Highlander Steel Participant Season 12"			"1"
 	"UGC Highlander Steel Participant Season 6"			"1"
 	"UGC Highlander Steel Participant Season 8"			"1"
 	"UGC Highlander Steel Participant Season 9"			"1"
@@ -1666,11 +1688,13 @@
 	"tw_scoutbot_armor"						"1"
 	//___________________________ Soldier ___________________________\\
 	"Antarctic Parka"						"1"
+	"Exquisite Rack"						"1"
 	"Fancy Dress Uniform"						"1"
 	"Lieutenant Bites"						"1"
 	"Lord Cockswain's Novelty Mutton Chops and Pipe"		"1"
 	"Marshall's Mutton Chops"					"1"
 	"Soldier's Sparkplug"						"1"
+	"Soldier's Stash"						"1"
 	"The Brawling Buccaneer"					"1"
 	"The Captain's Cocktails"					"1"
 	"The Classified Coif"						"1"
@@ -1708,7 +1732,7 @@
 	"The Pyrotechnic Tote"						"1"
 	"The Russian Rocketeer"						"1"
 	"The Scrap Sack"						"1"
-	"The Senguko Scorcher"						"1"
+	"The Sengoku Scorcher"						"1"
 	"The Soot Suit"							"1"
 	"The Steel Sixpack"						"1"
 	"The Sub Zero Suit"						"1"
@@ -1811,6 +1835,7 @@
 	"The Joe-on-the-Go"						"1"
 	"The Level Three Chin"						"1"
 	"The Lonesome Loafers"						"1"
+	"The Pencil Pusher"						"1"
 	"The Pocket Purrer"						"1"
 	"The Pocket Pyro"						"1"
 	"The Prize Plushy"						"1"
@@ -1901,6 +1926,7 @@
 	"The Sky Captain"						"1"
 	"The Sneaky Spats of Sneaking"					"1"
 	"The Spectre's Spectacles"					"1"
+	"The Spycrab"							"1"
 	"tw_spybot_armor"						"1"
 
 	//------------------- Noisemakers (Total: 14) -------------------\\
@@ -1919,7 +1945,7 @@
 	"Promotional Noise Maker - Fireworks"				"0"
 	"Promotional Noise Maker - Koto"				"0"
 
-	//---------------------- Other (Total: 27) ----------------------\\
+	//---------------------- Other (Total: 12) ----------------------\\
 	//_________________________ All classes _________________________\\
 	"Basic Spellbook"						"1"
 	"Halloween Spellbook"						"1"
@@ -1979,8 +2005,36 @@
 	"Upgradeable TF_WEAPON_KNIFE"					"1"
 	"Upgradeable TF_WEAPON_REVOLVER"				"1"
 
-	//---------------------- Taunts (Total: 5) ----------------------\\
+	//--------------------- Taunts (Total: 20) ----------------------\\
+	//_________________________ All classes _________________________\\
+	"Conga Taunt"							"0"
+	"Flippin' Awesome Taunt"					"0"
+	"High Five Taunt"						"0"
+	"Laugh Taunt"							"1"
+	"RPS Taunt"							"0"
+	"Replay Taunt"							"1"
+	"Skullcracker Taunt"						"0"
+	"Square Dance Taunt"						"0"
+	"The Shred Alert"						"1"
+	//____________________________ Scout ____________________________\\
+	"Battin' a Thousand Taunt"					"0"
+	"Deep Fried Desire Taunt"					"0"
+	//___________________________ Soldier ___________________________\\
+	"Fresh Brewed Victory Taunt"					"0"
+	//____________________________ Pyro _____________________________\\
+	"Party Trick Taunt"						"0"
+	//___________________________ Demoman ___________________________\\
+	"Oblooterated Taunt"						"0"
+	"Spent Well Spirits Taunt"					"0"
+	//__________________________ Engineer ___________________________\\
+	"Rancho Relaxo Taunt"						"0"
+	//____________________________ Medic ____________________________\\
 	"Meet the Medic Heroic Taunt"					"1"
+	"Results Are In Taunt"						"0"
+	//___________________________ Sniper ____________________________\\
+	"I See You Taunt"						"0"
+	//_____________________________ Spy _____________________________\\
+	"Buy A Life Taunt"						"0"
 
 	//--------- Usable action items/MvM canteens (Total: 3) ---------\\
 	"Battery Canteens"						"1"
