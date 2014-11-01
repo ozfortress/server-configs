@@ -1,8 +1,8 @@
-// Whitelist generated at Wed, 01 Oct 2014 03:51:34 +0200
-// Whitelist: ozfortress 6v6 (OWL 11) (ID: 908)
+// Whitelist generated at Sat, 01 Nov 2014 02:08:49 +0100
+// Custom Whitelist ID: 1551
 
 // Share or view this whitelist:
-//	http://whitelist.tf/ozfortress_6v6
+//	http://whitelist.tf/1551
 
 // New items added to the game are: NOT allowed
 // Hats are: allowed
@@ -91,12 +91,13 @@
 	//_____________________________ Spy _____________________________\\
 	"Conniver's Kunai"						"1"
 
-	//------------- Allowed weapon reskins (Total: 116) -------------\\
+	//------------- Allowed weapon reskins (Total: 117) -------------\\
 	//_________________________ All classes _________________________\\
 	"Gold Frying Pan"						"1"
 	"Saxxy"								"1"
 	//______________________ Multiple classes _______________________\\
 	"Frying Pan"							"1"
+	"Necro Smasher"							"1"
 	"TTG Max Pistol"						"1"
 	"TTG Max Pistol - Poker Night"					"1"
 	"The Bat Outta Hell"						"1"
@@ -369,7 +370,7 @@
 	"The Wanga Prick"						"0"
 	"Your Eternal Reward"						"0"
 
-	//------------------ Gifting items (Total: 17) ------------------\\
+	//------------------ Gifting items (Total: 19) ------------------\\
 	"Companion Square Promo Package"				"1"
 	"Gift - 1 Player"						"1"
 	"Gift - 1 RoboKey 2013"						"1"
@@ -377,6 +378,8 @@
 	"Gift - 23 RoboKeys 2013"					"1"
 	"Gift - 23 SummerKeys 2013"					"1"
 	"Gift - 24 Players"						"1"
+	"Halloween Giveaway Cauldron 2014 (Achievement)"		"1"
+	"Halloween Giveaway Cauldron 2014 (Base)"			"1"
 	"Halloween Giveaway Package 2011 (Cauldron)"			"1"
 	"Manniversary Giveaway Package"					"1"
 	"Pallet of Crates"						"1"
@@ -388,8 +391,10 @@
 	"Steam Translation Package"					"1"
 	"Store Purchase Promotion Package"				"1"
 
-	//----------- Halloween/Full Moon items (Total: 164) ------------\\
+	//----------- Halloween/Full Moon items (Total: 225) ------------\\
 	//_________________________ All classes _________________________\\
+	"Cursed Cruise"							"0"
+	"Ghost of Spies Checked Past"					"0"
 	"Guano"								"0"
 	"Halloween Mask - Demoman"					"0"
 	"Halloween Mask - Engineer"					"0"
@@ -401,6 +406,7 @@
 	"Halloween Mask - Soldier"					"0"
 	"Halloween Mask - Spy"						"0"
 	"Horseless Headless Horseman's Head"				"0"
+	"Kritz Or Treat Canteen"					"0"
 	"MONOCULUS!"							"0"
 	"Mildly Disturbing Halloween Mask"				"0"
 	"Quoth"								"0"
@@ -410,9 +416,11 @@
 	"The Birdie Bonnet"						"0"
 	"The Boo Balloon"						"0"
 	"The Cryptic Keepsake"						"0"
+	"The Dadliest Catch"						"0"
 	"The Dark Helm"							"0"
 	"The Dead Little Buddy"						"0"
 	"The Haunted Hat"						"0"
+	"The Hooded Haunter"						"0"
 	"The Magical Mercenary"						"0"
 	"The Manneater"							"0"
 	"The One-Way Ticket"						"0"
@@ -430,8 +438,14 @@
 	"The Snaggletoothed Stetson"					"0"
 	//____________________________ Scout ____________________________\\
 	"B-ankh!"							"0"
+	"Claws And Infect"						"0"
+	"Crazy Legs"							"0"
 	"Faun Feet"							"0"
+	"Fowl Fists"							"0"
 	"Futankhamun"							"0"
+	"Head Hunter"							"0"
+	"Nugget Noggin"							"0"
+	"Talon Trotters"						"0"
 	"The Alien Cranium"						"0"
 	"The Biomech Backpack"						"0"
 	"The Face Plante"						"0"
@@ -444,11 +458,15 @@
 	"Wrap Battler"							"0"
 	"Zombie Scout"							"0"
 	//___________________________ Soldier ___________________________\\
+	"Battle Bird"							"0"
+	"Ghoul Gibbin' Gear"						"0"
 	"Grub Grenades"							"0"
+	"Hellhunter's Headpiece"					"0"
 	"Idiot Box"							"0"
 	"Lieutenant Bites the Dust"					"0"
 	"Shoestring Budget"						"0"
 	"Steel Pipes"							"0"
+	"Supernatural Stalker"						"0"
 	"The Cadaver's Capper"						"0"
 	"The Faux Manchu"						"0"
 	"The Freedom Feathers"						"0"
@@ -462,12 +480,17 @@
 	"The Zipperface"						"0"
 	"Zombie Soldier"						"0"
 	//____________________________ Pyro _____________________________\\
+	"Arsonist Apparatus"						"0"
 	"Blazing Bull"							"0"
 	"Bozo's Bouffant"						"0"
 	"Burny's Boney Bonnet"						"0"
 	"Carrion Companion"						"0"
+	"Creature's Grin"						"0"
 	"Fallen Angel"							"0"
 	"Hard-Headed Hardware"						"0"
+	"Lollichop Licker"						"0"
+	"Moccasin Machinery"						"0"
+	"Mr. Juice"							"0"
 	"PY-40 Incinibot"						"0"
 	"Tail From the Crypt"						"0"
 	"The Abhorrent Appendages"					"0"
@@ -494,9 +517,14 @@
 	"The Spectralnaut"						"0"
 	"The Vicious Visage"						"0"
 	"Up Pyroscopes"							"0"
+	"Vampyro"							"0"
 	"Zombie Pyro"							"0"
 	//___________________________ Demoman ___________________________\\
 	"Cap'n Calamari"						"0"
+	"Explosive Mind"						"0"
+	"Eyeborg"							"0"
+	"Forgotten King's Pauldrons"					"0"
+	"Forgotten King's Restless Head"				"0"
 	"Hair of the Dog"						"0"
 	"Pickled Paws"							"0"
 	"Polly Putrid"							"0"
@@ -510,8 +538,12 @@
 	"The Transylvania Top"						"0"
 	"Zombie Demo"							"0"
 	//____________________________ Heavy ____________________________\\
+	"Bone-Cut Belt"							"0"
+	"Bull Locks"							"0"
 	"Can Opener"							"0"
+	"Immobile Suit"							"0"
 	"Ivan The Inedible"						"0"
+	"Minsk Beef"							"0"
 	"Soviet Stitch-Up"						"0"
 	"Steel-Toed Stompers"						"0"
 	"The Chicken Kiev"						"0"
@@ -523,11 +555,16 @@
 	"The Monstrous Mandible"					"0"
 	"Zombie Heavy"							"0"
 	//__________________________ Engineer ___________________________\\
+	"Beep Man"							"0"
 	"Buzz Killer"							"0"
 	"Frontier Flyboy"						"0"
+	"Garden Bristles"						"0"
+	"Iron Fist"							"0"
 	"Legend of Bugfoot"						"0"
+	"Soul of 'Spenser's Past"					"0"
 	"The Grease Monkey"						"0"
 	"The Master Mind"						"0"
+	"Tiny Texan"							"0"
 	"Zombie Engineer"						"0"
 	//____________________________ Medic ____________________________\\
 	"Archimedes the Undying"					"0"
@@ -535,8 +572,12 @@
 	"Dr. Gogglestache"						"0"
 	"Einstein"							"0"
 	"Emerald Jarate"						"0"
+	"Herzensbrecher"						"0"
+	"Hundekopf"							"0"
+	"Kriegsmaschine-9000"						"0"
 	"Medimedes"							"0"
 	"Ramses' Regalia"						"0"
+	"Templar's Spirit"						"0"
 	"Teutonkahmun"							"0"
 	"The Alternative Medicine Mann"					"0"
 	"The Lo-Grav Loafers"						"0"
@@ -545,19 +586,33 @@
 	"The Surgeon's Space Suit"					"0"
 	"The Trepanabotomizer"						"0"
 	"The Vicar's Vestments"						"0"
+	"Transylvanian Toupe"						"0"
+	"Vampiric Vesture"						"0"
+	"Wings of Purity"						"0"
 	"Zombie Medic"							"0"
 	//___________________________ Sniper ____________________________\\
+	"Conspiratorial Cut"						"0"
 	"Garlic Flank Stake"						"0"
 	"Holy Hunter"							"0"
+	"Kanga Kickers"							"0"
+	"Marsupial Man"							"0"
+	"Marsupial Muzzle"						"0"
+	"Mr. Mundee's Wild Ride"					"0"
+	"Roo Rippers"							"0"
 	"Silver Bullets"						"0"
 	"Sir Shootsalot"						"0"
+	"Skinless Slashers"						"0"
 	"The Carious Chameleon"						"0"
 	"The Hallowed Headcase"						"0"
 	"Zombie Sniper"							"0"
 	//_____________________________ Spy _____________________________\\
 	"Bozo's Brogues"						"0"
+	"Facepeeler"							"0"
 	"Griffin's Gog"							"0"
 	"Intangible Ascot"						"0"
+	"Nightmare Hunter"						"0"
+	"Rogue's Rabbit"						"0"
+	"Shadowman's Shade"						"0"
 	"The Bountiful Bow"						"0"
 	"The Candyman's Cap"						"0"
 	"The Foul Cowl"							"0"
@@ -1033,7 +1088,7 @@
 	"The Stealth Steeler"						"1"
 	"tw_spybot_hood"						"1"
 
-	//--------------------- Miscs (Total: 979) ----------------------\\
+	//--------------------- Miscs (Total: 980) ----------------------\\
 	//_________________________ All classes _________________________\\
 	"AU Highlander Community League First Place Season 1"		"1"
 	"AU Highlander Community League Participant Season 1"		"1"
@@ -1431,6 +1486,7 @@
 	"Employee Badge Plat"						"1"
 	"Faerie Solitaire Pin"						"1"
 	"Flair!"							"1"
+	"Florida LAN Medal 2014"					"1"
 	"Glitched Circuit Board"					"1"
 	"Graybanns"							"1"
 	"Heart of Gold"							"1"
@@ -2041,11 +2097,12 @@
 	"Promotional Noise Maker - Fireworks"				"0"
 	"Promotional Noise Maker - Koto"				"0"
 
-	//---------------------- Other (Total: 12) ----------------------\\
+	//---------------------- Other (Total: 13) ----------------------\\
 	//_________________________ All classes _________________________\\
 	"Basic Spellbook"						"1"
 	"Halloween Spellbook"						"1"
 	"Secret Diary"							"1"
+	"TF_WEAPON_SPELLBOOK"						"1"
 	"CheatDetectedHonesty"						"1"
 	"CheatDetectedMajor"						"1"
 	"CheatDetectedMinor"						"1"
@@ -2113,24 +2170,24 @@
 	"Square Dance Taunt"						"0"
 	"The Shred Alert"						"1"
 	//____________________________ Scout ____________________________\\
-	"Battin' a Thousand Taunt"					"0"
-	"Deep Fried Desire Taunt"					"0"
+	"Battin' a Thousand Taunt"					"1"
+	"Deep Fried Desire Taunt"					"1"
 	//___________________________ Soldier ___________________________\\
-	"Fresh Brewed Victory Taunt"					"0"
+	"Fresh Brewed Victory Taunt"					"1"
 	//____________________________ Pyro _____________________________\\
-	"Party Trick Taunt"						"0"
+	"Party Trick Taunt"						"1"
 	//___________________________ Demoman ___________________________\\
-	"Oblooterated Taunt"						"0"
-	"Spent Well Spirits Taunt"					"0"
+	"Oblooterated Taunt"						"1"
+	"Spent Well Spirits Taunt"					"1"
 	//__________________________ Engineer ___________________________\\
-	"Rancho Relaxo Taunt"						"0"
+	"Rancho Relaxo Taunt"						"1"
 	//____________________________ Medic ____________________________\\
 	"Meet the Medic Heroic Taunt"					"1"
-	"Results Are In Taunt"						"0"
+	"Results Are In Taunt"						"1"
 	//___________________________ Sniper ____________________________\\
-	"I See You Taunt"						"0"
+	"I See You Taunt"						"1"
 	//_____________________________ Spy _____________________________\\
-	"Buy A Life Taunt"						"0"
+	"Buy A Life Taunt"						"1"
 
 	//--------- Usable action items/MvM canteens (Total: 3) ---------\\
 	"Battery Canteens"						"1"
