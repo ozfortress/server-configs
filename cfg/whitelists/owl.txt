@@ -1,8 +1,8 @@
-// Whitelist generated at Sat, 01 Nov 2014 02:08:49 +0100
-// Custom Whitelist ID: 1551
+// Whitelist generated at Sun, 14 Dec 2014 04:10:24 +0100
+// Whitelist: ozfortress 6v6 (OWL 12) (ID: 1551)
 
 // Share or view this whitelist:
-//	http://whitelist.tf/1551
+//	http://whitelist.tf/ozfortress_6v6_s12
 
 // New items added to the game are: NOT allowed
 // Hats are: allowed
@@ -91,7 +91,7 @@
 	//_____________________________ Spy _____________________________\\
 	"Conniver's Kunai"						"1"
 
-	//------------- Allowed weapon reskins (Total: 117) -------------\\
+	//------------- Allowed weapon reskins (Total: 118) -------------\\
 	//_________________________ All classes _________________________\\
 	"Gold Frying Pan"						"1"
 	"Saxxy"								"1"
@@ -102,6 +102,7 @@
 	"TTG Max Pistol - Poker Night"					"1"
 	"The Bat Outta Hell"						"1"
 	"The Conscientious Objector"					"1"
+	"The Crossing Guard"						"1"
 	"The Freedom Staff"						"1"
 	"The Ham Shank"							"1"
 	"The Memory Maker"						"1"
@@ -370,11 +371,15 @@
 	"The Wanga Prick"						"0"
 	"Your Eternal Reward"						"0"
 
-	//------------------ Gifting items (Total: 19) ------------------\\
+	//------------------ Gifting items (Total: 23) ------------------\\
 	"Companion Square Promo Package"				"1"
+	"Gift - 1 Duck Token"						"1"
+	"Gift - 1 EOTL Key"						"1"
 	"Gift - 1 Player"						"1"
 	"Gift - 1 RoboKey 2013"						"1"
 	"Gift - 1 SummerKey 2013"					"1"
+	"Gift - 23 Duck Tokens"						"1"
+	"Gift - 23 EOTL Keys"						"1"
 	"Gift - 23 RoboKeys 2013"					"1"
 	"Gift - 23 SummerKeys 2013"					"1"
 	"Gift - 24 Players"						"1"
@@ -620,14 +625,19 @@
 	"Under Cover"							"0"
 	"Zombie Spy"							"0"
 
-	//---------------------- Hats (Total: 455) ----------------------\\
+	//---------------------- Hats (Total: 466) ----------------------\\
 	//_________________________ All classes _________________________\\
 	"A Rather Festive Tree"						"1"
 	"Benefactor's Kanmuri"						"1"
+	"Brimstone"							"1"
 	"Camera Helm"							"1"
+	"Crown of the Old Kingdom"					"1"
 	"Daily Duel Winner Reward Hat"					"1"
 	"Daily Gift Giver Reward Hat"					"1"
 	"Daily Map Stamp Reward Hat"					"1"
+	"EOTL_Brisk-weather Beanie"					"1"
+	"EOTL_FURCAP"							"1"
+	"EOTL_hiphunter_hat"						"1"
 	"Ellis Hat"							"1"
 	"Friendly Item"							"1"
 	"Ghastly Gibus"							"1"
@@ -765,6 +775,8 @@
 	"Chieftain's Challenge"						"1"
 	"Defiant Spartan"						"1"
 	"Dr's Dapper Topper"						"1"
+	"EOTL_soldier_garrison"						"1"
+	"EOTL_soldierhat"						"1"
 	"Full Metal Drill Hat"						"1"
 	"Furious Fukaamigasa"						"1"
 	"Ground Control"						"1"
@@ -813,6 +825,7 @@
 	"Area 451"							"1"
 	"Brigade Helm"							"1"
 	"Connoisseur's Cap"						"1"
+	"EOTL_Skier"							"1"
 	"Employee of the Mmmph"						"1"
 	"Firewall Helmet"						"1"
 	"Handyman's Handle"						"1"
@@ -859,6 +872,7 @@
 	"The Mair Mask"							"1"
 	"The Metal Slug"						"1"
 	"The Mishap Mercenary"						"1"
+	"The Nabler"							"1"
 	"The Necronomicrown"						"1"
 	"The Person in the Iron Mask"					"1"
 	"The Rusty Reaper"						"1"
@@ -876,6 +890,7 @@
 	"Demoman Hallmark"						"1"
 	"Demoman Tricorne"						"1"
 	"Demoman's Fro"							"1"
+	"EOTL_summerhat"						"1"
 	"Glengarry Bonnet"						"1"
 	"Mask of the Shaman"						"1"
 	"MvM GateBot Light Demoman"					"1"
@@ -919,6 +934,7 @@
 	"Copper's Hard Top"						"1"
 	"Coupe D'isaster"						"1"
 	"Dragonborn Helmet"						"1"
+	"EOTL_Flat_cap"							"1"
 	"Football Helmet"						"1"
 	"Hard Counter"							"1"
 	"Heavy Do-rag"							"1"
@@ -1088,7 +1104,7 @@
 	"The Stealth Steeler"						"1"
 	"tw_spybot_hood"						"1"
 
-	//--------------------- Miscs (Total: 980) ----------------------\\
+	//--------------------- Miscs (Total: 1013) ---------------------\\
 	//_________________________ All classes _________________________\\
 	"AU Highlander Community League First Place Season 1"		"1"
 	"AU Highlander Community League Participant Season 1"		"1"
@@ -1122,6 +1138,7 @@
 	"Duel Medal Gold"						"1"
 	"Duel Medal Plat"						"1"
 	"Duel Medal Silver"						"1"
+	"EOTL_hiphunter_boots"						"1"
 	"ESH Ultiduo 1 Gold Medal"					"1"
 	"ESH Ultiduo 2 Gold Medal"					"1"
 	"ESH Ultiduo 3 Gold Medal"					"1"
@@ -1487,6 +1504,22 @@
 	"Faerie Solitaire Pin"						"1"
 	"Flair!"							"1"
 	"Florida LAN Medal 2014"					"1"
+	"GAlloween Bronze Medal 2013"					"1"
+	"GAlloween Bronze Medal 2014"					"1"
+	"GAlloween Gold Medal 2013"					"1"
+	"GAlloween Gold Medal 2014"					"1"
+	"GAlloween Participant Badge 2013"				"1"
+	"GAlloween Participant Badge 2014"				"1"
+	"GAlloween Silver Medal 2013"					"1"
+	"GAlloween Silver Medal 2014"					"1"
+	"Gamers Assembly Bronze Medal 2013"				"1"
+	"Gamers Assembly Bronze Medal 2014"				"1"
+	"Gamers Assembly Gold Medal 2013"				"1"
+	"Gamers Assembly Gold Medal 2014"				"1"
+	"Gamers Assembly Participant Badge 2013"			"1"
+	"Gamers Assembly Participant Badge 2014"			"1"
+	"Gamers Assembly Silver Medal 2013"				"1"
+	"Gamers Assembly Silver Medal 2014"				"1"
 	"Glitched Circuit Board"					"1"
 	"Graybanns"							"1"
 	"Heart of Gold"							"1"
@@ -1603,6 +1636,8 @@
 	"The Tuxxy"							"1"
 	"The Vigilant Pin"						"1"
 	"The Whale Bone Charm"						"1"
+	"Thought that Counts"						"1"
+	"Tomb Readers"							"1"
 	"Tour of Duty Badge Advanced 1"					"1"
 	"Tour of Duty Badge Advanced 2"					"1"
 	"Tour of Duty Badge Advanced 3"					"1"
@@ -1776,6 +1811,7 @@
 	//______________________ Multiple classes _______________________\\
 	"Bowtie"							"1"
 	"Buck Turner All-Stars"						"1"
+	"EOTL_hiphunter_jacket"						"1"
 	"Hillbilly Speed-Bump"						"1"
 	"Pocket Medic"							"1"
 	"Promo Champ Stamp"						"1"
@@ -1799,6 +1835,8 @@
 	"Ball-Kicking Boots"						"1"
 	"Chucklenuts"							"1"
 	"Dillinger's Duffel"						"1"
+	"EOTL_blinks_breeches"						"1"
+	"EOTL_thermal_sleeves"						"1"
 	"Flunkyware"							"1"
 	"Lucky No. 42"							"1"
 	"MNC Mascot Outfit"						"1"
@@ -1833,6 +1871,8 @@
 	"tw_scoutbot_armor"						"1"
 	//___________________________ Soldier ___________________________\\
 	"Antarctic Parka"						"1"
+	"EOTL_Coldfront Curbstompers"					"1"
+	"EOTL_beard"							"1"
 	"Exquisite Rack"						"1"
 	"Fancy Dress Uniform"						"1"
 	"Lieutenant Bites"						"1"
@@ -1856,8 +1896,10 @@
 	"The War on Smissmas Battle Socks"				"1"
 	"The Whirly Warrior"						"1"
 	"Web Easteregg Medal"						"1"
+	"eotl_winter_coat"						"1"
 	"tw_soldierbot_armor"						"1"
 	//____________________________ Pyro _____________________________\\
+	"EOTL_pyro_sweater"						"1"
 	"El Muchacho"							"1"
 	"Pop-eyes"							"1"
 	"Pyro Monocle"							"1"
@@ -1893,6 +1935,8 @@
 	"Aladdin's Private Reserve"					"1"
 	"Blind Justice"							"1"
 	"Bushi-Dou"							"1"
+	"EOTL_demo_dynamite"						"1"
+	"EOTL_demopants"						"1"
 	"Highland High Heels"						"1"
 	"Mann of the Seven Sees"					"1"
 	"Seeing Double"							"1"
@@ -1927,7 +1971,10 @@
 	"Combat Slacks"							"1"
 	"Der Maschinensoldaten-Helm"					"1"
 	"Die Regime-Panzerung"						"1"
+	"EOTL_Ursa Major"						"1"
+	"EOTL_sheavyshirt"						"1"
 	"Gone Commando"							"1"
+	"Jungle Booty"							"1"
 	"MvM GateBot Light Heavy"					"1"
 	"The Apparatchik's Apparel"					"1"
 	"The Bear Necessities"						"1"
@@ -1958,6 +2005,8 @@
 	"Yuri's Revenge"						"1"
 	"tw_heavybot_armor"						"1"
 	//__________________________ Engineer ___________________________\\
+	"EOTL_Insulated_innovator"					"1"
+	"EOTL_winter_pants"						"1"
 	"Ein"								"1"
 	"Face Full of Festive"						"1"
 	"Googly Gazer"							"1"
@@ -2097,9 +2146,10 @@
 	"Promotional Noise Maker - Fireworks"				"0"
 	"Promotional Noise Maker - Koto"				"0"
 
-	//---------------------- Other (Total: 13) ----------------------\\
+	//---------------------- Other (Total: 14) ----------------------\\
 	//_________________________ All classes _________________________\\
 	"Basic Spellbook"						"1"
+	"Duck Badge"							"1"
 	"Halloween Spellbook"						"1"
 	"Secret Diary"							"1"
 	"TF_WEAPON_SPELLBOOK"						"1"
@@ -2158,7 +2208,7 @@
 	"Upgradeable TF_WEAPON_KNIFE"					"1"
 	"Upgradeable TF_WEAPON_REVOLVER"				"1"
 
-	//--------------------- Taunts (Total: 20) ----------------------\\
+	//--------------------- Taunts (Total: 21) ----------------------\\
 	//_________________________ All classes _________________________\\
 	"Conga Taunt"							"0"
 	"Flippin' Awesome Taunt"					"0"
@@ -2176,6 +2226,7 @@
 	"Fresh Brewed Victory Taunt"					"1"
 	//____________________________ Pyro _____________________________\\
 	"Party Trick Taunt"						"1"
+	"Pool Party Taunt"						"0"
 	//___________________________ Demoman ___________________________\\
 	"Oblooterated Taunt"						"1"
 	"Spent Well Spirits Taunt"					"1"
