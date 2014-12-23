@@ -1,8 +1,8 @@
-// Whitelist generated at Sun, 14 Dec 2014 04:10:24 +0100
-// Whitelist: ozfortress 6v6 (OWL 12) (ID: 1551)
+// Whitelist generated at Tue, 23 Dec 2014 06:20:55 +0100
+// Custom Whitelist ID: 2510
 
 // Share or view this whitelist:
-//	http://whitelist.tf/ozfortress_6v6_s12
+//	http://whitelist.tf/2510
 
 // New items added to the game are: NOT allowed
 // Hats are: allowed
@@ -36,7 +36,10 @@
 
 // Allowed weapons for Demoman
 // - Primary
+//  * Iron Bomber
 //  * Loose Cannon
+// - Secondary
+//  * Quickiebomb Launcher
 
 // Allowed weapons for Heavy
 // - Secondary
@@ -65,7 +68,7 @@
 {
 	"unlisted_items_default_to"		"0"
 
-	//----------------- Allowed weapons (Total: 16) -----------------\\
+	//----------------- Allowed weapons (Total: 18) -----------------\\
 	//______________________ Multiple classes _______________________\\
 	"The Pain Train"						"1"
 	//____________________________ Scout ____________________________\\
@@ -76,7 +79,9 @@
 	"The Escape Plan"						"1"
 	"The Gunboats"							"1"
 	//___________________________ Demoman ___________________________\\
+	"The Iron Bomber"						"1"
 	"The Loose Cannon"						"1"
+	"The Quickiebomb Launcher"					"1"
 	//____________________________ Heavy ____________________________\\
 	"The Dalokohs Bar"						"1"
 	//__________________________ Engineer ___________________________\\
@@ -91,11 +96,12 @@
 	//_____________________________ Spy _____________________________\\
 	"Conniver's Kunai"						"1"
 
-	//------------- Allowed weapon reskins (Total: 118) -------------\\
+	//------------- Allowed weapon reskins (Total: 122) -------------\\
 	//_________________________ All classes _________________________\\
 	"Gold Frying Pan"						"1"
 	"Saxxy"								"1"
 	//______________________ Multiple classes _______________________\\
+	"Festive Shotgun 2014"						"1"
 	"Frying Pan"							"1"
 	"Necro Smasher"							"1"
 	"TTG Max Pistol"						"1"
@@ -184,6 +190,7 @@
 	"Blood Botkiller Medi Gun Mk.I"					"1"
 	"Carbonado Botkiller Medi Gun Mk.I"				"1"
 	"Diamond Botkiller Medi Gun Mk.I"				"1"
+	"Festive Bonesaw 2014"						"1"
 	"Festive Crusader's Crossbow"					"1"
 	"Festive Medigun 2011"						"1"
 	"Festive Ubersaw"						"1"
@@ -196,6 +203,7 @@
 	"Blood Botkiller Sniper Rifle Mk.I"				"1"
 	"Carbonado Botkiller Sniper Rifle Mk.I"				"1"
 	"Diamond Botkiller Sniper Rifle Mk.I"				"1"
+	"Festive SMG 2014"						"1"
 	"Festive Sniper Rifle 2011"					"1"
 	"Gold Botkiller Sniper Rifle Mk.I"				"1"
 	"Gold Botkiller Sniper Rifle Mk.II"				"1"
@@ -208,6 +216,7 @@
 	"Carbonado Botkiller Knife Mk.I"				"1"
 	"Diamond Botkiller Knife Mk.I"					"1"
 	"Festive Knife 2011"						"1"
+	"Festive Revolver 2014"						"1"
 	"Festive Sapper"						"1"
 	"Gold Botkiller Knife Mk.I"					"1"
 	"Gold Botkiller Knife Mk.II"					"1"
@@ -222,8 +231,9 @@
 	"The Sharp Dresser"						"1"
 	"The Snack Attack"						"1"
 
-	//------------ Blocked weapons/reskins (Total: 137) -------------\\
+	//------------ Blocked weapons/reskins (Total: 141) -------------\\
 	//______________________ Multiple classes _______________________\\
+	"Panic Attack Shotgun"						"0"
 	"The B.A.S.E. Jumper"						"0"
 	"The Half-Zatoichi"						"0"
 	"The Reserve Shooter"						"0"
@@ -231,6 +241,7 @@
 	"Baby Face's Blaster"						"0"
 	"Bonk! Atomic Punch"						"0"
 	"Crit-a-Cola"							"0"
+	"Festive Bonk 2014"						"0"
 	"Festive Force-a-Nature"					"0"
 	"Mad Milk"							"0"
 	"Mutated Milk"							"0"
@@ -265,6 +276,7 @@
 	"The Righteous Bison"						"0"
 	//____________________________ Pyro _____________________________\\
 	"Festive Axtinguisher"						"0"
+	"Festive Backburner 2014"					"0"
 	"Festive Flare Gun"						"0"
 	"Promo Neon Annihilator"					"0"
 	"Sharpened Volcano Fragment"					"0"
@@ -286,6 +298,7 @@
 	//___________________________ Demoman ___________________________\\
 	"Ali Baba's Wee Booties"					"0"
 	"Festive Eyelander"						"0"
+	"Festive Targe 2014"						"0"
 	"Nessie's Nine Iron"						"0"
 	"Stickybomb Jumper"						"0"
 	"The Bootlegger"						"0"
@@ -625,7 +638,7 @@
 	"Under Cover"							"0"
 	"Zombie Spy"							"0"
 
-	//---------------------- Hats (Total: 466) ----------------------\\
+	//---------------------- Hats (Total: 476) ----------------------\\
 	//_________________________ All classes _________________________\\
 	"A Rather Festive Tree"						"1"
 	"Benefactor's Kanmuri"						"1"
@@ -768,6 +781,8 @@
 	"Thirst Blood"							"1"
 	"Ye Oiled Baker Boy"						"1"
 	"Ye Olde Baker Boy"						"1"
+	"dec2014 CoPilot_2014"						"1"
+	"dec2014 Marauders Mask"					"1"
 	"tw_scoutbot_hat"						"1"
 	//___________________________ Soldier ___________________________\\
 	"Armored Authority"						"1"
@@ -819,6 +834,7 @@
 	"Tyrant's Helm"							"1"
 	"Tyrantium Helmet"						"1"
 	"Worms Gear"							"1"
+	"dec2014 Skullcap"						"1"
 	"tw_soldierbot_helmet"						"1"
 	//____________________________ Pyro _____________________________\\
 	"Apparition's Aspect"						"1"
@@ -882,6 +898,7 @@
 	"The Waxy Wayfinder"						"1"
 	"The Winter Wonderland Wrap"					"1"
 	"Traffic Cone"							"1"
+	"dec2014 2014_pyromancer_hood"					"1"
 	"tw_pyrobot_helmet"						"1"
 	//___________________________ Demoman ___________________________\\
 	"Carouser's Capotain"						"1"
@@ -922,6 +939,8 @@
 	"The Tartan Shade"						"1"
 	"The Tavish DeGroot Experience"					"1"
 	"The Voodoo Juju (Slight Return)"				"1"
+	"dec2014 Comforter"						"1"
+	"dec2014 Viking Helmet"						"1"
 	"tw_demobot_helmet"						"1"
 	//____________________________ Heavy ____________________________\\
 	"Big Chief"							"1"
@@ -968,6 +987,8 @@
 	"The U-clank-a"							"1"
 	"Tough Guy's Toque"						"1"
 	"War Head"							"1"
+	"dec2014 The Big Papa"						"1"
+	"dec2014 heavy_parka"						"1"
 	"tw_heavybot_helmet"						"1"
 	//__________________________ Engineer ___________________________\\
 	"Big Country"							"1"
@@ -996,6 +1017,7 @@
 	"The Virtual Reality Headset"					"1"
 	"Vox Diabolus"							"1"
 	"Western Wear"							"1"
+	"dec2014 engineer_detectiveglasses"				"1"
 	"tw_engineerbot_helmet"						"1"
 	//____________________________ Medic ____________________________\\
 	"Baron von Havenaplane"						"1"
@@ -1033,6 +1055,7 @@
 	"The Weather Master"						"1"
 	"Titanium Tyrolean"						"1"
 	"Vintage Tyrolean"						"1"
+	"dec2014 Surgeon's Shako"					"1"
 	"tw_medibot_hat"						"1"
 	//___________________________ Sniper ____________________________\\
 	"Brim-Full Of Bullets"						"1"
@@ -1104,7 +1127,7 @@
 	"The Stealth Steeler"						"1"
 	"tw_spybot_hood"						"1"
 
-	//--------------------- Miscs (Total: 1013) ---------------------\\
+	//--------------------- Miscs (Total: 1065) ---------------------\\
 	//_________________________ All classes _________________________\\
 	"AU Highlander Community League First Place Season 1"		"1"
 	"AU Highlander Community League Participant Season 1"		"1"
@@ -1501,6 +1524,19 @@
 	"Employee Badge B"						"1"
 	"Employee Badge C"						"1"
 	"Employee Badge Plat"						"1"
+	"End of the Line Community Update Medal"			"1"
+	"FBTF Cup 6v6 Barts Rimet 1st Place Season 3"			"1"
+	"FBTF Cup 6v6 Barts Rimet 2nd Place Season 3"			"1"
+	"FBTF Cup 6v6 Barts Rimet 3rd Place Season 3"			"1"
+	"FBTF Cup 6v6 Barts Rimet Participant Season 3"			"1"
+	"FBTF Cup 6v6 Vic Basten 1st Place Season 3"			"1"
+	"FBTF Cup 6v6 Vic Basten 2nd Place Season 3"			"1"
+	"FBTF Cup 6v6 Vic Basten 3rd Place Season 3"			"1"
+	"FBTF Cup 6v6 Vic Basten Participant Season 3"			"1"
+	"FBTF Cup 6v6 Wastex Miller 1st Place Season 3"			"1"
+	"FBTF Cup 6v6 Wastex Miller 2nd Place Season 3"			"1"
+	"FBTF Cup 6v6 Wastex Miller 3rd Place Season 3"			"1"
+	"FBTF Cup 6v6 Wastex Miller Participant Season 3"		"1"
 	"Faerie Solitaire Pin"						"1"
 	"Flair!"							"1"
 	"Florida LAN Medal 2014"					"1"
@@ -1524,22 +1560,42 @@
 	"Graybanns"							"1"
 	"Heart of Gold"							"1"
 	"InfoShow LAN Party 2014 Participant"				"1"
-	"LBTF2 Access 1st Place Season 9"				"1"
-	"LBTF2 Access 2nd Place Season 9"				"1"
-	"LBTF2 Access 3rd Place Season 9"				"1"
-	"LBTF2 Access Participant Season 9"				"1"
-	"LBTF2 Central 1st Place Season 9"				"1"
-	"LBTF2 Central 2nd Place Season 9"				"1"
-	"LBTF2 Central 3rd Place Season 9"				"1"
-	"LBTF2 Central Participant Season 9"				"1"
-	"LBTF2 Elite 1st Place Season 9"				"1"
-	"LBTF2 Elite 2nd Place Season 9"				"1"
-	"LBTF2 Elite 3rd Place Season 9"				"1"
-	"LBTF2 Elite Participant Season 9"				"1"
-	"LBTF2 Open 1st Place Season 9"					"1"
-	"LBTF2 Open 2nd Place Season 9"					"1"
-	"LBTF2 Open 3rd Place Season 9"					"1"
-	"LBTF2 Open Participant Season 9"				"1"
+	"LBTF2 6v6 Access 1st Place Season 10"				"1"
+	"LBTF2 6v6 Access 1st Place Season 9"				"1"
+	"LBTF2 6v6 Access 2nd Place Season 10"				"1"
+	"LBTF2 6v6 Access 2nd Place Season 9"				"1"
+	"LBTF2 6v6 Access 3rd Place Season 10"				"1"
+	"LBTF2 6v6 Access 3rd Place Season 9"				"1"
+	"LBTF2 6v6 Access Participant Season 10"			"1"
+	"LBTF2 6v6 Access Participant Season 9"				"1"
+	"LBTF2 6v6 Central 1st Place Season 10"				"1"
+	"LBTF2 6v6 Central 1st Place Season 9"				"1"
+	"LBTF2 6v6 Central 2nd Place Season 10"				"1"
+	"LBTF2 6v6 Central 2nd Place Season 9"				"1"
+	"LBTF2 6v6 Central 3rd Place Season 10"				"1"
+	"LBTF2 6v6 Central 3rd Place Season 9"				"1"
+	"LBTF2 6v6 Central Participant Season 10"			"1"
+	"LBTF2 6v6 Central Participant Season 9"			"1"
+	"LBTF2 6v6 Elite 1st Place Season 10"				"1"
+	"LBTF2 6v6 Elite 1st Place Season 9"				"1"
+	"LBTF2 6v6 Elite 2nd Place Season 10"				"1"
+	"LBTF2 6v6 Elite 2nd Place Season 9"				"1"
+	"LBTF2 6v6 Elite 3rd Place Season 10"				"1"
+	"LBTF2 6v6 Elite 3rd Place Season 9"				"1"
+	"LBTF2 6v6 Elite Participant Season 10"				"1"
+	"LBTF2 6v6 Elite Participant Season 9"				"1"
+	"LBTF2 6v6 Open 1st Place Season 10"				"1"
+	"LBTF2 6v6 Open 1st Place Season 9"				"1"
+	"LBTF2 6v6 Open 2nd Place Season 10"				"1"
+	"LBTF2 6v6 Open 2nd Place Season 9"				"1"
+	"LBTF2 6v6 Open 3rd Place Season 10"				"1"
+	"LBTF2 6v6 Open 3rd Place Season 9"				"1"
+	"LBTF2 6v6 Open Participant Season 10"				"1"
+	"LBTF2 6v6 Open Participant Season 9"				"1"
+	"LBTF2 Highlander 1st Place Season 1"				"1"
+	"LBTF2 Highlander 2nd Place Season 1"				"1"
+	"LBTF2 Highlander 3rd Place Season 1"				"1"
+	"LBTF2 Highlander Participant Season 1"				"1"
 	"Mark of the Saint"						"1"
 	"Merc's Pride Scarf"						"1"
 	"OWL 10 Division 2 First Place"					"1"
@@ -1868,6 +1924,8 @@
 	"The Ticket Boy"						"1"
 	"The Tomb Wrapper"						"1"
 	"The Track Terrorizer"						"1"
+	"dec2014 Fools Footwear"					"1"
+	"dec2014 Truands Tunic"						"1"
 	"tw_scoutbot_armor"						"1"
 	//___________________________ Soldier ___________________________\\
 	"Antarctic Parka"						"1"
@@ -1929,6 +1987,10 @@
 	"The Wraith Wrap"						"1"
 	"Tiny Timber"							"1"
 	"Trickster's Turnout Gear"					"1"
+	"dec2014 Armoured Appendages"					"1"
+	"dec2014 Black Knights Bascinet"				"1"
+	"dec2014 Pyromancer's Raiments"					"1"
+	"dec2014 Torchers Tabard"					"1"
 	"tw_pyrobot_armor"						"1"
 	//___________________________ Demoman ___________________________\\
 	"A Whiff of the Old Brimstone"					"1"
@@ -1964,6 +2026,7 @@
 	"The Tartan Spartan"						"1"
 	"The Tartantaloons"						"1"
 	"The Whiskey Bib"						"1"
+	"dec2014 Viking Boots"						"1"
 	"tw_demobot_armor"						"1"
 	"tw_sentrybuster"						"1"
 	//____________________________ Heavy ____________________________\\
@@ -2045,6 +2108,10 @@
 	"The Trash Toter"						"1"
 	"The Trencher's Tunic"						"1"
 	"Wingstick"							"1"
+	"dec2014 Thermal Insulation Layer"				"1"
+	"dec2014 engineer_detectiveholster"				"1"
+	"dec2014 engineer_detectiveradio"				"1"
+	"dec2014 engineer_seal"						"1"
 	"tw_engineerbot_armor"						"1"
 	//____________________________ Medic ____________________________\\
 	"A Brush with Death"						"1"
@@ -2081,6 +2148,7 @@
 	"The Surgeon's Stethoscope"					"1"
 	"The Ward"							"1"
 	"Ze Ubermensch"							"1"
+	"dec2014 medic_unknown_mann"					"1"
 	"tw_medibot_chariot"						"1"
 	//___________________________ Sniper ____________________________\\
 	"Li'l Snaggletooth"						"1"
@@ -2104,6 +2172,10 @@
 	"The Steel Songbird"						"1"
 	"The Toowoomba Tunic"						"1"
 	"The Triggerman's Tacticals"					"1"
+	"dec2014 Wally Pocket"						"1"
+	"dec2014 hunter_beard"						"1"
+	"dec2014 hunter_ushanka"					"1"
+	"dec2014 hunter_vest"						"1"
 	"tw_sniperbot_armor"						"1"
 	//_____________________________ Spy _____________________________\\
 	"Camera Beard"							"1"
@@ -2128,6 +2200,9 @@
 	"The Sneaky Spats of Sneaking"					"1"
 	"The Spectre's Spectacles"					"1"
 	"The Spycrab"							"1"
+	"dec2014 Pocket Momma"						"1"
+	"dec2014 Stealthy Scarf"					"1"
+	"dec2014 The Puffy Provocateur"					"1"
 	"tw_spybot_armor"						"1"
 
 	//------------------- Noisemakers (Total: 14) -------------------\\
@@ -2146,12 +2221,13 @@
 	"Promotional Noise Maker - Fireworks"				"0"
 	"Promotional Noise Maker - Koto"				"0"
 
-	//---------------------- Other (Total: 14) ----------------------\\
+	//---------------------- Other (Total: 15) ----------------------\\
 	//_________________________ All classes _________________________\\
 	"Basic Spellbook"						"1"
 	"Duck Badge"							"1"
 	"Halloween Spellbook"						"1"
 	"Secret Diary"							"1"
+	"TF_WEAPON_GRAPPLINGHOOK"					"1"
 	"TF_WEAPON_SPELLBOOK"						"1"
 	"CheatDetectedHonesty"						"1"
 	"CheatDetectedMajor"						"1"
