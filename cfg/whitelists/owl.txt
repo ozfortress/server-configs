@@ -1,9 +1,8 @@
-// Offseason testing whitelist
-// Whitelist generated at Wed, 10 Jun 2015 08:15:20 +0200
-// Custom Whitelist ID: 3810
+// Whitelist generated at Wed, 10 Jun 2015 09:39:38 +0200
+// Custom Whitelist ID: 3814
 
 // Share or view this whitelist:
-//	http://whitelist.tf/3810
+//	http://whitelist.tf/3814
 
 // New items added to the game are: NOT allowed
 // Hats are: allowed
@@ -55,6 +54,8 @@
 //  * Market Gardener
 
 // Blocked weapons for Pyro
+// - Primary
+//  * Phlogistinator
 // - Melee
 //  * Powerjack
 
@@ -134,7 +135,7 @@
 {
 	"unlisted_items_default_to"		"0"
 
-	//----------------- Allowed weapons (Total: 61) -----------------\\
+	//----------------- Allowed weapons (Total: 60) -----------------\\
 	//______________________ Multiple classes _______________________\\
 	"The Half-Zatoichi"						"1"
 	"The Pain Train"						"1"
@@ -166,7 +167,6 @@
 	"The Homewrecker"						"1"
 	"The Manmelter"							"1"
 	"The Neon Annihilator"						"1"
-	"The Phlogistinator"						"1"
 	"The Scorch Shot"						"1"
 	"The Third Degree"						"1"
 	//___________________________ Demoman ___________________________\\
@@ -358,7 +358,7 @@
 	"The Snack Attack"						"1"
 	"The Wanga Prick"						"1"
 
-	//------------- Blocked weapons/reskins (Total: 82) -------------\\
+	//------------- Blocked weapons/reskins (Total: 83) -------------\\
 	//______________________ Multiple classes _______________________\\
 	"Panic Attack Shotgun"						"0"
 	"The B.A.S.E. Jumper"						"0"
@@ -389,6 +389,7 @@
 	"The Mantreads"							"0"
 	"The Market Gardener"						"0"
 	//____________________________ Pyro _____________________________\\
+	"The Phlogistinator"						"0"
 	"The Powerjack"							"0"
 	//___________________________ Demoman ___________________________\\
 	"Festive Targe 2014"						"0"
