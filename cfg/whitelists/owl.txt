@@ -2533,8 +2533,8 @@
 	"Results Are In Taunt"						"1"
 	//___________________________ Sniper ____________________________\\
 	"I See You Taunt"						"1"
-	"Taunt: Most Wanted"						"0"
-	"Taunt: The Killer Solo"					"0"
+	"Taunt: Most Wanted"						"1"
+	"Taunt: The Killer Solo"					"1"
 	//_____________________________ Spy _____________________________\\
 	"Buy A Life Taunt"						"1"
 
