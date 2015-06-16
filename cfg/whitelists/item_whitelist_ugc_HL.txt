@@ -1,8 +1,8 @@
-// Whitelist generated at Mon, 25 May 2015 13:55:12 +0200
-// Whitelist: UGC Highlander (Season 15) (ID: 2794)
+// Whitelist generated at Tue, 16 Jun 2015 08:09:20 +0200
+// Whitelist: UGC Highlander (Season 16) (ID: 3738)
 
 // Share or view this whitelist:
-//	http://whitelist.tf/ugc_9v9_s15
+//	http://whitelist.tf/ugc_9v9_s16
 
 // New items added to the game are: NOT allowed
 // Hats are: allowed
@@ -18,12 +18,12 @@
 
 // Blocked weapons for Multiple classes
 // - Secondary
-//  * B.A.S.E. Jumper
 //  * Reserve Shooter
 
 // Blocked weapons for Scout
 // - Primary
 //  * Baby Face's Blaster
+//  * Soda Popper
 // - Secondary
 //  * Crit-a-Cola
 
@@ -64,6 +64,7 @@
 	//---------------- Allowed weapons (Total: 115) -----------------\\
 	//______________________ Multiple classes _______________________\\
 	"Panic Attack Shotgun"						"1"
+	"The B.A.S.E. Jumper"						"1"
 	"The Half-Zatoichi"						"1"
 	"The Pain Train"						"1"
 	//____________________________ Scout ____________________________\\
@@ -80,7 +81,6 @@
 	"The Force-a-Nature"						"1"
 	"The Sandman"							"1"
 	"The Shortstop"							"1"
-	"The Soda Popper"						"1"
 	"The Winger"							"1"
 	"The Wrap Assassin"						"1"
 	//___________________________ Soldier ___________________________\\
@@ -354,11 +354,11 @@
 
 	//------------- Blocked weapons/reskins (Total: 15) -------------\\
 	//______________________ Multiple classes _______________________\\
-	"The B.A.S.E. Jumper"						"0"
 	"The Reserve Shooter"						"0"
 	//____________________________ Scout ____________________________\\
 	"Baby Face's Blaster"						"0"
 	"Crit-a-Cola"							"0"
+	"The Soda Popper"						"0"
 	//___________________________ Soldier ___________________________\\
 	"The Beggar's Bazooka"						"0"
 	//___________________________ Demoman ___________________________\\
@@ -1120,7 +1120,7 @@
 	"The Stealth Steeler"						"1"
 	"tw_spybot_hood"						"1"
 
-	//--------------------- Miscs (Total: 1216) ---------------------\\
+	//--------------------- Miscs (Total: 1248) ---------------------\\
 	//_________________________ All classes _________________________\\
 	"AU Highlander Community League First Place Season 1"		"1"
 	"AU Highlander Community League Participant Season 1"		"1"
@@ -1708,6 +1708,26 @@
 	"OWL 12 Premier Division Participant"				"1"
 	"OWL 12 Premier Division Second Place"				"1"
 	"OWL 12 Premier Division Third Place"				"1"
+	"OWL 13 Division 2 First Place"					"1"
+	"OWL 13 Division 2 Participant"					"1"
+	"OWL 13 Division 2 Second Place"				"1"
+	"OWL 13 Division 2 Third Place"					"1"
+	"OWL 13 Division 3 First Place"					"1"
+	"OWL 13 Division 3 Participant"					"1"
+	"OWL 13 Division 3 Second Place"				"1"
+	"OWL 13 Division 3 Third Place"					"1"
+	"OWL 13 Division 4 First Place"					"1"
+	"OWL 13 Division 4 Participant"					"1"
+	"OWL 13 Division 4 Second Place"				"1"
+	"OWL 13 Division 4 Third Place"					"1"
+	"OWL 13 Division 5 First Place"					"1"
+	"OWL 13 Division 5 Participant"					"1"
+	"OWL 13 Division 5 Second Place"				"1"
+	"OWL 13 Division 5 Third Place"					"1"
+	"OWL 13 Premier Division First Place"				"1"
+	"OWL 13 Premier Division Participant"				"1"
+	"OWL 13 Premier Division Second Place"				"1"
+	"OWL 13 Premier Division Third Place"				"1"
 	"Pet Robro"							"1"
 	"Photo Badge"							"1"
 	"Polycount Pin"							"1"
@@ -1736,17 +1756,29 @@
 	"Spirit Of Giving"						"1"
 	"Summer Shades"							"1"
 	"TF2Connexion Division 1 Bronze Medal Season 14"		"1"
+	"TF2Connexion Division 1 Bronze Medal Season 15"		"1"
 	"TF2Connexion Division 1 Gold Medal Season 14"			"1"
+	"TF2Connexion Division 1 Gold Medal Season 15"			"1"
 	"TF2Connexion Division 1 Participant Season 14"			"1"
+	"TF2Connexion Division 1 Participant Season 15"			"1"
 	"TF2Connexion Division 1 Silver Medal Season 14"		"1"
+	"TF2Connexion Division 1 Silver Medal Season 15"		"1"
 	"TF2Connexion Division 2 Bronze Medal Season 14"		"1"
+	"TF2Connexion Division 2 Bronze Medal Season 15"		"1"
 	"TF2Connexion Division 2 Gold Medal Season 14"			"1"
+	"TF2Connexion Division 2 Gold Medal Season 15"			"1"
 	"TF2Connexion Division 2 Participant Season 14"			"1"
+	"TF2Connexion Division 2 Participant Season 15"			"1"
 	"TF2Connexion Division 2 Silver Medal Season 14"		"1"
+	"TF2Connexion Division 2 Silver Medal Season 15"		"1"
 	"TF2Connexion Division 3 Bronze Medal Season 14"		"1"
+	"TF2Connexion Division 3 Bronze Medal Season 15"		"1"
 	"TF2Connexion Division 3 Gold Medal Season 14"			"1"
+	"TF2Connexion Division 3 Gold Medal Season 15"			"1"
 	"TF2Connexion Division 3 Participant Season 14"			"1"
+	"TF2Connexion Division 3 Participant Season 15"			"1"
 	"TF2Connexion Division 3 Silver Medal Season 14"		"1"
+	"TF2Connexion Division 3 Silver Medal Season 15"		"1"
 	"TF2Connexion Division 4 Bronze Medal Season 14"		"1"
 	"TF2Connexion Division 4 Gold Medal Season 14"			"1"
 	"TF2Connexion Division 4 Participant Season 14"			"1"
