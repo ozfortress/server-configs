@@ -1,8 +1,8 @@
-// Whitelist generated at Tue, 16 Jun 2015 07:43:32 +0200
-// Custom Whitelist ID: 3842
+// Whitelist generated at Wed, 01 Jul 2015 09:45:05 +0200
+// Custom Whitelist ID: 3916
 
 // Share or view this whitelist:
-//	http://whitelist.tf/3842
+//	http://whitelist.tf/3916
 
 // New items added to the game are: NOT allowed
 // Hats are: allowed
@@ -22,6 +22,8 @@
 // - Secondary
 //  * B.A.S.E. Jumper
 //  * Reserve Shooter
+// - Melee
+//  * Half-Zatoichi
 
 // Blocked weapons for Scout
 // - Primary
@@ -48,6 +50,7 @@
 //  * Rocket Jumper
 // - Secondary
 //  * Battalion's Backup
+//  * Buff Banner
 //  * Mantreads
 // - Melee
 //  * Disciplinary Action
@@ -55,8 +58,12 @@
 
 // Blocked weapons for Pyro
 // - Primary
+//  * Backburner
 //  * Phlogistinator
+// - Secondary
+//  * Flare Gun
 // - Melee
+//  * Axtinguisher
 //  * Powerjack
 
 // Blocked weapons for Demoman
@@ -110,8 +117,8 @@
 
 // Blocked weapons for Sniper
 // - Primary
+//  * Bazaar Bargain
 //  * Hitman's Heatmaker
-//  * Huntsman
 //  * Machina
 //  * Sydney Sleeper
 // - Secondary
@@ -123,8 +130,10 @@
 
 // Blocked weapons for Spy
 // - Secondary
+//  * Ambassador
 //  * Diamondback
 //  * Enforcer
+//  * L'Etranger
 // - Sapper
 //  * Red-Tape Recorder
 // - Melee
@@ -137,9 +146,8 @@
 {
 	"unlisted_items_default_to"		"0"
 
-	//----------------- Allowed weapons (Total: 58) -----------------\\
+	//----------------- Allowed weapons (Total: 51) -----------------\\
 	//______________________ Multiple classes _______________________\\
-	"The Half-Zatoichi"						"1"
 	"The Pain Train"						"1"
 	//____________________________ Scout ____________________________\\
 	"Sun-on-a-Stick"						"1"
@@ -150,7 +158,6 @@
 	"The Winger"							"1"
 	//___________________________ Soldier ___________________________\\
 	"The Black Box"							"1"
-	"The Buff Banner"						"1"
 	"The Concheror"							"1"
 	"The Direct Hit"						"1"
 	"The Equalizer"							"1"
@@ -160,12 +167,9 @@
 	"The Righteous Bison"						"1"
 	//____________________________ Pyro _____________________________\\
 	"Sharpened Volcano Fragment"					"1"
-	"The Axtinguisher"						"1"
 	"The Back Scratcher"						"1"
-	"The Backburner"						"1"
 	"The Degreaser"							"1"
 	"The Detonator"							"1"
-	"The Flare Gun"							"1"
 	"The Homewrecker"						"1"
 	"The Manmelter"							"1"
 	"The Neon Annihilator"						"1"
@@ -195,19 +199,17 @@
 	"The Overdose"							"1"
 	"The Ubersaw"							"1"
 	//___________________________ Sniper ____________________________\\
-	"The Bazaar Bargain"						"1"
 	"The Bushwacka"							"1"
 	"The Classic"							"1"
+	"The Huntsman"							"1"
 	"The Shahanshah"						"1"
 	"The Tribalman's Shiv"						"1"
 	//_____________________________ Spy _____________________________\\
 	"Conniver's Kunai"						"1"
-	"L'Etranger"							"1"
-	"The Ambassador"						"1"
 	"The Big Earner"						"1"
 	"Your Eternal Reward"						"1"
 
-	//------------- Allowed weapon reskins (Total: 136) -------------\\
+	//------------- Allowed weapon reskins (Total: 132) -------------\\
 	//_________________________ All classes _________________________\\
 	"Gold Frying Pan"						"1"
 	"Saxxy"								"1"
@@ -244,7 +246,6 @@
 	"Carbonado Botkiller Rocket Launcher Mk.I"			"1"
 	"Diamond Botkiller Rocket Launcher Mk.I"			"1"
 	"Festive Black Box"						"1"
-	"Festive Buff Banner"						"1"
 	"Festive Rocket Launcher 2011"					"1"
 	"Gold Botkiller Rocket Launcher Mk.I"				"1"
 	"Gold Botkiller Rocket Launcher Mk.II"				"1"
@@ -256,10 +257,7 @@
 	"Blood Botkiller Flame Thrower Mk.I"				"1"
 	"Carbonado Botkiller Flame Thrower Mk.I"			"1"
 	"Diamond Botkiller Flame Thrower Mk.I"				"1"
-	"Festive Axtinguisher"						"1"
-	"Festive Backburner 2014"					"1"
 	"Festive Flamethrower 2011"					"1"
-	"Festive Flare Gun"						"1"
 	"Gold Botkiller Flame Thrower Mk.I"				"1"
 	"Gold Botkiller Flame Thrower Mk.II"				"1"
 	"Promo Neon Annihilator"					"1"
@@ -268,7 +266,6 @@
 	"Silver Botkiller Flame Thrower Mk.II"				"1"
 	"The Maul"							"1"
 	"The Nostromo Napalmer"						"1"
-	"The Postal Pummeler"						"1"
 	//___________________________ Demoman ___________________________\\
 	"Blood Botkiller Stickybomb Launcher Mk.I"			"1"
 	"Carbonado Botkiller Stickybomb Launcher Mk.I"			"1"
@@ -326,6 +323,7 @@
 	"Blood Botkiller Sniper Rifle Mk.I"				"1"
 	"Carbonado Botkiller Sniper Rifle Mk.I"				"1"
 	"Diamond Botkiller Sniper Rifle Mk.I"				"1"
+	"Festive Huntsman"						"1"
 	"Festive SMG 2014"						"1"
 	"Festive Sniper Rifle 2011"					"1"
 	"Gold Botkiller Sniper Rifle Mk.I"				"1"
@@ -334,11 +332,11 @@
 	"Silver Botkiller Sniper Rifle Mk.I"				"1"
 	"Silver Botkiller Sniper Rifle Mk.II"				"1"
 	"The AWPer Hand"						"1"
+	"The Fortified Compound"					"1"
 	//_____________________________ Spy _____________________________\\
 	"Blood Botkiller Knife Mk.I"					"1"
 	"Carbonado Botkiller Knife Mk.I"				"1"
 	"Diamond Botkiller Knife Mk.I"					"1"
-	"Festive Ambassador"						"1"
 	"Festive Knife 2011"						"1"
 	"Festive Revolver 2014"						"1"
 	"Festive Sapper"						"1"
@@ -356,10 +354,11 @@
 	"The Snack Attack"						"1"
 	"The Wanga Prick"						"1"
 
-	//------------- Blocked weapons/reskins (Total: 87) -------------\\
+	//------------- Blocked weapons/reskins (Total: 98) -------------\\
 	//______________________ Multiple classes _______________________\\
 	"Panic Attack Shotgun"						"0"
 	"The B.A.S.E. Jumper"						"0"
+	"The Half-Zatoichi"						"0"
 	"The Reserve Shooter"						"0"
 	//____________________________ Scout ____________________________\\
 	"Baby Face's Blaster"						"0"
@@ -378,16 +377,25 @@
 	"The Soda Popper"						"0"
 	"The Wrap Assassin"						"0"
 	//___________________________ Soldier ___________________________\\
+	"Festive Buff Banner"						"0"
 	"Rocket Jumper"							"0"
 	"The Air Strike"						"0"
 	"The Battalion's Backup"					"0"
 	"The Beggar's Bazooka"						"0"
+	"The Buff Banner"						"0"
 	"The Cow Mangler 5000"						"0"
 	"The Disciplinary Action"					"0"
 	"The Mantreads"							"0"
 	"The Market Gardener"						"0"
 	//____________________________ Pyro _____________________________\\
+	"Festive Axtinguisher"						"0"
+	"Festive Backburner 2014"					"0"
+	"Festive Flare Gun"						"0"
+	"The Axtinguisher"						"0"
+	"The Backburner"						"0"
+	"The Flare Gun"							"0"
 	"The Phlogistinator"						"0"
+	"The Postal Pummeler"						"0"
 	"The Powerjack"							"0"
 	//___________________________ Demoman ___________________________\\
 	"Festive Targe 2014"						"0"
@@ -434,20 +442,21 @@
 	"The Vita-Saw"							"0"
 	//___________________________ Sniper ____________________________\\
 	"Darwin's Danger Shield"					"0"
-	"Festive Huntsman"						"0"
 	"Festive Jarate"						"0"
 	"Jarate"							"0"
+	"The Bazaar Bargain"						"0"
 	"The Cleaner's Carbine"						"0"
 	"The Cozy Camper"						"0"
-	"The Fortified Compound"					"0"
 	"The Hitman's Heatmaker"					"0"
-	"The Huntsman"							"0"
 	"The Machina"							"0"
 	"The Razorback"							"0"
 	"The Self-Aware Beauty Mark"					"0"
 	"The Sydney Sleeper"						"0"
 	//_____________________________ Spy _____________________________\\
+	"Festive Ambassador"						"0"
+	"L'Etranger"							"0"
 	"Promo Red-Tape Recorder"					"0"
+	"The Ambassador"						"0"
 	"The Cloak and Dagger"						"0"
 	"The Dead Ringer"						"0"
 	"The Diamondback"						"0"
