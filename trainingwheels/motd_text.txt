@@ -1,4 +1,0 @@
-Welcome to Team Fortress 2
-
-Our map rotation is:
-- tr_walkway_rc2
