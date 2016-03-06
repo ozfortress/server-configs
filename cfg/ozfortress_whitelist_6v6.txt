@@ -1,8 +1,8 @@
-// Whitelist generated at Sat, 05 Mar 2016 11:50:56 +0100
-// Custom Whitelist ID: 5490
+// Whitelist generated at Sun, 06 Mar 2016 23:25:24 +0100
+// Whitelist: ozfortress 6v6 (Season 15) (ID: 5490)
 
 // Share or view this whitelist:
-//	http://whitelist.tf/5490
+//	http://whitelist.tf/ozfortress_6v6_s15
 
 // New items added to the game are: NOT allowed
 // Hats are: allowed
