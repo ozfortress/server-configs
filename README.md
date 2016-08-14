@@ -10,7 +10,7 @@ mp_windifference 5
 mp_timelimit 30
 mp_winlimit 0
 ```
-Load this configuration using `rcon exec ozfortress_6v6_5cp` or simply `rcon push` on ozfortress servers.
+Load this configuration using `rcon exec ozfortress_6v6_5cp` or simply `rcon ozf` on ozfortress servers.
 
 #### KOTH
 KOTH maps are played first to 3 with no time limit. The following configuration represents this format:
