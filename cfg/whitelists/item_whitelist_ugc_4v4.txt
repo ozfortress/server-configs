@@ -1,4 +1,4 @@
-// Whitelist generated at Sat, 13 Aug 2016 16:14:55 +0200
+// Whitelist generated at Sun, 18 Sep 2016 07:06:37 +0200
 // Whitelist: UGC 4v4 (Season 8) (ID: 5171)
 
 // Share or view this whitelist:
@@ -799,7 +799,7 @@
 	"Under Cover"							"1"
 	"Zombie Spy"							"1"
 
-	//---------------------- Hats (Total: 517) ----------------------\\
+	//---------------------- Hats (Total: 518) ----------------------\\
 	//_________________________ All classes _________________________\\
 	"A Rather Festive Tree"						"1"
 	"A Well Wrapped Hat"						"1"
@@ -1244,6 +1244,7 @@
 	"MvM GateBot Light Medic"					"1"
 	"Otolaryngologist's Mirror"					"1"
 	"Platinum Pickelhaube"						"1"
+	"Practitioner's Processing Mask"				"1"
 	"Prussian Pickelhaube"						"1"
 	"The Byte'd Beak"						"1"
 	"The Combat Medic's Crusher Cap"				"1"
@@ -1329,7 +1330,7 @@
 	"The Stealth Steeler"						"1"
 	"tw_spybot_hood"						"1"
 
-	//--------------------- Miscs (Total: 1657) ---------------------\\
+	//--------------------- Miscs (Total: 1659) ---------------------\\
 	//_________________________ All classes _________________________\\
 	"Altruist's Adornment"						"1"
 	"Antlers"							"1"
@@ -1967,6 +1968,9 @@
 	"Honeydew's Charitable Countenance"				"1"
 	"InfoShow LAN Party 2014 Participant"				"1"
 	"Invasion Community Update Medal"				"1"
+	"Jaunty Benefactor 2016"					"1"
+	"Jaunty Camper 2016"						"1"
+	"Jaunty Trailblazer 2016"					"1"
 	"LBTF2 6v6 Access 1st Place Season 10"				"1"
 	"LBTF2 6v6 Access 1st Place Season 11"				"1"
 	"LBTF2 6v6 Access 1st Place Season 12"				"1"
@@ -2915,7 +2919,6 @@
 	"Medic Goggles"							"1"
 	"Medical Monarch"						"1"
 	"Pocket Heavy"							"1"
-	"Practitioner's Processing Mask"				"1"
 	"The Angel of Death"						"1"
 	"The Chronoscarf"						"1"
 	"The Colonel's Coat"						"1"

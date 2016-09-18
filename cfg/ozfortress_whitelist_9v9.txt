@@ -1,5 +1,5 @@
-// Whitelist generated at Sat, 13 Aug 2016 16:13:17 +0200
-// Whitelist: ETF2L Highlander (Season 10) (ID: 5449)
+// Whitelist generated at Sun, 18 Sep 2016 07:12:42 +0200
+// Whitelist: ETF2L Highlander (Season 10) (ID: 6263)
 
 // Share or view this whitelist:
 //	http://whitelist.tf/etf2l_9v9_s10
@@ -28,9 +28,9 @@
 // - Primary
 //  * Air Strike
 
-// Blocked weapons for Engineer
+// Blocked weapons for Pyro
 // - Primary
-//  * Pomson 6000
+//  * Phlogistinator
 
 // Blocked weapons for Medic
 // - Melee
@@ -102,7 +102,6 @@
 	"The Homewrecker"						"1"
 	"The Manmelter"							"1"
 	"The Neon Annihilator"						"1"
-	"The Phlogistinator"						"1"
 	"The Powerjack"							"1"
 	"The Scorch Shot"						"1"
 	"The Third Degree"						"1"
@@ -142,6 +141,7 @@
 	"The Frontier Justice"						"1"
 	"The Gunslinger"						"1"
 	"The Jag"							"1"
+	"The Pomson 6000"						"1"
 	"The Rescue Ranger"						"1"
 	"The Short Circuit"						"1"
 	"The Southern Hospitality"					"1"
@@ -516,10 +516,10 @@
 	"Crit-a-Cola"							"0"
 	//___________________________ Soldier ___________________________\\
 	"The Air Strike"						"0"
+	//____________________________ Pyro _____________________________\\
+	"The Phlogistinator"						"0"
 	//____________________________ Heavy ____________________________\\
 	"Deflector"							"0"
-	//__________________________ Engineer ___________________________\\
-	"The Pomson 6000"						"0"
 	//____________________________ Medic ____________________________\\
 	"The Vita-Saw"							"0"
 	//___________________________ Sniper ____________________________\\
@@ -783,7 +783,7 @@
 	"Under Cover"							"1"
 	"Zombie Spy"							"1"
 
-	//---------------------- Hats (Total: 518) ----------------------\\
+	//---------------------- Hats (Total: 519) ----------------------\\
 	//_________________________ All classes _________________________\\
 	"A Rather Festive Tree"						"1"
 	"A Well Wrapped Hat"						"1"
@@ -1229,6 +1229,7 @@
 	"MvM GateBot Light Medic"					"1"
 	"Otolaryngologist's Mirror"					"1"
 	"Platinum Pickelhaube"						"1"
+	"Practitioner's Processing Mask"				"1"
 	"Prussian Pickelhaube"						"1"
 	"The Byte'd Beak"						"1"
 	"The Combat Medic's Crusher Cap"				"1"
@@ -1314,7 +1315,7 @@
 	"The Stealth Steeler"						"1"
 	"tw_spybot_hood"						"1"
 
-	//--------------------- Miscs (Total: 1657) ---------------------\\
+	//--------------------- Miscs (Total: 1659) ---------------------\\
 	//_________________________ All classes _________________________\\
 	"Altruist's Adornment"						"1"
 	"Antlers"							"1"
@@ -1952,6 +1953,9 @@
 	"Honeydew's Charitable Countenance"				"1"
 	"InfoShow LAN Party 2014 Participant"				"1"
 	"Invasion Community Update Medal"				"1"
+	"Jaunty Benefactor 2016"					"1"
+	"Jaunty Camper 2016"						"1"
+	"Jaunty Trailblazer 2016"					"1"
 	"LBTF2 6v6 Access 1st Place Season 10"				"1"
 	"LBTF2 6v6 Access 1st Place Season 11"				"1"
 	"LBTF2 6v6 Access 1st Place Season 12"				"1"
@@ -2900,7 +2904,6 @@
 	"Medic Goggles"							"1"
 	"Medical Monarch"						"1"
 	"Pocket Heavy"							"1"
-	"Practitioner's Processing Mask"				"1"
 	"The Angel of Death"						"1"
 	"The Chronoscarf"						"1"
 	"The Colonel's Coat"						"1"
@@ -3096,7 +3099,7 @@
 	//___________________________ Soldier ___________________________\\
 	"Fresh Brewed Victory Taunt"					"1"
 	"Taunt: Soldier's Requiem"					"1"
-	"Taunt: The Fubar Fanfare"					"0"
+	"Taunt: The Fubar Fanfare"					"1"
 	//____________________________ Pyro _____________________________\\
 	"Party Trick Taunt"						"1"
 	"Pool Party Taunt"						"0"
@@ -3111,7 +3114,7 @@
 	"Rancho Relaxo Taunt"						"0"
 	"Taunt: Bucking Bronco"						"0"
 	//____________________________ Medic ____________________________\\
-	"Meet the Medic Heroic Taunt"					"1"
+	"Meet the Medic Heroic Taunt"					"0"
 	"Results Are In Taunt"						"1"
 	//___________________________ Sniper ____________________________\\
 	"I See You Taunt"						"1"
@@ -3119,7 +3122,7 @@
 	"Taunt: The Killer Solo"					"1"
 	//_____________________________ Spy _____________________________\\
 	"Buy A Life Taunt"						"1"
-	"Taunt: Disco Fever"						"0"
+	"Taunt: Disco Fever"						"1"
 	"Taunt: The Boxtrot"						"0"
 
 	//--------- Usable action items/MvM canteens (Total: 4) ---------\\

@@ -1,8 +1,8 @@
-// Whitelist generated at Sat, 13 Aug 2016 16:15:16 +0200
-// Whitelist: UGC Highlander (Season 19) (ID: 5823)
+// Whitelist generated at Sun, 18 Sep 2016 07:05:41 +0200
+// Whitelist: UGC Highlander (Season 20) (ID: 6421)
 
 // Share or view this whitelist:
-//	http://whitelist.tf/ugc_9v9_s19
+//	http://whitelist.tf/ugc_9v9_s20
 
 // New items added to the game are: NOT allowed
 // Hats are: allowed
@@ -52,6 +52,7 @@
 //  * Machina
 // - Secondary
 //  * Darwin's Danger Shield
+//  * Razorback
 
 // Blocked weapons for Spy
 // - Secondary
@@ -63,7 +64,7 @@
 {
 	"unlisted_items_default_to"		"0"
 
-	//---------------- Allowed weapons (Total: 114) -----------------\\
+	//---------------- Allowed weapons (Total: 113) -----------------\\
 	//______________________ Multiple classes _______________________\\
 	"Panic Attack Shotgun"						"1"
 	"The B.A.S.E. Jumper"						"1"
@@ -174,7 +175,6 @@
 	"The Cozy Camper"						"1"
 	"The Hitman's Heatmaker"					"1"
 	"The Huntsman"							"1"
-	"The Razorback"							"1"
 	"The Shahanshah"						"1"
 	"The Sydney Sleeper"						"1"
 	"The Tribalman's Shiv"						"1"
@@ -515,7 +515,7 @@
 	"warbird_knife_blitzkrieg"					"1"
 	"warbird_revolver_blitzkrieg"					"1"
 
-	//------------- Blocked weapons/reskins (Total: 17) -------------\\
+	//------------- Blocked weapons/reskins (Total: 18) -------------\\
 	//______________________ Multiple classes _______________________\\
 	"The Reserve Shooter"						"0"
 	//____________________________ Scout ____________________________\\
@@ -538,6 +538,7 @@
 	"Darwin's Danger Shield"					"0"
 	"Shooting Star"							"0"
 	"The Machina"							"0"
+	"The Razorback"							"0"
 	//_____________________________ Spy _____________________________\\
 	"Promo Red-Tape Recorder"					"0"
 	"The Diamondback"						"0"
@@ -797,7 +798,7 @@
 	"Under Cover"							"1"
 	"Zombie Spy"							"1"
 
-	//---------------------- Hats (Total: 517) ----------------------\\
+	//---------------------- Hats (Total: 518) ----------------------\\
 	//_________________________ All classes _________________________\\
 	"A Rather Festive Tree"						"1"
 	"A Well Wrapped Hat"						"1"
@@ -1242,6 +1243,7 @@
 	"MvM GateBot Light Medic"					"1"
 	"Otolaryngologist's Mirror"					"1"
 	"Platinum Pickelhaube"						"1"
+	"Practitioner's Processing Mask"				"1"
 	"Prussian Pickelhaube"						"1"
 	"The Byte'd Beak"						"1"
 	"The Combat Medic's Crusher Cap"				"1"
@@ -1327,7 +1329,7 @@
 	"The Stealth Steeler"						"1"
 	"tw_spybot_hood"						"1"
 
-	//--------------------- Miscs (Total: 1657) ---------------------\\
+	//--------------------- Miscs (Total: 1659) ---------------------\\
 	//_________________________ All classes _________________________\\
 	"Altruist's Adornment"						"1"
 	"Antlers"							"1"
@@ -1965,6 +1967,9 @@
 	"Honeydew's Charitable Countenance"				"1"
 	"InfoShow LAN Party 2014 Participant"				"1"
 	"Invasion Community Update Medal"				"1"
+	"Jaunty Benefactor 2016"					"1"
+	"Jaunty Camper 2016"						"1"
+	"Jaunty Trailblazer 2016"					"1"
 	"LBTF2 6v6 Access 1st Place Season 10"				"1"
 	"LBTF2 6v6 Access 1st Place Season 11"				"1"
 	"LBTF2 6v6 Access 1st Place Season 12"				"1"
@@ -2913,7 +2918,6 @@
 	"Medic Goggles"							"1"
 	"Medical Monarch"						"1"
 	"Pocket Heavy"							"1"
-	"Practitioner's Processing Mask"				"1"
 	"The Angel of Death"						"1"
 	"The Chronoscarf"						"1"
 	"The Colonel's Coat"						"1"
@@ -3100,7 +3104,7 @@
 	"Taunt: Kazotsky Kick"						"0"
 	"Taunt: Mannrobics"						"0"
 	"Taunt: Zoomin' Broom"						"0"
-	"The Shred Alert"						"0"
+	"The Shred Alert"						"1"
 	//____________________________ Scout ____________________________\\
 	"Battin' a Thousand Taunt"					"1"
 	"Deep Fried Desire Taunt"					"1"
@@ -3109,7 +3113,7 @@
 	//___________________________ Soldier ___________________________\\
 	"Fresh Brewed Victory Taunt"					"1"
 	"Taunt: Soldier's Requiem"					"1"
-	"Taunt: The Fubar Fanfare"					"0"
+	"Taunt: The Fubar Fanfare"					"1"
 	//____________________________ Pyro _____________________________\\
 	"Party Trick Taunt"						"1"
 	"Pool Party Taunt"						"0"
@@ -3124,7 +3128,7 @@
 	"Rancho Relaxo Taunt"						"0"
 	"Taunt: Bucking Bronco"						"0"
 	//____________________________ Medic ____________________________\\
-	"Meet the Medic Heroic Taunt"					"0"
+	"Meet the Medic Heroic Taunt"					"1"
 	"Results Are In Taunt"						"1"
 	//___________________________ Sniper ____________________________\\
 	"I See You Taunt"						"1"
@@ -3132,7 +3136,7 @@
 	"Taunt: The Killer Solo"					"1"
 	//_____________________________ Spy _____________________________\\
 	"Buy A Life Taunt"						"1"
-	"Taunt: Disco Fever"						"0"
+	"Taunt: Disco Fever"						"1"
 	"Taunt: The Boxtrot"						"0"
 
 	//------------------ UGC exceptions (Total: 1) ------------------\\
