@@ -1,5 +1,5 @@
-// Whitelist generated at Sun, 18 Sep 2016 06:59:57 +0200
-// Whitelist: ESEA/ETF2L/ozfortress/UGC 6v6 (ID: 6356)
+// Whitelist generated at Fri, 23 Sep 2016 15:23:46 +0200
+// Whitelist: Global Whitelist 6v6 (ESEA/ETF2L/ozfortress/UGC) (ID: 6356)
 
 // Share or view this whitelist:
 //	http://whitelist.tf/competitive_6v6
