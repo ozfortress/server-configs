@@ -1,4 +1,4 @@
-// Whitelist generated at Sat, 29 Oct 2016 02:04:38 +0200
+// Whitelist generated at Mon, 16 Jan 2017 02:36:00 +0100
 // Custom Whitelist ID: 3914
 
 // Share or view this whitelist:
@@ -760,7 +760,7 @@
 	"Under Cover"							"0"
 	"Zombie Spy"							"0"
 
-	//---------------------- Hats (Total: 535) ----------------------\\
+	//---------------------- Hats (Total: 544) ----------------------\\
 	//_________________________ All classes _________________________\\
 	"A Rather Festive Tree"						"1"
 	"A Well Wrapped Hat"						"1"
@@ -855,6 +855,7 @@
 	"The Galvanized Gibus"						"1"
 	"The Gentle Munitionne of Leisure"				"1"
 	"The Grandmaster"						"1"
+	"The Head Prize"						"1"
 	"The Holiday Headcase"						"1"
 	"The Hot Dogger"						"1"
 	"The Human Cannonball"						"1"
@@ -868,6 +869,7 @@
 	"The Salty Dog"							"1"
 	"The Sarif Cap"							"1"
 	"The Skull Island Topper"					"1"
+	"The Snowmann"							"1"
 	"The TF2VRH"							"1"
 	"The Toadstool Topper"						"1"
 	"The Top Notch"							"1"
@@ -883,9 +885,11 @@
 	"Treasure Hat 3"						"1"
 	"TTG Max Hat"							"1"
 	"Universal Translator"						"1"
+	"Unusual Cap"							"1"
 	"Vive La France"						"1"
 	"Voodoo Juju"							"1"
 	"Wiki Cap"							"1"
+	"Woolen Warmer"							"1"
 	"World Traveler"						"1"
 	//______________________ Multiple classes _______________________\\
 	"Pestering Jester"						"1"
@@ -1022,6 +1026,7 @@
 	"Promo The Firefly"						"1"
 	"Pyro Brain Sucker"						"1"
 	"Pyro Helm"							"1"
+	"Pyro the Flamedeer"						"1"
 	"Pyro's Beanie"							"1"
 	"Pyro's Boron Beanie"						"1"
 	"Pyromancer's Mask"						"1"
@@ -1066,6 +1071,7 @@
 	"Traffic Cone"							"1"
 	"tw_pyrobot_helmet"						"1"
 	//___________________________ Demoman ___________________________\\
+	"Bomb Beanie"							"1"
 	"Bruce's Bonnet"						"1"
 	"Carouser's Capotain"						"1"
 	"Conjurer's Cowl"						"1"
@@ -1075,6 +1081,7 @@
 	"Demoman Hallmark"						"1"
 	"Demoman Tricorne"						"1"
 	"Demoman's Fro"							"1"
+	"Elf Esteem"							"1"
 	"EOTL_summerhat"						"1"
 	"Glengarry Bonnet"						"1"
 	"Mask of the Shaman"						"1"
@@ -1096,6 +1103,7 @@
 	"The Black Watch"						"1"
 	"The Bolgan"							"1"
 	"The Bolted Bicorne"						"1"
+	"The Bomber Knight"						"1"
 	"The Broadband Bonnet"						"1"
 	"The Buccaneer's Bicorne"					"1"
 	"The Cyborg Stunt Helmet"					"1"
@@ -1280,6 +1288,7 @@
 	"Belltower Spec Ops"						"1"
 	"Big Topper"							"1"
 	"Bootleg Base Metal Billycock"					"1"
+	"Brain-Warming Wear"						"1"
 	"Charmer's Chapeau"						"1"
 	"Cosa Nostra Cap"						"1"
 	"Detective Noir"						"1"
@@ -1308,7 +1317,7 @@
 	"The Stealth Steeler"						"1"
 	"tw_spybot_hood"						"1"
 
-	//--------------------- Miscs (Total: 1716) ---------------------\\
+	//--------------------- Miscs (Total: 1746) ---------------------\\
 	//_________________________ All classes _________________________\\
 	"Altruist's Adornment"						"1"
 	"Antlers"							"1"
@@ -1387,6 +1396,10 @@
 	"Brimstone"							"1"
 	"Captain Space Mann"						"1"
 	"Catastrophic Companions"					"1"
+	"Chapelaria 6v6 1st Place Season 1"				"1"
+	"Chapelaria 6v6 2nd Place Season 1"				"1"
+	"Chapelaria 6v6 3rd Place Season 1"				"1"
+	"Chapelaria 6v6 Participant Season 1"				"1"
 	"Clan Pride"							"1"
 	"Croft's Crest"							"1"
 	"Damaged Capacitor"						"1"
@@ -1403,6 +1416,7 @@
 	"Duel Medal Gold"						"1"
 	"Duel Medal Plat"						"1"
 	"Duel Medal Silver"						"1"
+	"Duncan's Kindhearted Kisser"					"1"
 	"EdgeGamers UltiDuo Participant 2015"				"1"
 	"Employee Badge A"						"1"
 	"Employee Badge B"						"1"
@@ -1410,6 +1424,10 @@
 	"Employee Badge Plat"						"1"
 	"End of the Line Community Update Medal"			"1"
 	"EOTL_hiphunter_boots"						"1"
+	"ESA Rewind 1st Place 2017"					"1"
+	"ESA Rewind 2nd Place 2017"					"1"
+	"ESA Rewind 3rd Place 2017"					"1"
+	"ESA Rewind Participant 2017"					"1"
 	"ESH Ultiduo 1 Gold Medal"					"1"
 	"ESH Ultiduo 2 Gold Medal"					"1"
 	"ESH Ultiduo 3 Gold Medal"					"1"
@@ -1925,15 +1943,19 @@
 	"GAlloween Bronze Medal 2013"					"1"
 	"GAlloween Bronze Medal 2014"					"1"
 	"GAlloween Bronze Medal 2015"					"1"
+	"GAlloween Bronze Medal 2016"					"1"
 	"GAlloween Gold Medal 2013"					"1"
 	"GAlloween Gold Medal 2014"					"1"
 	"GAlloween Gold Medal 2015"					"1"
+	"GAlloween Gold Medal 2016"					"1"
 	"GAlloween Participant Badge 2013"				"1"
 	"GAlloween Participant Badge 2014"				"1"
 	"GAlloween Participant Badge 2015"				"1"
+	"GAlloween Participant Badge 2016"				"1"
 	"GAlloween Silver Medal 2013"					"1"
 	"GAlloween Silver Medal 2014"					"1"
 	"GAlloween Silver Medal 2015"					"1"
+	"GAlloween Silver Medal 2016"					"1"
 	"Gamers Assembly Bronze Medal 2013"				"1"
 	"Gamers Assembly Bronze Medal 2014"				"1"
 	"Gamers Assembly Bronze Medal 2015"				"1"
@@ -1951,9 +1973,11 @@
 	"Gamers Assembly Silver Medal 2015"				"1"
 	"Gamers Assembly Silver Medal 2016"				"1"
 	"Gift of Giving"						"1"
+	"Gift of Giving 2016"						"1"
 	"Glitched Circuit Board"					"1"
 	"Graybanns"							"1"
 	"Grim Tweeter"							"1"
+	"Hannah's Altruistic Aspect"					"1"
 	"Heart of Gold"							"1"
 	"Honeydew's Charitable Countenance"				"1"
 	"InfoShow LAN Party 2014 Participant"				"1"
@@ -2213,6 +2237,9 @@
 	"ozfortress Summer Cup Participant 2016"			"1"
 	"PASS Time Early Participation Pin"				"1"
 	"PASS Time Miniature Half JACK"					"1"
+	"PASS Time Tournament Bronze Medal Season 1"			"1"
+	"PASS Time Tournament Gold Medal Season 1"			"1"
+	"PASS Time Tournament Silver Medal Season 1"			"1"
 	"Pet Robro"							"1"
 	"Photo Badge"							"1"
 	"Pocket Villains"						"1"
@@ -2237,11 +2264,14 @@
 	"RETF2 EE22 Dodgeball Winner Medal Season 1"			"1"
 	"RETF2 EE22 Pan Tournament Participant Medal Season 1"		"1"
 	"RETF2 EE22 Pan Tournament Winner Medal Season 1"		"1"
+	"Sips' Selfless Simulacrum"					"1"
+	"Sjin's Generous Guise"						"1"
 	"Smissmas Wreath"						"1"
 	"Something Special For Someone Special (Wearable)"		"1"
 	"Space Hamster Hammy"						"1"
 	"SpaceChem Pin"							"1"
 	"Special Snowflake"						"1"
+	"Special Snowflake 2016"					"1"
 	"Spirit Of Giving"						"1"
 	"Summer Shades"							"1"
 	"TF2Connexion Division 1 Bronze Medal Season 14"		"1"
@@ -2649,10 +2679,13 @@
 	"Buck Turner All-Stars"						"1"
 	"Buttler"							"1"
 	"EOTL_hiphunter_jacket"						"1"
+	"Handy Canes"							"1"
 	"Hillbilly Speed-Bump"						"1"
 	"Pocket Medic"							"1"
 	"Promo Champ Stamp"						"1"
 	"Promo Triad Trinket"						"1"
+	"Reader's Choice"						"1"
+	"Socked and Loaded"						"1"
 	"Support Spurs"							"1"
 	"The All-Father"						"1"
 	"The Beep Boy"							"1"
@@ -2702,6 +2735,7 @@
 	"Orion's Belt"							"1"
 	"Scout Flip-Flops"						"1"
 	"Sign of the Wolf's School"					"1"
+	"Snowwing"							"1"
 	"Squire's Sabatons"						"1"
 	"The Argyle Ace"						"1"
 	"The Bat Backup"						"1"
@@ -2713,6 +2747,7 @@
 	"The Cool Cat Cardigan"						"1"
 	"The Delinquent's Down Vest"					"1"
 	"The Digit Divulger"						"1"
+	"The Electric Twanger"						"1"
 	"The Fast Learner"						"1"
 	"The Flapjack"							"1"
 	"The Flight of the Monarch"					"1"
@@ -2772,12 +2807,14 @@
 	"dec2014 Torchers Tabard"					"1"
 	"El Muchacho"							"1"
 	"EOTL_pyro_sweater"						"1"
+	"Flammable Favor"						"1"
 	"Jupiter Jetpack"						"1"
 	"Neptune's Nightmare"						"1"
 	"Phobos Filter"							"1"
 	"Pop-eyes"							"1"
 	"Pyro Monocle"							"1"
 	"Rail Spikes"							"1"
+	"Sweet Smissmas Sweater"					"1"
 	"The Backpack Broiler"						"1"
 	"The Blizzard Breather"						"1"
 	"The Burning Bandana"						"1"
@@ -2898,6 +2935,7 @@
 	"Life Support System"						"1"
 	"Mining Light"							"1"
 	"Mister Bubbles"						"1"
+	"Packable Provisions"						"1"
 	"Pip-Boy"							"1"
 	"Prairie Heel Biters"						"1"
 	"Roboot"							"1"
@@ -2952,6 +2990,7 @@
 	"Medic Goggles"							"1"
 	"Medical Monarch"						"1"
 	"Pocket Heavy"							"1"
+	"Santarchimedes"						"1"
 	"The Angel of Death"						"1"
 	"The Chronoscarf"						"1"
 	"The Colonel's Coat"						"1"
@@ -3053,7 +3092,7 @@
 	"Promotional Noise Maker - Fireworks"				"0"
 	"Promotional Noise Maker - Koto"				"0"
 
-	//---------------------- Other (Total: 25) ----------------------\\
+	//---------------------- Other (Total: 26) ----------------------\\
 	//_________________________ All classes _________________________\\
 	"Basic Spellbook"						"1"
 	"Duck Badge"							"1"
@@ -3076,6 +3115,7 @@
 	"Keyless Cosmetic Crate Sniper"					"1"
 	"Keyless Cosmetic Crate Soldier"				"1"
 	"Keyless Cosmetic Crate Spy"					"1"
+	"Keyless Winter 2016 Case"					"1"
 	"Pile Of Ash"							"1"
 	"Pile Of Curses"						"1"
 	"Summer Adventure Pack"						"1"
@@ -3126,7 +3166,7 @@
 	"Upgradeable TF_WEAPON_KNIFE"					"1"
 	"Upgradeable TF_WEAPON_REVOLVER"				"1"
 
-	//--------------------- Taunts (Total: 39) ----------------------\\
+	//--------------------- Taunts (Total: 43) ----------------------\\
 	//_________________________ All classes _________________________\\
 	"Conga Taunt"							"0"
 	"Flippin' Awesome Taunt"					"0"
@@ -3159,9 +3199,12 @@
 	//___________________________ Demoman ___________________________\\
 	"Oblooterated Taunt"						"0"
 	"Spent Well Spirits Taunt"					"0"
+	"Taunt: Scotsmann's Stagger"					"0"
 	"Taunt: True Scotsman's Call"					"0"
 	//____________________________ Heavy ____________________________\\
+	"Taunt: The Boiling Point"					"0"
 	"Taunt: The Proletariat Showoff"				"0"
+	"Taunt: The Table Tantrum"					"0"
 	//__________________________ Engineer ___________________________\\
 	"Rancho Relaxo Taunt"						"0"
 	"Taunt: Bucking Bronco"						"0"
@@ -3170,6 +3213,7 @@
 	"Results Are In Taunt"						"1"
 	//___________________________ Sniper ____________________________\\
 	"I See You Taunt"						"0"
+	"Taunt: Didgeridrongo"						"0"
 	"Taunt: Most Wanted"						"0"
 	"Taunt: The Killer Solo"					"0"
 	//_____________________________ Spy _____________________________\\
