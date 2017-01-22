@@ -1,5 +1,5 @@
-// Whitelist generated at Mon, 16 Jan 2017 02:35:01 +0100
-// Whitelist: Global Whitelist 6v6 (ESEA/ETF2L/FACEIT/ozfortress/UGC) (ID: 6644)
+// Whitelist generated at Sun, 22 Jan 2017 10:08:18 +0100
+// Whitelist: Global Whitelist 6v6 (ESEA/ETF2L/FACEIT/ozfortress/UGC) (ID: 6839)
 
 // Share or view this whitelist:
 //	http://whitelist.tf/competitive_6v6
@@ -40,14 +40,13 @@
 // Blocked weapons for Heavy
 // - Secondary
 //  * Buffalo Steak Sandvich
-//  * Dalokohs Bar
 // - Melee
 //  * Fists of Steel
 //  * Gloves of Running Urgently
 
 // Blocked weapons for Engineer
 // - Primary
-//  * Pomson 6000
+//  * Rescue Ranger
 // - Secondary
 //  * Short Circuit
 //  * Wrangler
@@ -69,7 +68,7 @@
 {
 	"unlisted_items_default_to"		"0"
 
-	//---------------- Allowed weapons (Total: 106) -----------------\\
+	//---------------- Allowed weapons (Total: 107) -----------------\\
 	//______________________ Multiple classes _______________________\\
 	"Panic Attack Shotgun"						"1"
 	"The Half-Zatoichi"						"1"
@@ -137,6 +136,7 @@
 	//____________________________ Heavy ____________________________\\
 	"Natascha"							"1"
 	"The Brass Beast"						"1"
+	"The Dalokohs Bar"						"1"
 	"The Eviction Notice"						"1"
 	"The Family Business"						"1"
 	"The Holiday Punch"						"1"
@@ -150,7 +150,7 @@
 	"The Frontier Justice"						"1"
 	"The Gunslinger"						"1"
 	"The Jag"							"1"
-	"The Rescue Ranger"						"1"
+	"The Pomson 6000"						"1"
 	"The Southern Hospitality"					"1"
 	"The Widowmaker"						"1"
 	//____________________________ Medic ____________________________\\
@@ -187,7 +187,7 @@
 	"The Spy-cicle"							"1"
 	"Your Eternal Reward"						"1"
 
-	//------------- Allowed weapon reskins (Total: 307) -------------\\
+	//------------- Allowed weapon reskins (Total: 308) -------------\\
 	//_________________________ All classes _________________________\\
 	"Gold Frying Pan"						"1"
 	"Prinny Machete"						"1"
@@ -361,6 +361,7 @@
 	"Diamond Botkiller Minigun Mk.I"				"1"
 	"Festive Minigun 2011"						"1"
 	"Festive Sandvich"						"1"
+	"Fishcake"							"1"
 	"gentlemanne_minigun_coffinnail"				"1"
 	"gentlemanne_minigun_dressedtokill"				"1"
 	"gentlemanne_minigun_topshelf"					"1"
@@ -507,7 +508,7 @@
 	"warbird_knife_blitzkrieg"					"1"
 	"warbird_revolver_blitzkrieg"					"1"
 
-	//------------- Blocked weapons/reskins (Total: 31) -------------\\
+	//------------- Blocked weapons/reskins (Total: 29) -------------\\
 	//______________________ Multiple classes _______________________\\
 	"The B.A.S.E. Jumper"						"0"
 	"The Reserve Shooter"						"0"
@@ -527,16 +528,14 @@
 	//____________________________ Heavy ____________________________\\
 	"Deflector"							"0"
 	"Festive Gloves of Running Urgently"				"0"
-	"Fishcake"							"0"
 	"Fists of Steel"						"0"
 	"Gloves of Running Urgently"					"0"
 	"The Bread Bite"						"0"
 	"The Buffalo Steak Sandvich"					"0"
-	"The Dalokohs Bar"						"0"
 	//__________________________ Engineer ___________________________\\
 	"Festive Wrangler"						"0"
 	"The Giger Counter"						"0"
-	"The Pomson 6000"						"0"
+	"The Rescue Ranger"						"0"
 	"The Short Circuit"						"0"
 	"The Wrangler"							"0"
 	//____________________________ Medic ____________________________\\
@@ -1361,7 +1360,7 @@
 	"The Stealth Steeler"						"1"
 	"tw_spybot_hood"						"1"
 
-	//--------------------- Miscs (Total: 1746) ---------------------\\
+	//--------------------- Miscs (Total: 1759) ---------------------\\
 	//_________________________ All classes _________________________\\
 	"Altruist's Adornment"						"1"
 	"Antlers"							"1"
@@ -2033,21 +2032,25 @@
 	"LBTF2 6v6 Access 1st Place Season 11"				"1"
 	"LBTF2 6v6 Access 1st Place Season 12"				"1"
 	"LBTF2 6v6 Access 1st Place Season 13"				"1"
+	"LBTF2 6v6 Access 1st Place Season 14"				"1"
 	"LBTF2 6v6 Access 1st Place Season 9"				"1"
 	"LBTF2 6v6 Access 2nd Place Season 10"				"1"
 	"LBTF2 6v6 Access 2nd Place Season 11"				"1"
 	"LBTF2 6v6 Access 2nd Place Season 12"				"1"
 	"LBTF2 6v6 Access 2nd Place Season 13"				"1"
+	"LBTF2 6v6 Access 2nd Place Season 14"				"1"
 	"LBTF2 6v6 Access 2nd Place Season 9"				"1"
 	"LBTF2 6v6 Access 3rd Place Season 10"				"1"
 	"LBTF2 6v6 Access 3rd Place Season 11"				"1"
 	"LBTF2 6v6 Access 3rd Place Season 12"				"1"
 	"LBTF2 6v6 Access 3rd Place Season 13"				"1"
+	"LBTF2 6v6 Access 3rd Place Season 14"				"1"
 	"LBTF2 6v6 Access 3rd Place Season 9"				"1"
 	"LBTF2 6v6 Access Participant Season 10"			"1"
 	"LBTF2 6v6 Access Participant Season 11"			"1"
 	"LBTF2 6v6 Access Participant Season 12"			"1"
 	"LBTF2 6v6 Access Participant Season 13"			"1"
+	"LBTF2 6v6 Access Participant Season 14"			"1"
 	"LBTF2 6v6 Access Participant Season 9"				"1"
 	"LBTF2 6v6 Central 1st Place Season 10"				"1"
 	"LBTF2 6v6 Central 1st Place Season 11"				"1"
@@ -2068,46 +2071,55 @@
 	"LBTF2 6v6 Central Participant Season 11"			"1"
 	"LBTF2 6v6 Central Participant Season 12"			"1"
 	"LBTF2 6v6 Central Participant Season 13"			"1"
+	"LBTF2 6v6 Central Participant Season 14"			"1"
 	"LBTF2 6v6 Central Participant Season 9"			"1"
 	"LBTF2 6v6 Elite 1st Place Season 10"				"1"
 	"LBTF2 6v6 Elite 1st Place Season 11"				"1"
 	"LBTF2 6v6 Elite 1st Place Season 12"				"1"
 	"LBTF2 6v6 Elite 1st Place Season 13"				"1"
+	"LBTF2 6v6 Elite 1st Place Season 14"				"1"
 	"LBTF2 6v6 Elite 1st Place Season 9"				"1"
 	"LBTF2 6v6 Elite 2nd Place Season 10"				"1"
 	"LBTF2 6v6 Elite 2nd Place Season 11"				"1"
 	"LBTF2 6v6 Elite 2nd Place Season 12"				"1"
 	"LBTF2 6v6 Elite 2nd Place Season 13"				"1"
+	"LBTF2 6v6 Elite 2nd Place Season 14"				"1"
 	"LBTF2 6v6 Elite 2nd Place Season 9"				"1"
 	"LBTF2 6v6 Elite 3rd Place Season 10"				"1"
 	"LBTF2 6v6 Elite 3rd Place Season 11"				"1"
 	"LBTF2 6v6 Elite 3rd Place Season 12"				"1"
 	"LBTF2 6v6 Elite 3rd Place Season 13"				"1"
+	"LBTF2 6v6 Elite 3rd Place Season 14"				"1"
 	"LBTF2 6v6 Elite 3rd Place Season 9"				"1"
 	"LBTF2 6v6 Elite Participant Season 10"				"1"
 	"LBTF2 6v6 Elite Participant Season 11"				"1"
 	"LBTF2 6v6 Elite Participant Season 12"				"1"
 	"LBTF2 6v6 Elite Participant Season 13"				"1"
+	"LBTF2 6v6 Elite Participant Season 14"				"1"
 	"LBTF2 6v6 Elite Participant Season 9"				"1"
 	"LBTF2 6v6 Open 1st Place Season 10"				"1"
 	"LBTF2 6v6 Open 1st Place Season 11"				"1"
 	"LBTF2 6v6 Open 1st Place Season 12"				"1"
 	"LBTF2 6v6 Open 1st Place Season 13"				"1"
+	"LBTF2 6v6 Open 1st Place Season 14"				"1"
 	"LBTF2 6v6 Open 1st Place Season 9"				"1"
 	"LBTF2 6v6 Open 2nd Place Season 10"				"1"
 	"LBTF2 6v6 Open 2nd Place Season 11"				"1"
 	"LBTF2 6v6 Open 2nd Place Season 12"				"1"
 	"LBTF2 6v6 Open 2nd Place Season 13"				"1"
+	"LBTF2 6v6 Open 2nd Place Season 14"				"1"
 	"LBTF2 6v6 Open 2nd Place Season 9"				"1"
 	"LBTF2 6v6 Open 3rd Place Season 10"				"1"
 	"LBTF2 6v6 Open 3rd Place Season 11"				"1"
 	"LBTF2 6v6 Open 3rd Place Season 12"				"1"
 	"LBTF2 6v6 Open 3rd Place Season 13"				"1"
+	"LBTF2 6v6 Open 3rd Place Season 14"				"1"
 	"LBTF2 6v6 Open 3rd Place Season 9"				"1"
 	"LBTF2 6v6 Open Participant Season 10"				"1"
 	"LBTF2 6v6 Open Participant Season 11"				"1"
 	"LBTF2 6v6 Open Participant Season 12"				"1"
 	"LBTF2 6v6 Open Participant Season 13"				"1"
+	"LBTF2 6v6 Open Participant Season 14"				"1"
 	"LBTF2 6v6 Open Participant Season 9"				"1"
 	"LBTF2 Highlander 1st Place Season 1"				"1"
 	"LBTF2 Highlander 2nd Place Season 1"				"1"
@@ -3223,7 +3235,7 @@
 	"Taunt: Burstchester"						"1"
 	"Taunt: Kazotsky Kick"						"0"
 	"Taunt: Mannrobics"						"0"
-	"Taunt: Second Rate Sorcery"					"1"
+	"Taunt: Second Rate Sorcery"					"0"
 	"Taunt: The Victory Lap"					"0"
 	"Taunt: Zoomin' Broom"						"0"
 	"The Shred Alert"						"1"
