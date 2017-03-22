@@ -1,8 +1,8 @@
-// Whitelist generated at Mon, 16 Jan 2017 02:37:39 +0100
-// Whitelist: UGC 4v4 (Season 8) (ID: 5171)
+// Whitelist generated at Wed, 22 Mar 2017 13:21:26 +0100
+// Whitelist: UGC 4v4 (Season 10) (ID: 7047)
 
 // Share or view this whitelist:
-//	http://whitelist.tf/ugc_4v4_s8
+//	http://whitelist.tf/ugc_4v4_s10
 
 // New items added to the game are: NOT allowed
 // Hats are: allowed
@@ -18,25 +18,29 @@
 
 // Blocked weapons for Multiple classes
 // - Secondary
-//  * B.A.S.E. Jumper
 //  * Reserve Shooter
 
 // Blocked weapons for Scout
 // - Primary
-//  * Baby Face's Blaster
-//  * Back Scatter
+//  * Soda Popper
 // - Secondary
 //  * Crit-a-Cola
+//  * Mad Milk
+// - Melee
+//  * Sandman
 
 // Blocked weapons for Soldier
 // - Primary
 //  * Air Strike
 //  * Beggar's Bazooka
 
+// Blocked weapons for Pyro
+// - Melee
+//  * Back Scratcher
+
 // Blocked weapons for Demoman
 // - Primary
 //  * Loch-n-Load
-//  * Loose Cannon
 
 // Blocked weapons for Engineer
 // - Primary
@@ -56,6 +60,8 @@
 // Blocked weapons for Sniper
 // - Primary
 //  * Bazaar Bargain
+// - Secondary
+//  * Darwin's Danger Shield
 
 // Blocked weapons for Spy
 // - Sapper
@@ -65,25 +71,25 @@
 {
 	"unlisted_items_default_to"		"0"
 
-	//---------------- Allowed weapons (Total: 111) -----------------\\
+	//---------------- Allowed weapons (Total: 110) -----------------\\
 	//______________________ Multiple classes _______________________\\
 	"Panic Attack Shotgun"						"1"
+	"The B.A.S.E. Jumper"						"1"
 	"The Half-Zatoichi"						"1"
 	"The Pain Train"						"1"
 	//____________________________ Scout ____________________________\\
+	"Baby Face's Blaster"						"1"
 	"Bonk! Atomic Punch"						"1"
-	"Mad Milk"							"1"
 	"Pretty Boy's Pocket Pistol"					"1"
 	"Sun-on-a-Stick"						"1"
 	"The Atomizer"							"1"
+	"The Back Scatter"						"1"
 	"The Boston Basher"						"1"
 	"The Candy Cane"						"1"
 	"The Fan O'War"							"1"
 	"The Flying Guillotine"						"1"
 	"The Force-a-Nature"						"1"
-	"The Sandman"							"1"
 	"The Shortstop"							"1"
-	"The Soda Popper"						"1"
 	"The Winger"							"1"
 	"The Wrap Assassin"						"1"
 	//___________________________ Soldier ___________________________\\
@@ -105,7 +111,6 @@
 	//____________________________ Pyro _____________________________\\
 	"Sharpened Volcano Fragment"					"1"
 	"The Axtinguisher"						"1"
-	"The Back Scratcher"						"1"
 	"The Backburner"						"1"
 	"The Degreaser"							"1"
 	"The Detonator"							"1"
@@ -124,6 +129,7 @@
 	"The Claidheamohmor"						"1"
 	"The Eyelander"							"1"
 	"The Iron Bomber"						"1"
+	"The Loose Cannon"						"1"
 	"The Persian Persuader"						"1"
 	"The Quickiebomb Launcher"					"1"
 	"The Scotsman's Skullcutter"					"1"
@@ -163,7 +169,6 @@
 	"The Solemn Vow"						"1"
 	"The Ubersaw"							"1"
 	//___________________________ Sniper ____________________________\\
-	"Darwin's Danger Shield"					"1"
 	"Jarate"							"1"
 	"The Bushwacka"							"1"
 	"The Classic"							"1"
@@ -188,7 +193,7 @@
 	"The Spy-cicle"							"1"
 	"Your Eternal Reward"						"1"
 
-	//------------- Allowed weapon reskins (Total: 314) -------------\\
+	//------------- Allowed weapon reskins (Total: 313) -------------\\
 	//_________________________ All classes _________________________\\
 	"Gold Frying Pan"						"1"
 	"Prinny Machete"						"1"
@@ -247,7 +252,6 @@
 	"Gold Botkiller Scattergun Mk.II"				"1"
 	"harvest_scattergun_macabreweb"					"1"
 	"harvest_scattergun_nutcracker"					"1"
-	"Mutated Milk"							"1"
 	"powerhouse_scattergun_currentevent"				"1"
 	"Promo Flying Guillotine"					"1"
 	"pyroland_scattergun_bluemew"					"1"
@@ -515,20 +519,22 @@
 	"warbird_knife_blitzkrieg"					"1"
 	"warbird_revolver_blitzkrieg"					"1"
 
-	//------------- Blocked weapons/reskins (Total: 19) -------------\\
+	//------------- Blocked weapons/reskins (Total: 21) -------------\\
 	//______________________ Multiple classes _______________________\\
-	"The B.A.S.E. Jumper"						"0"
 	"The Reserve Shooter"						"0"
 	//____________________________ Scout ____________________________\\
-	"Baby Face's Blaster"						"0"
 	"Crit-a-Cola"							"0"
-	"The Back Scatter"						"0"
+	"Mad Milk"							"0"
+	"Mutated Milk"							"0"
+	"The Sandman"							"0"
+	"The Soda Popper"						"0"
 	//___________________________ Soldier ___________________________\\
 	"The Air Strike"						"0"
 	"The Beggar's Bazooka"						"0"
+	//____________________________ Pyro _____________________________\\
+	"The Back Scratcher"						"0"
 	//___________________________ Demoman ___________________________\\
 	"The Loch-n-Load"						"0"
-	"The Loose Cannon"						"0"
 	//____________________________ Heavy ____________________________\\
 	"Deflector"							"0"
 	//__________________________ Engineer ___________________________\\
@@ -540,6 +546,7 @@
 	"The Vaccinator"						"0"
 	"The Vita-Saw"							"0"
 	//___________________________ Sniper ____________________________\\
+	"Darwin's Danger Shield"					"0"
 	"The Bazaar Bargain"						"0"
 	//_____________________________ Spy _____________________________\\
 	"Promo Red-Tape Recorder"					"0"
@@ -1358,7 +1365,7 @@
 	"The Stealth Steeler"						"1"
 	"tw_spybot_hood"						"1"
 
-	//--------------------- Miscs (Total: 1746) ---------------------\\
+	//--------------------- Miscs (Total: 1776) ---------------------\\
 	//_________________________ All classes _________________________\\
 	"Altruist's Adornment"						"1"
 	"Antlers"							"1"
@@ -2030,21 +2037,25 @@
 	"LBTF2 6v6 Access 1st Place Season 11"				"1"
 	"LBTF2 6v6 Access 1st Place Season 12"				"1"
 	"LBTF2 6v6 Access 1st Place Season 13"				"1"
+	"LBTF2 6v6 Access 1st Place Season 14"				"1"
 	"LBTF2 6v6 Access 1st Place Season 9"				"1"
 	"LBTF2 6v6 Access 2nd Place Season 10"				"1"
 	"LBTF2 6v6 Access 2nd Place Season 11"				"1"
 	"LBTF2 6v6 Access 2nd Place Season 12"				"1"
 	"LBTF2 6v6 Access 2nd Place Season 13"				"1"
+	"LBTF2 6v6 Access 2nd Place Season 14"				"1"
 	"LBTF2 6v6 Access 2nd Place Season 9"				"1"
 	"LBTF2 6v6 Access 3rd Place Season 10"				"1"
 	"LBTF2 6v6 Access 3rd Place Season 11"				"1"
 	"LBTF2 6v6 Access 3rd Place Season 12"				"1"
 	"LBTF2 6v6 Access 3rd Place Season 13"				"1"
+	"LBTF2 6v6 Access 3rd Place Season 14"				"1"
 	"LBTF2 6v6 Access 3rd Place Season 9"				"1"
 	"LBTF2 6v6 Access Participant Season 10"			"1"
 	"LBTF2 6v6 Access Participant Season 11"			"1"
 	"LBTF2 6v6 Access Participant Season 12"			"1"
 	"LBTF2 6v6 Access Participant Season 13"			"1"
+	"LBTF2 6v6 Access Participant Season 14"			"1"
 	"LBTF2 6v6 Access Participant Season 9"				"1"
 	"LBTF2 6v6 Central 1st Place Season 10"				"1"
 	"LBTF2 6v6 Central 1st Place Season 11"				"1"
@@ -2065,46 +2076,55 @@
 	"LBTF2 6v6 Central Participant Season 11"			"1"
 	"LBTF2 6v6 Central Participant Season 12"			"1"
 	"LBTF2 6v6 Central Participant Season 13"			"1"
+	"LBTF2 6v6 Central Participant Season 14"			"1"
 	"LBTF2 6v6 Central Participant Season 9"			"1"
 	"LBTF2 6v6 Elite 1st Place Season 10"				"1"
 	"LBTF2 6v6 Elite 1st Place Season 11"				"1"
 	"LBTF2 6v6 Elite 1st Place Season 12"				"1"
 	"LBTF2 6v6 Elite 1st Place Season 13"				"1"
+	"LBTF2 6v6 Elite 1st Place Season 14"				"1"
 	"LBTF2 6v6 Elite 1st Place Season 9"				"1"
 	"LBTF2 6v6 Elite 2nd Place Season 10"				"1"
 	"LBTF2 6v6 Elite 2nd Place Season 11"				"1"
 	"LBTF2 6v6 Elite 2nd Place Season 12"				"1"
 	"LBTF2 6v6 Elite 2nd Place Season 13"				"1"
+	"LBTF2 6v6 Elite 2nd Place Season 14"				"1"
 	"LBTF2 6v6 Elite 2nd Place Season 9"				"1"
 	"LBTF2 6v6 Elite 3rd Place Season 10"				"1"
 	"LBTF2 6v6 Elite 3rd Place Season 11"				"1"
 	"LBTF2 6v6 Elite 3rd Place Season 12"				"1"
 	"LBTF2 6v6 Elite 3rd Place Season 13"				"1"
+	"LBTF2 6v6 Elite 3rd Place Season 14"				"1"
 	"LBTF2 6v6 Elite 3rd Place Season 9"				"1"
 	"LBTF2 6v6 Elite Participant Season 10"				"1"
 	"LBTF2 6v6 Elite Participant Season 11"				"1"
 	"LBTF2 6v6 Elite Participant Season 12"				"1"
 	"LBTF2 6v6 Elite Participant Season 13"				"1"
+	"LBTF2 6v6 Elite Participant Season 14"				"1"
 	"LBTF2 6v6 Elite Participant Season 9"				"1"
 	"LBTF2 6v6 Open 1st Place Season 10"				"1"
 	"LBTF2 6v6 Open 1st Place Season 11"				"1"
 	"LBTF2 6v6 Open 1st Place Season 12"				"1"
 	"LBTF2 6v6 Open 1st Place Season 13"				"1"
+	"LBTF2 6v6 Open 1st Place Season 14"				"1"
 	"LBTF2 6v6 Open 1st Place Season 9"				"1"
 	"LBTF2 6v6 Open 2nd Place Season 10"				"1"
 	"LBTF2 6v6 Open 2nd Place Season 11"				"1"
 	"LBTF2 6v6 Open 2nd Place Season 12"				"1"
 	"LBTF2 6v6 Open 2nd Place Season 13"				"1"
+	"LBTF2 6v6 Open 2nd Place Season 14"				"1"
 	"LBTF2 6v6 Open 2nd Place Season 9"				"1"
 	"LBTF2 6v6 Open 3rd Place Season 10"				"1"
 	"LBTF2 6v6 Open 3rd Place Season 11"				"1"
 	"LBTF2 6v6 Open 3rd Place Season 12"				"1"
 	"LBTF2 6v6 Open 3rd Place Season 13"				"1"
+	"LBTF2 6v6 Open 3rd Place Season 14"				"1"
 	"LBTF2 6v6 Open 3rd Place Season 9"				"1"
 	"LBTF2 6v6 Open Participant Season 10"				"1"
 	"LBTF2 6v6 Open Participant Season 11"				"1"
 	"LBTF2 6v6 Open Participant Season 12"				"1"
 	"LBTF2 6v6 Open Participant Season 13"				"1"
+	"LBTF2 6v6 Open Participant Season 14"				"1"
 	"LBTF2 6v6 Open Participant Season 9"				"1"
 	"LBTF2 Highlander 1st Place Season 1"				"1"
 	"LBTF2 Highlander 2nd Place Season 1"				"1"
@@ -2239,39 +2259,51 @@
 	"ozfortress Intermediate 1st Place Season 15"			"1"
 	"ozfortress Intermediate 1st Place Season 16"			"1"
 	"ozfortress Intermediate 1st Place Season 17"			"1"
+	"ozfortress Intermediate 1st Place Season 18"			"1"
 	"ozfortress Intermediate 2nd Place Season 15"			"1"
 	"ozfortress Intermediate 2nd Place Season 16"			"1"
 	"ozfortress Intermediate 2nd Place Season 17"			"1"
+	"ozfortress Intermediate 2nd Place Season 18"			"1"
 	"ozfortress Intermediate 3rd Place Season 15"			"1"
 	"ozfortress Intermediate 3rd Place Season 16"			"1"
 	"ozfortress Intermediate 3rd Place Season 17"			"1"
+	"ozfortress Intermediate 3rd Place Season 18"			"1"
 	"ozfortress Intermediate Participant Season 15"			"1"
 	"ozfortress Intermediate Participant Season 16"			"1"
 	"ozfortress Intermediate Participant Season 17"			"1"
+	"ozfortress Intermediate Participant Season 18"			"1"
 	"ozfortress Open 1st Place Season 15"				"1"
 	"ozfortress Open 1st Place Season 16"				"1"
 	"ozfortress Open 1st Place Season 17"				"1"
+	"ozfortress Open 1st Place Season 18"				"1"
 	"ozfortress Open 2nd Place Season 15"				"1"
 	"ozfortress Open 2nd Place Season 16"				"1"
 	"ozfortress Open 2nd Place Season 17"				"1"
+	"ozfortress Open 2nd Place Season 18"				"1"
 	"ozfortress Open 3rd Place Season 15"				"1"
 	"ozfortress Open 3rd Place Season 16"				"1"
 	"ozfortress Open 3rd Place Season 17"				"1"
+	"ozfortress Open 3rd Place Season 18"				"1"
 	"ozfortress Open Participant Season 15"				"1"
 	"ozfortress Open Participant Season 16"				"1"
 	"ozfortress Open Participant Season 17"				"1"
+	"ozfortress Open Participant Season 18"				"1"
 	"ozfortress Premier 1st Place Season 15"			"1"
 	"ozfortress Premier 1st Place Season 16"			"1"
 	"ozfortress Premier 1st Place Season 17"			"1"
+	"ozfortress Premier 1st Place Season 18"			"1"
 	"ozfortress Premier 2nd Place Season 15"			"1"
 	"ozfortress Premier 2nd Place Season 16"			"1"
 	"ozfortress Premier 2nd Place Season 17"			"1"
+	"ozfortress Premier 2nd Place Season 18"			"1"
 	"ozfortress Premier 3rd Place Season 15"			"1"
 	"ozfortress Premier 3rd Place Season 16"			"1"
 	"ozfortress Premier 3rd Place Season 17"			"1"
+	"ozfortress Premier 3rd Place Season 18"			"1"
 	"ozfortress Premier Participant Season 15"			"1"
 	"ozfortress Premier Participant Season 16"			"1"
 	"ozfortress Premier Participant Season 17"			"1"
+	"ozfortress Premier Participant Season 18"			"1"
 	"ozfortress Summer Cup 1st Place 2016"				"1"
 	"ozfortress Summer Cup 2nd Place 2016"				"1"
 	"ozfortress Summer Cup 3rd Place 2016"				"1"
@@ -2288,6 +2320,10 @@
 	"Portal 2 Pin"							"1"
 	"Prinny Pouch"							"1"
 	"Promo Marxman"							"1"
+	"Rally Call 2017 - 1st place Medal"				"1"
+	"Rally Call 2017 - 2nd Place Medal"				"1"
+	"Rally Call 2017 Donator Medal"					"1"
+	"Rally Call 2017 Participant/Helper Medal"			"1"
 	"Ready Steady Pan First Place Season 2"				"1"
 	"Ready Steady Pan Helper Season 1"				"1"
 	"Ready Steady Pan Helper Season 2"				"1"
@@ -2343,7 +2379,8 @@
 	"TF2Connexion Division 4 Gold Medal Season 14"			"1"
 	"TF2Connexion Division 4 Participant Season 14"			"1"
 	"TF2Connexion Division 4 Silver Medal Season 14"		"1"
-	"TF2Maps 72hr TF2Jam Summer Participant"			"1"
+	"TF2Maps 72hr TF2Jam Summer Participant 2016"			"1"
+	"TF2Maps 72hr TF2Jam Winter Participant 2017"			"1"
 	"The Atomic Accolade"						"1"
 	"The Baronial Badge"						"1"
 	"The Bolgan Family Crest"					"1"
@@ -3220,7 +3257,7 @@
 	"Taunt: Burstchester"						"1"
 	"Taunt: Kazotsky Kick"						"0"
 	"Taunt: Mannrobics"						"0"
-	"Taunt: Second Rate Sorcery"					"0"
+	"Taunt: Second Rate Sorcery"					"1"
 	"Taunt: The Victory Lap"					"0"
 	"Taunt: Zoomin' Broom"						"0"
 	"The Shred Alert"						"0"
@@ -3259,7 +3296,7 @@
 	"Taunt: The Killer Solo"					"1"
 	//_____________________________ Spy _____________________________\\
 	"Buy A Life Taunt"						"1"
-	"Taunt: Disco Fever"						"0"
+	"Taunt: Disco Fever"						"1"
 	"Taunt: The Boxtrot"						"0"
 
 	//------------------ UGC exceptions (Total: 1) ------------------\\
