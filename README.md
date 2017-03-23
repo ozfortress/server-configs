@@ -1,6 +1,6 @@
 # ozfortress server configurations
 
-##ozfortress seasonal league
+## ozfortress seasonal league
 The following formats are used in the ozfortress seasonal league and have an associated configuration file in the ozfortress configs.
 
 #### 5 Control Points
