@@ -44,33 +44,25 @@
 //  * Fists of Steel
 //  * Gloves of Running Urgently
 
-// Blocked weapons for Demoman
-// - Secondary
-//  * The Loch-n-Load
-
 // Blocked weapons for Engineer
 // - Primary
 //  * Rescue Ranger
-//  * The Pomson 6000
 // - Secondary
 //  * Short Circuit
 //  * Wrangler
 
 // Blocked weapons for Medic
 // - Secondary
-//  * The Vaccinator
+//  * Quick-Fix
 // - Melee
+//  * Solemn Vow
 //  * Vita-Saw
 
 // Blocked weapons for Sniper
 // - Primary
 //  * Sydney Sleeper
 // - Secondary
-//  * Jarate
-
-// Blocked weapons for Spy
-// - Secondary
-//  * The Dead Ringer
+//  * Darwin's Danger Shield
 
 "item_whitelist"
 {
@@ -132,6 +124,7 @@
 	"The Claidheamohmor"						"1"
 	"The Eyelander"							"1"
 	"The Iron Bomber"						"1"
+	"The Loch-n-Load"						"1"
 	"The Loose Cannon"						"1"
 	"The Persian Persuader"						"1"
 	"The Quickiebomb Launcher"					"1"
@@ -157,6 +150,7 @@
 	"The Frontier Justice"						"1"
 	"The Gunslinger"						"1"
 	"The Jag"							"1"
+	"The Pomson 6000"						"1"
 	"The Southern Hospitality"					"1"
 	"The Widowmaker"						"1"
 	//____________________________ Medic ____________________________\\
@@ -165,10 +159,10 @@
 	"The Crusader's Crossbow"					"1"
 	"The Kritzkrieg"						"1"
 	"The Overdose"							"1"
-	"The Quick-Fix"							"1"
 	"The Ubersaw"							"1"
-	"The Solemn Vow"						"1"
+	"The Vaccinator"						"1"
 	//___________________________ Sniper ____________________________\\
+	"Jarate"							"1"
 	"The Bazaar Bargain"						"1"
 	"The Bushwacka"							"1"
 	"The Classic"							"1"
@@ -180,13 +174,13 @@
 	"The Razorback"							"1"
 	"The Shahanshah"						"1"
 	"The Tribalman's Shiv"						"1"
-	"Darwin's Danger Shield"					"1"
 	//_____________________________ Spy _____________________________\\
 	"Conniver's Kunai"						"1"
 	"L'Etranger"							"1"
 	"The Ambassador"						"1"
 	"The Big Earner"						"1"
 	"The Cloak and Dagger"						"1"
+	"The Dead Ringer"						"1"
 	"The Diamondback"						"1"
 	"The Enforcer"							"1"
 	"The Red-Tape Recorder"						"1"
@@ -545,8 +539,11 @@
 	"The Short Circuit"						"0"
 	"The Wrangler"							"0"
 	//____________________________ Medic ____________________________\\
+	"The Quick-Fix"							"0"
+	"The Solemn Vow"						"0"
 	"The Vita-Saw"							"0"
 	//___________________________ Sniper ____________________________\\
+	"Darwin's Danger Shield"					"0"
 	"The Sydney Sleeper"						"0"
 
 	//------------------ Gifting items (Total: 23) ------------------\\
