@@ -1,4 +1,4 @@
-// Whitelist generated at Fri, 14 Apr 2017 09:14:04 +0200
+// Whitelist generated at Sun, 16 Apr 2017 01:53:21 +0200
 // Whitelist: ozfortress Ultiduo (ID: 7046)
 
 // Share or view this whitelist:
@@ -21,6 +21,8 @@
 //  * Escape Plan
 
 // Allowed weapons for Medic
+// - Primary
+//  * Crusader's Crossbow
 // - Melee
 //  * Ubersaw
 
@@ -28,13 +30,14 @@
 {
 	"unlisted_items_default_to"		"0"
 
-	//----------------- Allowed weapons (Total: 2) ------------------\\
+	//----------------- Allowed weapons (Total: 3) ------------------\\
 	//___________________________ Soldier ___________________________\\
 	"The Escape Plan"						"1"
 	//____________________________ Medic ____________________________\\
+	"The Crusader's Crossbow"					"1"
 	"The Ubersaw"							"1"
 
-	//------------- Allowed weapon reskins (Total: 279) -------------\\
+	//------------- Allowed weapon reskins (Total: 280) -------------\\
 	//_________________________ All classes _________________________\\
 	"Gold Frying Pan"						"1"
 	"Prinny Machete"						"1"
@@ -236,6 +239,7 @@
 	"craftsmann_medigun_reclaimedreanimator"			"1"
 	"Diamond Botkiller Medi Gun Mk.I"				"1"
 	"Festive Bonesaw 2014"						"1"
+	"Festive Crusader's Crossbow"					"1"
 	"Festive Medigun 2011"						"1"
 	"Festive Ubersaw"						"1"
 	"gentlemanne_medigun_coffinnail"				"1"
@@ -326,7 +330,7 @@
 	"warbird_knife_blitzkrieg"					"1"
 	"warbird_revolver_blitzkrieg"					"1"
 
-	//------------ Blocked weapons/reskins (Total: 163) -------------\\
+	//------------ Blocked weapons/reskins (Total: 161) -------------\\
 	//______________________ Multiple classes _______________________\\
 	"Panic Attack Shotgun"						"0"
 	"The B.A.S.E. Jumper"						"0"
@@ -455,10 +459,8 @@
 	"The Widowmaker"						"0"
 	"The Wrangler"							"0"
 	//____________________________ Medic ____________________________\\
-	"Festive Crusader's Crossbow"					"0"
 	"The Amputator"							"0"
 	"The Blutsauger"						"0"
-	"The Crusader's Crossbow"					"0"
 	"The Kritzkrieg"						"0"
 	"The Overdose"							"0"
 	"The Quick-Fix"							"0"
