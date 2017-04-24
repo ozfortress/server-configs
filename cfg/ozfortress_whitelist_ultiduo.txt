@@ -1,8 +1,8 @@
-// Whitelist generated at Sun, 16 Apr 2017 01:53:21 +0200
-// Whitelist: ozfortress Ultiduo (ID: 7046)
+// Whitelist generated at Mon, 24 Apr 2017 10:57:28 +0200
+// Whitelist: ozfortress Ultiduo 11 (ID: 6678)
 
 // Share or view this whitelist:
-//	http://whitelist.tf/ozfortress_ultiduo
+//	http://whitelist.tf/ozfortress_ultiduo11
 
 // New items added to the game are: NOT allowed
 // Hats are: allowed
@@ -503,7 +503,7 @@
 	"The Wanga Prick"						"0"
 	"Your Eternal Reward"						"0"
 
-	//------------------ Gifting items (Total: 23) ------------------\\
+	//------------------ Gifting items (Total: 24) ------------------\\
 	"Companion Square Promo Package"				"1"
 	"Gift - 1 Duck Token"						"1"
 	"Gift - 1 EOTL Key"						"1"
@@ -527,6 +527,7 @@
 	"Self Gift - Stocking Stuffer 2013"				"1"
 	"Steam Translation Package"					"1"
 	"Store Purchase Promotion Package"				"1"
+	"Team Fortress 2 Soundtrack Promo Package"			"1"
 
 	//----------- Halloween/Full Moon items (Total: 228) ------------\\
 	//_________________________ All classes _________________________\\
@@ -1317,7 +1318,7 @@
 	"The Stealth Steeler"						"1"
 	"tw_spybot_hood"						"1"
 
-	//--------------------- Miscs (Total: 1948) ---------------------\\
+	//--------------------- Miscs (Total: 1953) ---------------------\\
 	//_________________________ All classes _________________________\\
 	"Altruist's Adornment"						"1"
 	"Antlers"							"1"
@@ -1394,6 +1395,10 @@
 	"BETA LAN 3rd Place Medal 2014"					"1"
 	"BETA LAN Participant Medal 2014"				"1"
 	"Brimstone"							"1"
+	"CappingTV Ultiduo Summer Brawl 1st Place 2017"			"1"
+	"CappingTV Ultiduo Summer Brawl 2nd Place 2017"			"1"
+	"CappingTV Ultiduo Summer Brawl 3rd Place 2017"			"1"
+	"CappingTV Ultiduo Summer Brawl Participant 2017"		"1"
 	"Captain Space Mann"						"1"
 	"Catastrophic Companions"					"1"
 	"Chapelaria 6v6 1st Place Season 1"				"1"
@@ -2453,6 +2458,7 @@
 	"TF2Maps 72hr TF2Jam Summer Participant 2016"			"1"
 	"TF2Maps 72hr TF2Jam Winter Participant 2017"			"1"
 	"The Atomic Accolade"						"1"
+	"The Audio File"						"1"
 	"The Baronial Badge"						"1"
 	"The Bolgan Family Crest"					"1"
 	"The Breakneck Baggies"						"1"
