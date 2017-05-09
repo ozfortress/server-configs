@@ -1,5 +1,5 @@
-// Whitelist generated at Mon, 24 Apr 2017 10:56:52 +0200
-// Whitelist: Global Whitelist 6v6 (ESEA/ETF2L/FACEIT/ozfortress/UGC) (ID: 6853)
+// Whitelist generated at Tue, 09 May 2017 16:26:29 +0200
+// Whitelist: Global Whitelist 6v6 (ESEA/ETF2L/FACEIT/ozfortress/UGC) (ID: 7210)
 
 // Share or view this whitelist:
 //	http://whitelist.tf/competitive_6v6
@@ -54,6 +54,7 @@
 // Blocked weapons for Medic
 // - Secondary
 //  * Quick-Fix
+//  * Vaccinator
 // - Melee
 //  * Solemn Vow
 //  * Vita-Saw
@@ -63,12 +64,13 @@
 //  * Sydney Sleeper
 // - Secondary
 //  * Darwin's Danger Shield
+//  * Jarate
 
 "item_whitelist"
 {
 	"unlisted_items_default_to"		"0"
 
-	//---------------- Allowed weapons (Total: 107) -----------------\\
+	//---------------- Allowed weapons (Total: 105) -----------------\\
 	//______________________ Multiple classes _______________________\\
 	"Panic Attack Shotgun"						"1"
 	"The Half-Zatoichi"						"1"
@@ -160,9 +162,7 @@
 	"The Kritzkrieg"						"1"
 	"The Overdose"							"1"
 	"The Ubersaw"							"1"
-	"The Vaccinator"						"1"
 	//___________________________ Sniper ____________________________\\
-	"Jarate"							"1"
 	"The Bazaar Bargain"						"1"
 	"The Bushwacka"							"1"
 	"The Classic"							"1"
@@ -187,7 +187,7 @@
 	"The Spy-cicle"							"1"
 	"Your Eternal Reward"						"1"
 
-	//------------- Allowed weapon reskins (Total: 308) -------------\\
+	//------------- Allowed weapon reskins (Total: 306) -------------\\
 	//_________________________ All classes _________________________\\
 	"Gold Frying Pan"						"1"
 	"Prinny Machete"						"1"
@@ -437,7 +437,6 @@
 	"craftsmann_sniperrifle_shotinthedark"				"1"
 	"Diamond Botkiller Sniper Rifle Mk.I"				"1"
 	"Festive Huntsman"						"1"
-	"Festive Jarate"						"1"
 	"Festive SMG 2014"						"1"
 	"Festive Sniper Rifle 2011"					"1"
 	"gentlemanne_smg_highrollers"					"1"
@@ -463,7 +462,6 @@
 	"teufort_sniperrifle_bogtrotter"				"1"
 	"The AWPer Hand"						"1"
 	"The Fortified Compound"					"1"
-	"The Self-Aware Beauty Mark"					"1"
 	"warbird_smg_blitzkrieg"					"1"
 	"warbird_sniperrifle_airwolf"					"1"
 	//_____________________________ Spy _____________________________\\
@@ -508,7 +506,7 @@
 	"warbird_knife_blitzkrieg"					"1"
 	"warbird_revolver_blitzkrieg"					"1"
 
-	//------------- Blocked weapons/reskins (Total: 29) -------------\\
+	//------------- Blocked weapons/reskins (Total: 33) -------------\\
 	//______________________ Multiple classes _______________________\\
 	"The B.A.S.E. Jumper"						"0"
 	"The Reserve Shooter"						"0"
@@ -541,9 +539,13 @@
 	//____________________________ Medic ____________________________\\
 	"The Quick-Fix"							"0"
 	"The Solemn Vow"						"0"
+	"The Vaccinator"						"0"
 	"The Vita-Saw"							"0"
 	//___________________________ Sniper ____________________________\\
 	"Darwin's Danger Shield"					"0"
+	"Festive Jarate"						"0"
+	"Jarate"							"0"
+	"The Self-Aware Beauty Mark"					"0"
 	"The Sydney Sleeper"						"0"
 
 	//------------------ Gifting items (Total: 24) ------------------\\
@@ -1361,7 +1363,7 @@
 	"The Stealth Steeler"						"1"
 	"tw_spybot_hood"						"1"
 
-	//--------------------- Miscs (Total: 1953) ---------------------\\
+	//--------------------- Miscs (Total: 1954) ---------------------\\
 	//_________________________ All classes _________________________\\
 	"Altruist's Adornment"						"1"
 	"Antlers"							"1"
@@ -2512,6 +2514,7 @@
 	"The Eye-Catcher"						"1"
 	"The Fortune Hunter"						"1"
 	"The Friends Forever Companion Square Badge"			"1"
+	"The Heartfelt Hug"						"1"
 	"The Heroic Companion Badge"					"1"
 	"The Hitt Mann Badge"						"1"
 	"The Map Maker's Medallion"					"1"
