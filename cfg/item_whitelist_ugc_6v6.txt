@@ -1,8 +1,8 @@
-// Whitelist generated at Mon, 24 Apr 2017 10:55:53 +0200
-// Whitelist: UGC 6v6 (Season 23) (ID: 6834)
+// Whitelist generated at Sat, 27 May 2017 11:16:16 +0200
+// Whitelist: Global Whitelist 6v6 (ESEA/ETF2L/FACEIT/ozfortress/UGC) (ID: 7210)
 
 // Share or view this whitelist:
-//	http://whitelist.tf/ugc_6v6_s23
+//	http://whitelist.tf/competitive_6v6
 
 // New items added to the game are: NOT allowed
 // Hats are: allowed
@@ -46,7 +46,6 @@
 
 // Blocked weapons for Engineer
 // - Primary
-//  * Pomson 6000
 //  * Rescue Ranger
 // - Secondary
 //  * Short Circuit
@@ -55,6 +54,7 @@
 // Blocked weapons for Medic
 // - Secondary
 //  * Quick-Fix
+//  * Vaccinator
 // - Melee
 //  * Solemn Vow
 //  * Vita-Saw
@@ -64,12 +64,13 @@
 //  * Sydney Sleeper
 // - Secondary
 //  * Darwin's Danger Shield
+//  * Jarate
 
 "item_whitelist"
 {
 	"unlisted_items_default_to"		"0"
 
-	//---------------- Allowed weapons (Total: 106) -----------------\\
+	//---------------- Allowed weapons (Total: 105) -----------------\\
 	//______________________ Multiple classes _______________________\\
 	"Panic Attack Shotgun"						"1"
 	"The Half-Zatoichi"						"1"
@@ -151,6 +152,7 @@
 	"The Frontier Justice"						"1"
 	"The Gunslinger"						"1"
 	"The Jag"							"1"
+	"The Pomson 6000"						"1"
 	"The Southern Hospitality"					"1"
 	"The Widowmaker"						"1"
 	//____________________________ Medic ____________________________\\
@@ -160,9 +162,7 @@
 	"The Kritzkrieg"						"1"
 	"The Overdose"							"1"
 	"The Ubersaw"							"1"
-	"The Vaccinator"						"1"
 	//___________________________ Sniper ____________________________\\
-	"Jarate"							"1"
 	"The Bazaar Bargain"						"1"
 	"The Bushwacka"							"1"
 	"The Classic"							"1"
@@ -187,7 +187,7 @@
 	"The Spy-cicle"							"1"
 	"Your Eternal Reward"						"1"
 
-	//------------- Allowed weapon reskins (Total: 308) -------------\\
+	//------------- Allowed weapon reskins (Total: 306) -------------\\
 	//_________________________ All classes _________________________\\
 	"Gold Frying Pan"						"1"
 	"Prinny Machete"						"1"
@@ -437,7 +437,6 @@
 	"craftsmann_sniperrifle_shotinthedark"				"1"
 	"Diamond Botkiller Sniper Rifle Mk.I"				"1"
 	"Festive Huntsman"						"1"
-	"Festive Jarate"						"1"
 	"Festive SMG 2014"						"1"
 	"Festive Sniper Rifle 2011"					"1"
 	"gentlemanne_smg_highrollers"					"1"
@@ -463,7 +462,6 @@
 	"teufort_sniperrifle_bogtrotter"				"1"
 	"The AWPer Hand"						"1"
 	"The Fortified Compound"					"1"
-	"The Self-Aware Beauty Mark"					"1"
 	"warbird_smg_blitzkrieg"					"1"
 	"warbird_sniperrifle_airwolf"					"1"
 	//_____________________________ Spy _____________________________\\
@@ -508,7 +506,7 @@
 	"warbird_knife_blitzkrieg"					"1"
 	"warbird_revolver_blitzkrieg"					"1"
 
-	//------------- Blocked weapons/reskins (Total: 30) -------------\\
+	//------------- Blocked weapons/reskins (Total: 33) -------------\\
 	//______________________ Multiple classes _______________________\\
 	"The B.A.S.E. Jumper"						"0"
 	"The Reserve Shooter"						"0"
@@ -535,16 +533,19 @@
 	//__________________________ Engineer ___________________________\\
 	"Festive Wrangler"						"0"
 	"The Giger Counter"						"0"
-	"The Pomson 6000"						"0"
 	"The Rescue Ranger"						"0"
 	"The Short Circuit"						"0"
 	"The Wrangler"							"0"
 	//____________________________ Medic ____________________________\\
 	"The Quick-Fix"							"0"
 	"The Solemn Vow"						"0"
+	"The Vaccinator"						"0"
 	"The Vita-Saw"							"0"
 	//___________________________ Sniper ____________________________\\
 	"Darwin's Danger Shield"					"0"
+	"Festive Jarate"						"0"
+	"Jarate"							"0"
+	"The Self-Aware Beauty Mark"					"0"
 	"The Sydney Sleeper"						"0"
 
 	//------------------ Gifting items (Total: 24) ------------------\\
@@ -805,7 +806,7 @@
 	"Under Cover"							"1"
 	"Zombie Spy"							"1"
 
-	//---------------------- Hats (Total: 543) ----------------------\\
+	//---------------------- Hats (Total: 555) ----------------------\\
 	//_________________________ All classes _________________________\\
 	"A Rather Festive Tree"						"1"
 	"A Well Wrapped Hat"						"1"
@@ -839,6 +840,7 @@
 	"Humanitarian's Hachimaki"					"1"
 	"Killer Exclusive"						"1"
 	"L4D Hat"							"1"
+	"Legendary Lid"							"1"
 	"Lil' Bitey"							"1"
 	"Lo-Fi Longwave"						"1"
 	"Loyalty Reward"						"1"
@@ -899,6 +901,7 @@
 	"The Full Head of Steam"					"1"
 	"The Galvanized Gibus"						"1"
 	"The Gentle Munitionne of Leisure"				"1"
+	"The Grandmaster"						"1"
 	"The Head Prize"						"1"
 	"The Holiday Headcase"						"1"
 	"The Hot Dogger"						"1"
@@ -984,6 +987,7 @@
 	"The Front Runner"						"1"
 	"The Hanger-On Hood"						"1"
 	"The Hermes"							"1"
+	"The Lightning Lid"						"1"
 	"The Milkman"							"1"
 	"The Pomade Prince"						"1"
 	"The Robot Running Man"						"1"
@@ -1045,6 +1049,7 @@
 	"Worms Gear"							"1"
 	//____________________________ Pyro _____________________________\\
 	"A Head Full of Hot Air"					"1"
+	"Airtight Arsonist"						"1"
 	"Apparition's Aspect"						"1"
 	"Area 451"							"1"
 	"Brigade Helm"							"1"
@@ -1115,6 +1120,7 @@
 	"Traffic Cone"							"1"
 	"tw_pyrobot_helmet"						"1"
 	//___________________________ Demoman ___________________________\\
+	"Blast Defense"							"1"
 	"Bomb Beanie"							"1"
 	"Bruce's Bonnet"						"1"
 	"Carouser's Capotain"						"1"
@@ -1214,6 +1220,7 @@
 	"Tough Guy's Toque"						"1"
 	"tw_heavybot_helmet"						"1"
 	"War Head"							"1"
+	"Warhood"							"1"
 	"White Russian"							"1"
 	//__________________________ Engineer ___________________________\\
 	"Big Country"							"1"
@@ -1223,9 +1230,11 @@
 	"Engineer Earmuffs"						"1"
 	"Engineer Welding Mask"						"1"
 	"Engineer's Cap"						"1"
+	"Flash of Inspiration"						"1"
 	"Industrial Festivizer"						"1"
 	"MvM GateBot Light Engineer"					"1"
 	"Ol' Geezer"							"1"
+	"Plumber's Cap"							"1"
 	"Polish War Babushka"						"1"
 	"Professor's Peculiarity"					"1"
 	"Sheriff's Stetson"						"1"
@@ -1260,6 +1269,7 @@
 	"Das Ubersternmann"						"1"
 	"dec2014 Surgeon's Shako"					"1"
 	"Doctor's Sack"							"1"
+	"Field Practice"						"1"
 	"German Gonzila"						"1"
 	"Grimm Hatte"							"1"
 	"Halogen Head Lamp"						"1"
@@ -1291,9 +1301,11 @@
 	"tw_medibot_hat"						"1"
 	"Vintage Tyrolean"						"1"
 	//___________________________ Sniper ____________________________\\
+	"Archer's Sterling"						"1"
 	"Brim-Full Of Bullets"						"1"
 	"Crocleather Slouch"						"1"
 	"Desert Marauder"						"1"
+	"Hawk Eyed Hunter"						"1"
 	"Larrikin Robin"						"1"
 	"Letch's LED"							"1"
 	"Liquidator's Lid"						"1"
@@ -1359,9 +1371,10 @@
 	"The Pom-Pommed Provocateur"					"1"
 	"The Scarecrow"							"1"
 	"The Stealth Steeler"						"1"
+	"The Upgrade"							"1"
 	"tw_spybot_hood"						"1"
 
-	//--------------------- Miscs (Total: 1953) ---------------------\\
+	//--------------------- Miscs (Total: 1966) ---------------------\\
 	//_________________________ All classes _________________________\\
 	"Altruist's Adornment"						"1"
 	"Antlers"							"1"
@@ -2463,6 +2476,10 @@
 	"Sips' Selfless Simulacrum"					"1"
 	"Sjin's Generous Guise"						"1"
 	"Smissmas Wreath"						"1"
+	"Snack's Summery Ultiduo Siesta Bronze Medal 2017"		"1"
+	"Snack's Summery Ultiduo Siesta Gold Medal 2017"		"1"
+	"Snack's Summery Ultiduo Siesta Participation Medal 2017"	"1"
+	"Snack's Summery Ultiduo Siesta Silver Medal 2017"		"1"
 	"Something Special For Someone Special (Wearable)"		"1"
 	"Space Hamster Hammy"						"1"
 	"SpaceChem Pin"							"1"
@@ -2512,6 +2529,7 @@
 	"The Eye-Catcher"						"1"
 	"The Fortune Hunter"						"1"
 	"The Friends Forever Companion Square Badge"			"1"
+	"The Heartfelt Hug"						"1"
 	"The Heroic Companion Badge"					"1"
 	"The Hitt Mann Badge"						"1"
 	"The Map Maker's Medallion"					"1"
@@ -2926,6 +2944,7 @@
 	"UGC Tournament Fall 2011 - Tin 3rd Place"			"1"
 	"Xephos' Philanthropic Physiognomy"				"1"
 	//______________________ Multiple classes _______________________\\
+	"Airborne Attire"						"1"
 	"Bowtie"							"1"
 	"Buck Turner All-Stars"						"1"
 	"Buttler"							"1"
@@ -2982,11 +3001,14 @@
 	"Flunkyware"							"1"
 	"Hot Heels"							"1"
 	"Lucky No. 42"							"1"
+	"Messenger's Mail Bag"						"1"
 	"MNC Mascot Outfit"						"1"
 	"Orion's Belt"							"1"
+	"Pocket Pauling"						"1"
 	"Scout Flip-Flops"						"1"
 	"Sign of the Wolf's School"					"1"
 	"Snowwing"							"1"
+	"Speedster's Spandex"						"1"
 	"Squire's Sabatons"						"1"
 	"The Argyle Ace"						"1"
 	"The Bat Backup"						"1"
@@ -3024,6 +3046,7 @@
 	"eotl_winter_coat"						"1"
 	"Exquisite Rack"						"1"
 	"Fancy Dress Uniform"						"1"
+	"Flakcatcher"							"1"
 	"Lieutenant Bites"						"1"
 	"Lord Cockswain's Novelty Mutton Chops and Pipe"		"1"
 	"Marshall's Mutton Chops"					"1"
@@ -3182,6 +3205,7 @@
 	"EOTL_winter_pants"						"1"
 	"Face Full of Festive"						"1"
 	"Googly Gazer"							"1"
+	"Head Mounted Double Observatory"				"1"
 	"Iron Lung"							"1"
 	"Life Support System"						"1"
 	"Mining Light"							"1"
@@ -3272,7 +3296,9 @@
 	"dec2014 hunter_ushanka"					"1"
 	"dec2014 hunter_vest"						"1"
 	"dec2014 Wally Pocket"						"1"
+	"Down Under Duster"						"1"
 	"Final Frontiersman"						"1"
+	"Guilden Guardian"						"1"
 	"Li'l Snaggletooth"						"1"
 	"Poacher's Safari Jacket"					"1"
 	"Sir Hootsalot"							"1"
@@ -3471,10 +3497,6 @@
 	"Buy A Life Taunt"						"1"
 	"Taunt: Disco Fever"						"1"
 	"Taunt: The Boxtrot"						"0"
-
-	//------------------ UGC exceptions (Total: 1) ------------------\\
-	//_________________________ All classes _________________________\\
-	"The Grandmaster"						"0"
 
 	//--------- Usable action items/MvM canteens (Total: 4) ---------\\
 	"Battery Canteens"						"1"

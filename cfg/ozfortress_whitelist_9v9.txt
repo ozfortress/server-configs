@@ -1,4 +1,4 @@
-// Whitelist generated at Mon, 24 Apr 2017 10:57:15 +0200
+// Whitelist generated at Sat, 27 May 2017 11:24:44 +0200
 // Whitelist: ETF2L Highlander (Season 12) (ID: 6645)
 
 // Share or view this whitelist:
@@ -787,7 +787,7 @@
 	"Under Cover"							"1"
 	"Zombie Spy"							"1"
 
-	//---------------------- Hats (Total: 544) ----------------------\\
+	//---------------------- Hats (Total: 555) ----------------------\\
 	//_________________________ All classes _________________________\\
 	"A Rather Festive Tree"						"1"
 	"A Well Wrapped Hat"						"1"
@@ -821,6 +821,7 @@
 	"Humanitarian's Hachimaki"					"1"
 	"Killer Exclusive"						"1"
 	"L4D Hat"							"1"
+	"Legendary Lid"							"1"
 	"Lil' Bitey"							"1"
 	"Lo-Fi Longwave"						"1"
 	"Loyalty Reward"						"1"
@@ -967,6 +968,7 @@
 	"The Front Runner"						"1"
 	"The Hanger-On Hood"						"1"
 	"The Hermes"							"1"
+	"The Lightning Lid"						"1"
 	"The Milkman"							"1"
 	"The Pomade Prince"						"1"
 	"The Robot Running Man"						"1"
@@ -1028,6 +1030,7 @@
 	"Worms Gear"							"1"
 	//____________________________ Pyro _____________________________\\
 	"A Head Full of Hot Air"					"1"
+	"Airtight Arsonist"						"1"
 	"Apparition's Aspect"						"1"
 	"Area 451"							"1"
 	"Brigade Helm"							"1"
@@ -1098,6 +1101,7 @@
 	"Traffic Cone"							"1"
 	"tw_pyrobot_helmet"						"1"
 	//___________________________ Demoman ___________________________\\
+	"Blast Defense"							"1"
 	"Bomb Beanie"							"1"
 	"Bruce's Bonnet"						"1"
 	"Carouser's Capotain"						"1"
@@ -1197,6 +1201,7 @@
 	"Tough Guy's Toque"						"1"
 	"tw_heavybot_helmet"						"1"
 	"War Head"							"1"
+	"Warhood"							"1"
 	"White Russian"							"1"
 	//__________________________ Engineer ___________________________\\
 	"Big Country"							"1"
@@ -1206,9 +1211,11 @@
 	"Engineer Earmuffs"						"1"
 	"Engineer Welding Mask"						"1"
 	"Engineer's Cap"						"1"
+	"Flash of Inspiration"						"1"
 	"Industrial Festivizer"						"1"
 	"MvM GateBot Light Engineer"					"1"
 	"Ol' Geezer"							"1"
+	"Plumber's Cap"							"1"
 	"Polish War Babushka"						"1"
 	"Professor's Peculiarity"					"1"
 	"Sheriff's Stetson"						"1"
@@ -1243,6 +1250,7 @@
 	"Das Ubersternmann"						"1"
 	"dec2014 Surgeon's Shako"					"1"
 	"Doctor's Sack"							"1"
+	"Field Practice"						"1"
 	"German Gonzila"						"1"
 	"Grimm Hatte"							"1"
 	"Halogen Head Lamp"						"1"
@@ -1274,9 +1282,11 @@
 	"tw_medibot_hat"						"1"
 	"Vintage Tyrolean"						"1"
 	//___________________________ Sniper ____________________________\\
+	"Archer's Sterling"						"1"
 	"Brim-Full Of Bullets"						"1"
 	"Crocleather Slouch"						"1"
 	"Desert Marauder"						"1"
+	"Hawk Eyed Hunter"						"1"
 	"Larrikin Robin"						"1"
 	"Letch's LED"							"1"
 	"Liquidator's Lid"						"1"
@@ -1342,9 +1352,10 @@
 	"The Pom-Pommed Provocateur"					"1"
 	"The Scarecrow"							"1"
 	"The Stealth Steeler"						"1"
+	"The Upgrade"							"1"
 	"tw_spybot_hood"						"1"
 
-	//--------------------- Miscs (Total: 1953) ---------------------\\
+	//--------------------- Miscs (Total: 1966) ---------------------\\
 	//_________________________ All classes _________________________\\
 	"Altruist's Adornment"						"1"
 	"Antlers"							"1"
@@ -2446,6 +2457,10 @@
 	"Sips' Selfless Simulacrum"					"1"
 	"Sjin's Generous Guise"						"1"
 	"Smissmas Wreath"						"1"
+	"Snack's Summery Ultiduo Siesta Bronze Medal 2017"		"1"
+	"Snack's Summery Ultiduo Siesta Gold Medal 2017"		"1"
+	"Snack's Summery Ultiduo Siesta Participation Medal 2017"	"1"
+	"Snack's Summery Ultiduo Siesta Silver Medal 2017"		"1"
 	"Something Special For Someone Special (Wearable)"		"1"
 	"Space Hamster Hammy"						"1"
 	"SpaceChem Pin"							"1"
@@ -2495,6 +2510,7 @@
 	"The Eye-Catcher"						"1"
 	"The Fortune Hunter"						"1"
 	"The Friends Forever Companion Square Badge"			"1"
+	"The Heartfelt Hug"						"1"
 	"The Heroic Companion Badge"					"1"
 	"The Hitt Mann Badge"						"1"
 	"The Map Maker's Medallion"					"1"
@@ -2909,6 +2925,7 @@
 	"UGC Tournament Fall 2011 - Tin 3rd Place"			"1"
 	"Xephos' Philanthropic Physiognomy"				"1"
 	//______________________ Multiple classes _______________________\\
+	"Airborne Attire"						"1"
 	"Bowtie"							"1"
 	"Buck Turner All-Stars"						"1"
 	"Buttler"							"1"
@@ -2965,11 +2982,14 @@
 	"Flunkyware"							"1"
 	"Hot Heels"							"1"
 	"Lucky No. 42"							"1"
+	"Messenger's Mail Bag"						"1"
 	"MNC Mascot Outfit"						"1"
 	"Orion's Belt"							"1"
+	"Pocket Pauling"						"1"
 	"Scout Flip-Flops"						"1"
 	"Sign of the Wolf's School"					"1"
 	"Snowwing"							"1"
+	"Speedster's Spandex"						"1"
 	"Squire's Sabatons"						"1"
 	"The Argyle Ace"						"1"
 	"The Bat Backup"						"1"
@@ -3007,6 +3027,7 @@
 	"eotl_winter_coat"						"1"
 	"Exquisite Rack"						"1"
 	"Fancy Dress Uniform"						"1"
+	"Flakcatcher"							"1"
 	"Lieutenant Bites"						"1"
 	"Lord Cockswain's Novelty Mutton Chops and Pipe"		"1"
 	"Marshall's Mutton Chops"					"1"
@@ -3165,6 +3186,7 @@
 	"EOTL_winter_pants"						"1"
 	"Face Full of Festive"						"1"
 	"Googly Gazer"							"1"
+	"Head Mounted Double Observatory"				"1"
 	"Iron Lung"							"1"
 	"Life Support System"						"1"
 	"Mining Light"							"1"
@@ -3255,7 +3277,9 @@
 	"dec2014 hunter_ushanka"					"1"
 	"dec2014 hunter_vest"						"1"
 	"dec2014 Wally Pocket"						"1"
+	"Down Under Duster"						"1"
 	"Final Frontiersman"						"1"
+	"Guilden Guardian"						"1"
 	"Li'l Snaggletooth"						"1"
 	"Poacher's Safari Jacket"					"1"
 	"Sir Hootsalot"							"1"
