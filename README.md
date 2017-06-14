@@ -1,5 +1,7 @@
 # ozfortress server configurations
 
+**Click [here](https://github.com/ozfortress/server-configs/archive/master.zip) to download ozfortress's server configs.**
+
 ## ozfortress seasonal league
 The following formats are used in the ozfortress seasonal league and have an associated configuration file in the ozfortress configs.
 
