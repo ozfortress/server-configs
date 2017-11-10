@@ -1,4 +1,4 @@
-// Whitelist generated at Sun, 22 Oct 2017 01:41:14 +0200
+// Whitelist generated at Fri, 10 Nov 2017 07:33:40 +0100
 // Whitelist: ozfortress Ultiduo 11 (ID: 6678)
 
 // Share or view this whitelist:
@@ -509,7 +509,11 @@
 	"The Wanga Prick"						"0"
 	"Your Eternal Reward"						"0"
 
-	//------------------ Gifting items (Total: 24) ------------------\\
+	//------------- ConTrabanned ConTracker (Total: 1) --------------\\
+	//_________________________ All classes _________________________\\
+	"Activated Campaign 3 Pass"					"0"
+
+	//------------------ Gifting items (Total: 25) ------------------\\
 	"Companion Square Promo Package"				"1"
 	"Gift - 1 Duck Token"						"1"
 	"Gift - 1 EOTL Key"						"1"
@@ -521,6 +525,7 @@
 	"Gift - 23 RoboKeys 2013"					"1"
 	"Gift - 23 SummerKeys 2013"					"1"
 	"Gift - 24 Players"						"1"
+	"Halloween Contract Package"					"1"
 	"Halloween Giveaway Cauldron 2014 (Achievement)"		"1"
 	"Halloween Giveaway Cauldron 2014 (Base)"			"1"
 	"Halloween Giveaway Package 2011 (Cauldron)"			"1"
@@ -2611,7 +2616,7 @@
 	"RGB LAN 2nd Place 2017"					"1"
 	"RGB LAN 3rd Place 2017"					"1"
 	"RGB LAN Participant 2017"					"1"
-	"RGL.gg Pick/Ban Prolander Participant Season 1"		"1"
+	"RGLgg Pick Ban Prolander Participant Season 1"			"1"
 	"Sips' Selfless Simulacrum"					"1"
 	"Sjin's Generous Guise"						"1"
 	"Smissmas Wreath"						"1"
@@ -3578,9 +3583,8 @@
 	"Promotional Noise Maker - Fireworks"				"0"
 	"Promotional Noise Maker - Koto"				"0"
 
-	//---------------------- Other (Total: 26) ----------------------\\
+	//---------------------- Other (Total: 25) ----------------------\\
 	//_________________________ All classes _________________________\\
-	"Activated Campaign 3 Pass"					"1"
 	"Basic Spellbook"						"1"
 	"Duck Badge"							"1"
 	"Halloween Spellbook"						"1"

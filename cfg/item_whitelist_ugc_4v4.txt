@@ -1,8 +1,8 @@
-// Whitelist generated at Sun, 22 Oct 2017 01:41:40 +0200
-// Whitelist: UGC 4v4 (Season 10) (ID: 7047)
+// Whitelist generated at Fri, 10 Nov 2017 02:21:31 +0100
+// Whitelist: UGC 4v4 (Season 11) (ID: 7842)
 
 // Share or view this whitelist:
-//	http://whitelist.tf/ugc_4v4_s10
+//	http://whitelist.tf/ugc_4v4_s11
 
 // New items added to the game are: NOT allowed
 // Hats are: allowed
@@ -33,6 +33,8 @@
 // - Primary
 //  * Air Strike
 //  * Beggar's Bazooka
+// - Secondary
+//  * Mantreads
 
 // Blocked weapons for Pyro
 // - Primary
@@ -50,6 +52,7 @@
 
 // Blocked weapons for Heavy
 // - Secondary
+//  * Dalokohs Bar
 //  * Second Banana
 
 // Blocked weapons for Engineer
@@ -81,7 +84,7 @@
 {
 	"unlisted_items_default_to"		"0"
 
-	//---------------- Allowed weapons (Total: 110) -----------------\\
+	//---------------- Allowed weapons (Total: 108) -----------------\\
 	//______________________ Multiple classes _______________________\\
 	"Panic Attack Shotgun"						"1"
 	"The B.A.S.E. Jumper"						"1"
@@ -115,7 +118,6 @@
 	"The Escape Plan"						"1"
 	"The Gunboats"							"1"
 	"The Liberty Launcher"						"1"
-	"The Mantreads"							"1"
 	"The Market Gardener"						"1"
 	"The Righteous Bison"						"1"
 	//____________________________ Pyro _____________________________\\
@@ -153,7 +155,6 @@
 	"Natascha"							"1"
 	"The Brass Beast"						"1"
 	"The Buffalo Steak Sandvich"					"1"
-	"The Dalokohs Bar"						"1"
 	"The Eviction Notice"						"1"
 	"The Family Business"						"1"
 	"The Holiday Punch"						"1"
@@ -203,7 +204,7 @@
 	"The Spy-cicle"							"1"
 	"Your Eternal Reward"						"1"
 
-	//------------- Allowed weapon reskins (Total: 314) -------------\\
+	//------------- Allowed weapon reskins (Total: 313) -------------\\
 	//_________________________ All classes _________________________\\
 	"Gold Frying Pan"						"1"
 	"Prinny Machete"						"1"
@@ -380,7 +381,6 @@
 	"Festive Gloves of Running Urgently"				"1"
 	"Festive Minigun 2011"						"1"
 	"Festive Sandvich"						"1"
-	"Fishcake"							"1"
 	"gentlemanne_minigun_coffinnail"				"1"
 	"gentlemanne_minigun_dressedtokill"				"1"
 	"gentlemanne_minigun_topshelf"					"1"
@@ -530,7 +530,7 @@
 	"warbird_knife_blitzkrieg"					"1"
 	"warbird_revolver_blitzkrieg"					"1"
 
-	//------------- Blocked weapons/reskins (Total: 26) -------------\\
+	//------------- Blocked weapons/reskins (Total: 29) -------------\\
 	//______________________ Multiple classes _______________________\\
 	"The Reserve Shooter"						"0"
 	//____________________________ Scout ____________________________\\
@@ -542,6 +542,7 @@
 	//___________________________ Soldier ___________________________\\
 	"The Air Strike"						"0"
 	"The Beggar's Bazooka"						"0"
+	"The Mantreads"							"0"
 	//____________________________ Pyro _____________________________\\
 	"The Back Scratcher"						"0"
 	"The Dragon's Fury"						"0"
@@ -552,6 +553,8 @@
 	"The Loch-n-Load"						"0"
 	//____________________________ Heavy ____________________________\\
 	"Deflector"							"0"
+	"Fishcake"							"0"
+	"The Dalokohs Bar"						"0"
 	"The Second Banana"						"0"
 	//__________________________ Engineer ___________________________\\
 	"The Gunslinger"						"0"
@@ -568,7 +571,11 @@
 	"Promo Red-Tape Recorder"					"0"
 	"The Red-Tape Recorder"						"0"
 
-	//------------------ Gifting items (Total: 24) ------------------\\
+	//------------- ConTrabanned ConTracker (Total: 1) --------------\\
+	//_________________________ All classes _________________________\\
+	"Activated Campaign 3 Pass"					"0"
+
+	//------------------ Gifting items (Total: 25) ------------------\\
 	"Companion Square Promo Package"				"1"
 	"Gift - 1 Duck Token"						"1"
 	"Gift - 1 EOTL Key"						"1"
@@ -580,6 +587,7 @@
 	"Gift - 23 RoboKeys 2013"					"1"
 	"Gift - 23 SummerKeys 2013"					"1"
 	"Gift - 24 Players"						"1"
+	"Halloween Contract Package"					"1"
 	"Halloween Giveaway Cauldron 2014 (Achievement)"		"1"
 	"Halloween Giveaway Cauldron 2014 (Base)"			"1"
 	"Halloween Giveaway Package 2011 (Cauldron)"			"1"
@@ -2669,7 +2677,7 @@
 	"RGB LAN 2nd Place 2017"					"1"
 	"RGB LAN 3rd Place 2017"					"1"
 	"RGB LAN Participant 2017"					"1"
-	"RGL.gg Pick/Ban Prolander Participant Season 1"		"1"
+	"RGLgg Pick Ban Prolander Participant Season 1"			"1"
 	"Sips' Selfless Simulacrum"					"1"
 	"Sjin's Generous Guise"						"1"
 	"Smissmas Wreath"						"1"
@@ -3636,9 +3644,8 @@
 	"Promotional Noise Maker - Fireworks"				"1"
 	"Promotional Noise Maker - Koto"				"1"
 
-	//---------------------- Other (Total: 26) ----------------------\\
+	//---------------------- Other (Total: 25) ----------------------\\
 	//_________________________ All classes _________________________\\
-	"Activated Campaign 3 Pass"					"1"
 	"Basic Spellbook"						"1"
 	"Duck Badge"							"1"
 	"Halloween Spellbook"						"1"
@@ -3725,8 +3732,8 @@
 	"Taunt: Mannrobics"						"0"
 	"Taunt: Second Rate Sorcery"					"1"
 	"Taunt: The Victory Lap"					"0"
-	"Taunt: Yeti Punch"						"0"
-	"Taunt: Yeti Smash"						"0"
+	"Taunt: Yeti Punch"						"1"
+	"Taunt: Yeti Smash"						"1"
 	"Taunt: Zoomin' Broom"						"0"
 	"The Shred Alert"						"0"
 	//____________________________ Scout ____________________________\\
@@ -3742,7 +3749,7 @@
 	"Party Trick Taunt"						"1"
 	"Pool Party Taunt"						"0"
 	"Taunt: The Balloonibouncer"					"0"
-	"Taunt: The Headcase"						"0"
+	"Taunt: The Headcase"						"1"
 	//___________________________ Demoman ___________________________\\
 	"Oblooterated Taunt"						"1"
 	"Spent Well Spirits Taunt"					"1"

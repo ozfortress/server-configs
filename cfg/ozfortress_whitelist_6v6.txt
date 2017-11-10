@@ -1,4 +1,4 @@
-// Whitelist generated at Thu, 02 Nov 2017 06:40:24 +0100
+// Whitelist generated at Fri, 10 Nov 2017 02:22:42 +0100
 // Whitelist: ozfortress 6v6 (Season 20) (ID: 7931)
 
 // Share or view this whitelist:
@@ -569,6 +569,10 @@
 	"Jarate"							"0"
 	"The Self-Aware Beauty Mark"					"0"
 	"The Sydney Sleeper"						"0"
+
+	//------------- ConTrabanned ConTracker (Total: 1) --------------\\
+	//_________________________ All classes _________________________\\
+	"Activated Campaign 3 Pass"					"0"
 
 	//------------------ Gifting items (Total: 25) ------------------\\
 	"Companion Square Promo Package"				"1"
@@ -2673,7 +2677,7 @@
 	"RGB LAN 2nd Place 2017"					"1"
 	"RGB LAN 3rd Place 2017"					"1"
 	"RGB LAN Participant 2017"					"1"
-	"RGL.gg Pick/Ban Prolander Participant Season 1"		"1"
+	"RGLgg Pick Ban Prolander Participant Season 1"			"1"
 	"Sips' Selfless Simulacrum"					"1"
 	"Sjin's Generous Guise"						"1"
 	"Smissmas Wreath"						"1"
@@ -3640,9 +3644,8 @@
 	"Promotional Noise Maker - Fireworks"				"0"
 	"Promotional Noise Maker - Koto"				"0"
 
-	//---------------------- Other (Total: 26) ----------------------\\
+	//---------------------- Other (Total: 25) ----------------------\\
 	//_________________________ All classes _________________________\\
-	"Activated Campaign 3 Pass"					"1"
 	"Basic Spellbook"						"1"
 	"Duck Badge"							"1"
 	"Halloween Spellbook"						"1"

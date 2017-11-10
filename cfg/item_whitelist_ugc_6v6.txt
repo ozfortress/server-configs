@@ -1,8 +1,8 @@
-// Whitelist generated at Sun, 22 Oct 2017 01:39:20 +0200
-// Whitelist: Global Whitelist 6v6 (ESEA/ETF2L/FACEIT/ozfortress/UGC) (ID: 7210)
+// Whitelist generated at Fri, 10 Nov 2017 02:21:48 +0100
+// Whitelist: UGC 6v6 (Season 25) (ID: 7839)
 
 // Share or view this whitelist:
-//	http://whitelist.tf/competitive_6v6
+//	http://whitelist.tf/ugc_6v6_s25
 
 // New items added to the game are: NOT allowed
 // Hats are: allowed
@@ -17,6 +17,8 @@
 // Botkiller weapon reskins are: allowed
 
 // Blocked weapons for Multiple classes
+// - Primary
+//  * Panic Attack
 // - Secondary
 //  * B.A.S.E. Jumper
 //  * Reserve Shooter
@@ -29,11 +31,16 @@
 //  * Crit-a-Cola
 //  * Flying Guillotine
 //  * Mad Milk
+//  * Pretty Boy's Pocket Pistol
 // - Melee
 //  * Atomizer
 //  * Sandman
 
 // Blocked weapons for Soldier
+// - Primary
+//  * Beggar's Bazooka
+// - Secondary
+//  * Mantreads
 // - Melee
 //  * Disciplinary Action
 
@@ -49,6 +56,7 @@
 // Blocked weapons for Heavy
 // - Secondary
 //  * Buffalo Steak Sandvich
+//  * Dalokohs Bar
 //  * Second Banana
 // - Melee
 //  * Fists of Steel
@@ -80,14 +88,12 @@
 {
 	"unlisted_items_default_to"		"0"
 
-	//---------------- Allowed weapons (Total: 105) -----------------\\
+	//---------------- Allowed weapons (Total: 100) -----------------\\
 	//______________________ Multiple classes _______________________\\
-	"Panic Attack Shotgun"						"1"
 	"The Half-Zatoichi"						"1"
 	"The Pain Train"						"1"
 	//____________________________ Scout ____________________________\\
 	"Baby Face's Blaster"						"1"
-	"Pretty Boy's Pocket Pistol"					"1"
 	"Sun-on-a-Stick"						"1"
 	"The Back Scatter"						"1"
 	"The Boston Basher"						"1"
@@ -101,7 +107,6 @@
 	"Rocket Jumper"							"1"
 	"The Air Strike"						"1"
 	"The Battalion's Backup"					"1"
-	"The Beggar's Bazooka"						"1"
 	"The Black Box"							"1"
 	"The Buff Banner"						"1"
 	"The Concheror"							"1"
@@ -111,7 +116,6 @@
 	"The Escape Plan"						"1"
 	"The Gunboats"							"1"
 	"The Liberty Launcher"						"1"
-	"The Mantreads"							"1"
 	"The Market Gardener"						"1"
 	"The Righteous Bison"						"1"
 	//____________________________ Pyro _____________________________\\
@@ -148,7 +152,6 @@
 	//____________________________ Heavy ____________________________\\
 	"Natascha"							"1"
 	"The Brass Beast"						"1"
-	"The Dalokohs Bar"						"1"
 	"The Eviction Notice"						"1"
 	"The Family Business"						"1"
 	"The Holiday Punch"						"1"
@@ -197,7 +200,7 @@
 	"The Spy-cicle"							"1"
 	"Your Eternal Reward"						"1"
 
-	//------------- Allowed weapon reskins (Total: 306) -------------\\
+	//------------- Allowed weapon reskins (Total: 305) -------------\\
 	//_________________________ All classes _________________________\\
 	"Gold Frying Pan"						"1"
 	"Prinny Machete"						"1"
@@ -371,7 +374,6 @@
 	"Diamond Botkiller Minigun Mk.I"				"1"
 	"Festive Minigun 2011"						"1"
 	"Festive Sandvich"						"1"
-	"Fishcake"							"1"
 	"gentlemanne_minigun_coffinnail"				"1"
 	"gentlemanne_minigun_dressedtokill"				"1"
 	"gentlemanne_minigun_topshelf"					"1"
@@ -516,8 +518,9 @@
 	"warbird_knife_blitzkrieg"					"1"
 	"warbird_revolver_blitzkrieg"					"1"
 
-	//------------- Blocked weapons/reskins (Total: 39) -------------\\
+	//------------- Blocked weapons/reskins (Total: 45) -------------\\
 	//______________________ Multiple classes _______________________\\
+	"Panic Attack Shotgun"						"0"
 	"The B.A.S.E. Jumper"						"0"
 	"The Reserve Shooter"						"0"
 	//____________________________ Scout ____________________________\\
@@ -526,13 +529,16 @@
 	"Festive Bonk 2014"						"0"
 	"Mad Milk"							"0"
 	"Mutated Milk"							"0"
+	"Pretty Boy's Pocket Pistol"					"0"
 	"Promo Flying Guillotine"					"0"
 	"The Atomizer"							"0"
 	"The Flying Guillotine"						"0"
 	"The Sandman"							"0"
 	"The Soda Popper"						"0"
 	//___________________________ Soldier ___________________________\\
+	"The Beggar's Bazooka"						"0"
 	"The Disciplinary Action"					"0"
+	"The Mantreads"							"0"
 	//____________________________ Pyro _____________________________\\
 	"The Dragon's Fury"						"0"
 	"The Gas Passer"						"0"
@@ -541,11 +547,13 @@
 	//____________________________ Heavy ____________________________\\
 	"Deflector"							"0"
 	"Festive Gloves of Running Urgently"				"0"
+	"Fishcake"							"0"
 	"Fists of Steel"						"0"
 	"Gloves of Running Urgently"					"0"
 	"Gloves of Running Urgently MvM"				"0"
 	"The Bread Bite"						"0"
 	"The Buffalo Steak Sandvich"					"0"
+	"The Dalokohs Bar"						"0"
 	"The Second Banana"						"0"
 	//__________________________ Engineer ___________________________\\
 	"Festive Wrangler"						"0"
@@ -565,7 +573,11 @@
 	"The Self-Aware Beauty Mark"					"0"
 	"The Sydney Sleeper"						"0"
 
-	//------------------ Gifting items (Total: 24) ------------------\\
+	//------------- ConTrabanned ConTracker (Total: 1) --------------\\
+	//_________________________ All classes _________________________\\
+	"Activated Campaign 3 Pass"					"0"
+
+	//------------------ Gifting items (Total: 25) ------------------\\
 	"Companion Square Promo Package"				"1"
 	"Gift - 1 Duck Token"						"1"
 	"Gift - 1 EOTL Key"						"1"
@@ -577,6 +589,7 @@
 	"Gift - 23 RoboKeys 2013"					"1"
 	"Gift - 23 SummerKeys 2013"					"1"
 	"Gift - 24 Players"						"1"
+	"Halloween Contract Package"					"1"
 	"Halloween Giveaway Cauldron 2014 (Achievement)"		"1"
 	"Halloween Giveaway Cauldron 2014 (Base)"			"1"
 	"Halloween Giveaway Package 2011 (Cauldron)"			"1"
@@ -823,7 +836,7 @@
 	"Under Cover"							"1"
 	"Zombie Spy"							"1"
 
-	//---------------------- Hats (Total: 578) ----------------------\\
+	//---------------------- Hats (Total: 577) ----------------------\\
 	//_________________________ All classes _________________________\\
 	"A Rather Festive Tree"						"1"
 	"A Well Wrapped Hat"						"1"
@@ -924,7 +937,6 @@
 	"The Full Head of Steam"					"1"
 	"The Galvanized Gibus"						"1"
 	"The Gentle Munitionne of Leisure"				"1"
-	"The Grandmaster"						"1"
 	"The Head Prize"						"1"
 	"The Holiday Headcase"						"1"
 	"The Hot Dogger"						"1"
@@ -2667,7 +2679,7 @@
 	"RGB LAN 2nd Place 2017"					"1"
 	"RGB LAN 3rd Place 2017"					"1"
 	"RGB LAN Participant 2017"					"1"
-	"RGL.gg Pick/Ban Prolander Participant Season 1"		"1"
+	"RGLgg Pick Ban Prolander Participant Season 1"			"1"
 	"Sips' Selfless Simulacrum"					"1"
 	"Sjin's Generous Guise"						"1"
 	"Smissmas Wreath"						"1"
@@ -3634,9 +3646,8 @@
 	"Promotional Noise Maker - Fireworks"				"0"
 	"Promotional Noise Maker - Koto"				"0"
 
-	//---------------------- Other (Total: 26) ----------------------\\
+	//---------------------- Other (Total: 25) ----------------------\\
 	//_________________________ All classes _________________________\\
-	"Activated Campaign 3 Pass"					"1"
 	"Basic Spellbook"						"1"
 	"Duck Badge"							"1"
 	"Halloween Spellbook"						"1"
@@ -3723,8 +3734,8 @@
 	"Taunt: Mannrobics"						"0"
 	"Taunt: Second Rate Sorcery"					"1"
 	"Taunt: The Victory Lap"					"0"
-	"Taunt: Yeti Punch"						"0"
-	"Taunt: Yeti Smash"						"0"
+	"Taunt: Yeti Punch"						"1"
+	"Taunt: Yeti Smash"						"1"
 	"Taunt: Zoomin' Broom"						"0"
 	"The Shred Alert"						"1"
 	//____________________________ Scout ____________________________\\
@@ -3740,7 +3751,7 @@
 	"Party Trick Taunt"						"1"
 	"Pool Party Taunt"						"0"
 	"Taunt: The Balloonibouncer"					"0"
-	"Taunt: The Headcase"						"0"
+	"Taunt: The Headcase"						"1"
 	//___________________________ Demoman ___________________________\\
 	"Oblooterated Taunt"						"1"
 	"Spent Well Spirits Taunt"					"1"
@@ -3769,6 +3780,10 @@
 	"Buy A Life Taunt"						"1"
 	"Taunt: Disco Fever"						"1"
 	"Taunt: The Boxtrot"						"0"
+
+	//------------------ UGC exceptions (Total: 1) ------------------\\
+	//_________________________ All classes _________________________\\
+	"The Grandmaster"						"0"
 
 	//--------- Usable action items/MvM canteens (Total: 4) ---------\\
 	"Battery Canteens"						"1"
