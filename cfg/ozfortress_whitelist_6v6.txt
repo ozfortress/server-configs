@@ -1,4 +1,4 @@
-// Whitelist generated at Fri, 10 Nov 2017 02:22:42 +0100
+// Whitelist generated at Thu, 23 Nov 2017 11:48:03 +0100
 // Whitelist: ozfortress 6v6 (Season 20) (ID: 7931)
 
 // Share or view this whitelist:
@@ -1424,7 +1424,7 @@
 	"The Upgrade"							"1"
 	"tw_spybot_hood"						"1"
 
-	//--------------------- Miscs (Total: 2191) ---------------------\\
+	//--------------------- Miscs (Total: 2194) ---------------------\\
 	//_________________________ All classes _________________________\\
 	"Altruist's Adornment"						"1"
 	"Antlers"							"1"
@@ -2330,6 +2330,7 @@
 	"Insomnia 61 Second Place Medal"				"1"
 	"Insomnia 61 Third Place Medal"					"1"
 	"Invasion Community Update Medal"				"1"
+	"Israphel's Eleemosynary Expression"				"1"
 	"Jaunty Adventurer 2017"					"1"
 	"Jaunty Benefactor 2016"					"1"
 	"Jaunty Camper 2016"						"1"
@@ -2449,6 +2450,7 @@
 	"LBTF2 Highlander Principal 3rd Place Season 3"			"1"
 	"LBTF2 Highlander Principal Participant Season 2"		"1"
 	"LBTF2 Highlander Principal Participant Season 3"		"1"
+	"Mandrew's Munificent Mug"					"1"
 	"Mappers vs. Machines Participant Medal 2017"			"1"
 	"Mark of the Saint"						"1"
 	"Merc's Pride Scarf"						"1"
@@ -2801,6 +2803,7 @@
 	"The Whale Bone Charm"						"1"
 	"Thought that Counts"						"1"
 	"Tip of the Hats 2015 Medal"					"1"
+	"Titanium Tank Participant Medal 2017"				"1"
 	"Tour of Duty Badge Advanced 1"					"1"
 	"Tour of Duty Badge Advanced 2"					"1"
 	"Tour of Duty Badge Advanced 3"					"1"
