@@ -1,8 +1,8 @@
-// Whitelist generated at Tue, 26 Dec 2017 02:07:20 +0100
-// Whitelist: Global Whitelist 6v6 (ESEA/ETF2L/FACEIT/ozfortress/UGC) (ID: 8176)
+// Whitelist generated at Thu, 28 Dec 2017 09:14:16 +0100
+// Custom Whitelist ID: 8195
 
 // Share or view this whitelist:
-//	http://whitelist.tf/competitive_6v6
+//	http://whitelist.tf/8195
 
 // New items added to the game are: NOT allowed
 // Hats are: allowed
@@ -48,7 +48,6 @@
 //  * Natascha
 // - Secondary
 //  * Buffalo Steak Sandvich
-//  * Second Banana
 // - Melee
 //  * Fists of Steel
 
@@ -76,7 +75,7 @@
 {
 	"unlisted_items_default_to"		"0"
 
-	//---------------- Allowed weapons (Total: 110) -----------------\\
+	//---------------- Allowed weapons (Total: 111) -----------------\\
 	//______________________ Multiple classes _______________________\\
 	"Panic Attack Shotgun"						"1"
 	"The B.A.S.E. Jumper"						"1"
@@ -154,6 +153,7 @@
 	"The Huo Long Heatmaker"					"1"
 	"The Killing Gloves of Boxing"					"1"
 	"The Sandvich"							"1"
+	"The Second Banana"						"1"
 	"Tomislav"							"1"
 	"Warrior's Spirit"						"1"
 	//__________________________ Engineer ___________________________\\
@@ -521,7 +521,7 @@
 	"warbird_knife_blitzkrieg"					"1"
 	"warbird_revolver_blitzkrieg"					"1"
 
-	//------------- Blocked weapons/reskins (Total: 30) -------------\\
+	//------------- Blocked weapons/reskins (Total: 29) -------------\\
 	//______________________ Multiple classes _______________________\\
 	"The Reserve Shooter"						"0"
 	//____________________________ Scout ____________________________\\
@@ -544,7 +544,6 @@
 	"Fists of Steel"						"0"
 	"Natascha"							"0"
 	"The Buffalo Steak Sandvich"					"0"
-	"The Second Banana"						"0"
 	//__________________________ Engineer ___________________________\\
 	"Festive Wrangler"						"0"
 	"The Giger Counter"						"0"
@@ -3847,7 +3846,7 @@
 	"Taunt: The Boston Breakdance"					"1"
 	"Taunt: The Bunnyhopper"					"0"
 	"Taunt: The Carlton"						"0"
-	"Taunt: The Trackman's Touchdown"				"0"
+	"Taunt: The Trackman's Touchdown"				"1"
 	//___________________________ Soldier ___________________________\\
 	"Fresh Brewed Victory Taunt"					"1"
 	"Taunt: Soldier's Requiem"					"1"
