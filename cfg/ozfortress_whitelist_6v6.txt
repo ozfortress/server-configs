@@ -1,5 +1,5 @@
-// Whitelist generated at Tue, 16 Jan 2018 07:30:12 +0100
-// Whitelist: Global Whitelist 6v6 (ESEA/ETF2L/FACEIT/ozfortress/UGC) (ID: 8195)
+// Whitelist generated at Sat, 20 Jan 2018 23:48:44 +0100
+// Whitelist: Global Whitelist 6v6 (ESEA/ETF2L/FACEIT/ozfortress/UGC) (ID: 8319)
 
 // Share or view this whitelist:
 //	http://whitelist.tf/competitive_6v6
@@ -18,12 +18,14 @@
 
 // Blocked weapons for Multiple classes
 // - Secondary
+//  * B.A.S.E. Jumper
 //  * Reserve Shooter
 
 // Blocked weapons for Scout
 // - Primary
 //  * Soda Popper
 // - Secondary
+//  * Bonk! Atomic Punch
 //  * Crit-a-Cola
 //  * Flying Guillotine
 //  * Mad Milk
@@ -42,6 +44,8 @@
 // Blocked weapons for Pyro
 // - Primary
 //  * Dragon's Fury
+// - Secondary
+//  * Gas Passer
 
 // Blocked weapons for Heavy
 // - Primary
@@ -67,6 +71,7 @@
 
 // Blocked weapons for Sniper
 // - Primary
+//  * Machina
 //  * Sydney Sleeper
 // - Secondary
 //  * Jarate
@@ -75,15 +80,13 @@
 {
 	"unlisted_items_default_to"		"0"
 
-	//---------------- Allowed weapons (Total: 111) -----------------\\
+	//---------------- Allowed weapons (Total: 107) -----------------\\
 	//______________________ Multiple classes _______________________\\
 	"Panic Attack Shotgun"						"1"
-	"The B.A.S.E. Jumper"						"1"
 	"The Half-Zatoichi"						"1"
 	"The Pain Train"						"1"
 	//____________________________ Scout ____________________________\\
 	"Baby Face's Blaster"						"1"
-	"Bonk! Atomic Punch"						"1"
 	"Sun-on-a-Stick"						"1"
 	"The Back Scatter"						"1"
 	"The Boston Basher"						"1"
@@ -117,7 +120,6 @@
 	"The Degreaser"							"1"
 	"The Detonator"							"1"
 	"The Flare Gun"							"1"
-	"The Gas Passer"						"1"
 	"The Homewrecker"						"1"
 	"The Hot Hand"							"1"
 	"The Manmelter"							"1"
@@ -181,7 +183,6 @@
 	"The Cozy Camper"						"1"
 	"The Hitman's Heatmaker"					"1"
 	"The Huntsman"							"1"
-	"The Machina"							"1"
 	"The Razorback"							"1"
 	"The Shahanshah"						"1"
 	"The Tribalman's Shiv"						"1"
@@ -198,7 +199,7 @@
 	"The Spy-cicle"							"1"
 	"Your Eternal Reward"						"1"
 
-	//------------- Allowed weapon reskins (Total: 310) -------------\\
+	//------------- Allowed weapon reskins (Total: 308) -------------\\
 	//_________________________ All classes _________________________\\
 	"Gold Frying Pan"						"1"
 	"Prinny Machete"						"1"
@@ -248,7 +249,6 @@
 	"craftsmann_scattergun_tartantorpedo"				"1"
 	"Diamond Botkiller Scattergun Mk.I"				"1"
 	"Festive Bat 2011"						"1"
-	"Festive Bonk 2014"						"1"
 	"Festive Force-a-Nature"					"1"
 	"Festive Holy Mackerel"						"1"
 	"Festive Scattergun 2011"					"1"
@@ -469,7 +469,6 @@
 	"pyroland_sniperrifle_balloonicorn"				"1"
 	"pyroland_sniperrifle_rainbow"					"1"
 	"Rust Botkiller Sniper Rifle Mk.I"				"1"
-	"Shooting Star"							"1"
 	"Silver Botkiller Sniper Rifle Mk.I"				"1"
 	"Silver Botkiller Sniper Rifle Mk.II"				"1"
 	"teufort_smg_teamsprayer"					"1"
@@ -521,11 +520,14 @@
 	"warbird_knife_blitzkrieg"					"1"
 	"warbird_revolver_blitzkrieg"					"1"
 
-	//------------- Blocked weapons/reskins (Total: 29) -------------\\
+	//------------- Blocked weapons/reskins (Total: 35) -------------\\
 	//______________________ Multiple classes _______________________\\
+	"The B.A.S.E. Jumper"						"0"
 	"The Reserve Shooter"						"0"
 	//____________________________ Scout ____________________________\\
+	"Bonk! Atomic Punch"						"0"
 	"Crit-a-Cola"							"0"
+	"Festive Bonk 2014"						"0"
 	"Mad Milk"							"0"
 	"Mutated Milk"							"0"
 	"Pretty Boy's Pocket Pistol"					"0"
@@ -539,6 +541,7 @@
 	"The Mantreads"							"0"
 	//____________________________ Pyro _____________________________\\
 	"The Dragon's Fury"						"0"
+	"The Gas Passer"						"0"
 	//____________________________ Heavy ____________________________\\
 	"Deflector"							"0"
 	"Fists of Steel"						"0"
@@ -557,6 +560,8 @@
 	//___________________________ Sniper ____________________________\\
 	"Festive Jarate"						"0"
 	"Jarate"							"0"
+	"Shooting Star"							"0"
+	"The Machina"							"0"
 	"The Self-Aware Beauty Mark"					"0"
 	"The Sydney Sleeper"						"0"
 
