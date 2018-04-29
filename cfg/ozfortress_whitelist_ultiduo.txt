@@ -1,5 +1,5 @@
-// Whitelist generated at Wed, 04 Apr 2018 09:47:18 +0200
-// Whitelist: ozfortress Ultiduo 12 (ID: 6678)
+// Whitelist generated at Sun, 29 Apr 2018 10:40:50 +0200
+// Whitelist: ozfortress Ultiduo 12 (ID: 8683)
 
 // Share or view this whitelist:
 //	http://whitelist.tf/ozfortress_ultiduo12
@@ -3916,8 +3916,8 @@
 	"Taunt: Mannrobics"						"0"
 	"Taunt: Second Rate Sorcery"					"1"
 	"Taunt: The Victory Lap"					"0"
-	"Taunt: Yeti Punch"						"0"
-	"Taunt: Yeti Smash"						"0"
+	"Taunt: Yeti Punch"						"1"
+	"Taunt: Yeti Smash"						"1"
 	"Taunt: Zoomin' Broom"						"0"
 	"The Shred Alert"						"1"
 	//____________________________ Scout ____________________________\\
