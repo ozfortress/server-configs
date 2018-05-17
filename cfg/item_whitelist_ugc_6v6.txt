@@ -1,8 +1,8 @@
-// Whitelist generated at Wed, 04 Apr 2018 09:48:51 +0200
-// Whitelist: UGC 6v6 (Season 26) (ID: 8319)
+// Whitelist generated at Thu, 17 May 2018 02:16:07 +0200
+// Whitelist: UGC 6v6 (Season 27) (ID: 8319)
 
 // Share or view this whitelist:
-//	http://whitelist.tf/ugc_6v6_s26
+//	http://whitelist.tf/ugc_6v6_s27
 
 // New items added to the game are: NOT allowed
 // Hats are: allowed

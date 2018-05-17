@@ -1,8 +1,8 @@
-// Whitelist generated at Wed, 04 Apr 2018 09:46:53 +0200
-// Whitelist: ozfortress 6v6 (Season 21) (ID: 8319)
+// Whitelist generated at Thu, 17 May 2018 02:13:51 +0200
+// Whitelist: ozfortress 6v6 (Season 22) (ID: 8319)
 
 // Share or view this whitelist:
-//	http://whitelist.tf/ozfortress_6v6_s21
+//	http://whitelist.tf/ozfortress_6v6_s22
 
 // New items added to the game are: NOT allowed
 // Hats are: allowed

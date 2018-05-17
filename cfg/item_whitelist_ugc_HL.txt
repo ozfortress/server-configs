@@ -1,8 +1,8 @@
-// Whitelist generated at Wed, 04 Apr 2018 09:48:51 +0200
-// Whitelist: UGC Highlander (Season 24) (ID: 8287)
+// Whitelist generated at Thu, 17 May 2018 02:14:56 +0200
+// Whitelist: UGC Highlander (Season 25) (ID: 8838)
 
 // Share or view this whitelist:
-//	http://whitelist.tf/ugc_9v9_s24
+//	http://whitelist.tf/ugc_9v9_s25
 
 // New items added to the game are: NOT allowed
 // Hats are: allowed
@@ -17,18 +17,12 @@
 // Botkiller weapon reskins are: allowed
 
 // Blocked weapons for Scout
-// - Primary
-//  * Soda Popper
 // - Secondary
 //  * Crit-a-Cola
 
 // Blocked weapons for Soldier
 // - Primary
 //  * Air Strike
-
-// Blocked weapons for Engineer
-// - Secondary
-//  * Short Circuit
 
 // Blocked weapons for Sniper
 // - Primary
@@ -37,14 +31,12 @@
 // Blocked weapons for Spy
 // - Secondary
 //  * Diamondback
-// - Sapper
-//  * Red-Tape Recorder
 
 "item_whitelist"
 {
 	"unlisted_items_default_to"		"0"
 
-	//---------------- Allowed weapons (Total: 126) -----------------\\
+	//---------------- Allowed weapons (Total: 129) -----------------\\
 	//______________________ Multiple classes _______________________\\
 	"Panic Attack Shotgun"						"1"
 	"The B.A.S.E. Jumper"						"1"
@@ -66,6 +58,7 @@
 	"The Force-a-Nature"						"1"
 	"The Sandman"							"1"
 	"The Shortstop"							"1"
+	"The Soda Popper"						"1"
 	"The Winger"							"1"
 	"The Wrap Assassin"						"1"
 	//___________________________ Soldier ___________________________\\
@@ -143,6 +136,7 @@
 	"The Jag"							"1"
 	"The Pomson 6000"						"1"
 	"The Rescue Ranger"						"1"
+	"The Short Circuit"						"1"
 	"The Southern Hospitality"					"1"
 	"The Widowmaker"						"1"
 	"The Wrangler"							"1"
@@ -179,10 +173,11 @@
 	"The Cloak and Dagger"						"1"
 	"The Dead Ringer"						"1"
 	"The Enforcer"							"1"
+	"The Red-Tape Recorder"						"1"
 	"The Spy-cicle"							"1"
 	"Your Eternal Reward"						"1"
 
-	//------------- Allowed weapon reskins (Total: 314) -------------\\
+	//------------- Allowed weapon reskins (Total: 315) -------------\\
 	//_________________________ All classes _________________________\\
 	"Gold Frying Pan"						"1"
 	"Prinny Machete"						"1"
@@ -489,6 +484,7 @@
 	"harvest_revolver_macabreweb"					"1"
 	"harvest_revolver_wildwood"					"1"
 	"powerhouse_revolver_deadreckoner"				"1"
+	"Promo Red-Tape Recorder"					"1"
 	"pyroland_knife_bluemew"					"1"
 	"pyroland_knife_braincandy"					"1"
 	"pyroland_knife_stabbedtohell"					"1"
@@ -509,23 +505,18 @@
 	"warbird_knife_blitzkrieg"					"1"
 	"warbird_revolver_blitzkrieg"					"1"
 
-	//------------- Blocked weapons/reskins (Total: 10) -------------\\
+	//------------- Blocked weapons/reskins (Total: 6) --------------\\
 	//____________________________ Scout ____________________________\\
 	"Crit-a-Cola"							"0"
-	"The Soda Popper"						"0"
 	//___________________________ Soldier ___________________________\\
 	"The Air Strike"						"0"
 	//____________________________ Heavy ____________________________\\
 	"Deflector"							"0"
-	//__________________________ Engineer ___________________________\\
-	"The Short Circuit"						"0"
 	//___________________________ Sniper ____________________________\\
 	"Shooting Star"							"0"
 	"The Machina"							"0"
 	//_____________________________ Spy _____________________________\\
-	"Promo Red-Tape Recorder"					"0"
 	"The Diamondback"						"0"
-	"The Red-Tape Recorder"						"0"
 
 	//------------- ConTrabanned ConTracker (Total: 1) --------------\\
 	//_________________________ All classes _________________________\\

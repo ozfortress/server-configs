@@ -1,8 +1,8 @@
-// Whitelist generated at Wed, 04 Apr 2018 09:48:51 +0200
-// Whitelist: UGC Highlander (Season 24) (ID: 8287)
+// Whitelist generated at Thu, 17 May 2018 02:16:27 +0200
+// Whitelist: UGC 4v4 (Season 11) (ID: 7842)
 
 // Share or view this whitelist:
-//	http://whitelist.tf/ugc_9v9_s24
+//	http://whitelist.tf/ugc_4v4_s11
 
 // New items added to the game are: NOT allowed
 // Hats are: allowed
@@ -16,27 +16,67 @@
 // Festive weapon reskins are: allowed
 // Botkiller weapon reskins are: allowed
 
+// Blocked weapons for Multiple classes
+// - Secondary
+//  * Reserve Shooter
+
 // Blocked weapons for Scout
 // - Primary
 //  * Soda Popper
 // - Secondary
 //  * Crit-a-Cola
+//  * Mad Milk
+// - Melee
+//  * Sandman
 
 // Blocked weapons for Soldier
 // - Primary
 //  * Air Strike
+//  * Beggar's Bazooka
+// - Secondary
+//  * Mantreads
+
+// Blocked weapons for Pyro
+// - Primary
+//  * Dragon's Fury
+// - Secondary
+//  * Gas Passer
+//  * Thermal Thruster
+// - Melee
+//  * Back Scratcher
+//  * Hot Hand
+
+// Blocked weapons for Demoman
+// - Primary
+//  * Loch-n-Load
+
+// Blocked weapons for Heavy
+// - Secondary
+//  * Dalokohs Bar
+//  * Second Banana
 
 // Blocked weapons for Engineer
+// - Primary
+//  * Pomson 6000
 // - Secondary
 //  * Short Circuit
+// - Melee
+//  * Gunslinger
+
+// Blocked weapons for Medic
+// - Secondary
+//  * Quick-Fix
+//  * Vaccinator
+// - Melee
+//  * Vita-Saw
 
 // Blocked weapons for Sniper
 // - Primary
-//  * Machina
+//  * Bazaar Bargain
+// - Secondary
+//  * Darwin's Danger Shield
 
 // Blocked weapons for Spy
-// - Secondary
-//  * Diamondback
 // - Sapper
 //  * Red-Tape Recorder
 
@@ -44,17 +84,15 @@
 {
 	"unlisted_items_default_to"		"0"
 
-	//---------------- Allowed weapons (Total: 126) -----------------\\
+	//---------------- Allowed weapons (Total: 108) -----------------\\
 	//______________________ Multiple classes _______________________\\
 	"Panic Attack Shotgun"						"1"
 	"The B.A.S.E. Jumper"						"1"
 	"The Half-Zatoichi"						"1"
 	"The Pain Train"						"1"
-	"The Reserve Shooter"						"1"
 	//____________________________ Scout ____________________________\\
 	"Baby Face's Blaster"						"1"
 	"Bonk! Atomic Punch"						"1"
-	"Mad Milk"							"1"
 	"Pretty Boy's Pocket Pistol"					"1"
 	"Sun-on-a-Stick"						"1"
 	"The Atomizer"							"1"
@@ -64,14 +102,12 @@
 	"The Fan O'War"							"1"
 	"The Flying Guillotine"						"1"
 	"The Force-a-Nature"						"1"
-	"The Sandman"							"1"
 	"The Shortstop"							"1"
 	"The Winger"							"1"
 	"The Wrap Assassin"						"1"
 	//___________________________ Soldier ___________________________\\
 	"Rocket Jumper"							"1"
 	"The Battalion's Backup"					"1"
-	"The Beggar's Bazooka"						"1"
 	"The Black Box"							"1"
 	"The Buff Banner"						"1"
 	"The Concheror"							"1"
@@ -82,27 +118,21 @@
 	"The Escape Plan"						"1"
 	"The Gunboats"							"1"
 	"The Liberty Launcher"						"1"
-	"The Mantreads"							"1"
 	"The Market Gardener"						"1"
 	"The Righteous Bison"						"1"
 	//____________________________ Pyro _____________________________\\
 	"Sharpened Volcano Fragment"					"1"
 	"The Axtinguisher"						"1"
-	"The Back Scratcher"						"1"
 	"The Backburner"						"1"
 	"The Degreaser"							"1"
 	"The Detonator"							"1"
-	"The Dragon's Fury"						"1"
 	"The Flare Gun"							"1"
-	"The Gas Passer"						"1"
 	"The Homewrecker"						"1"
-	"The Hot Hand"							"1"
 	"The Manmelter"							"1"
 	"The Neon Annihilator"						"1"
 	"The Phlogistinator"						"1"
 	"The Powerjack"							"1"
 	"The Scorch Shot"						"1"
-	"The Thermal Thruster"						"1"
 	"The Third Degree"						"1"
 	//___________________________ Demoman ___________________________\\
 	"Ali Baba's Wee Booties"					"1"
@@ -111,7 +141,6 @@
 	"The Claidheamohmor"						"1"
 	"The Eyelander"							"1"
 	"The Iron Bomber"						"1"
-	"The Loch-n-Load"						"1"
 	"The Loose Cannon"						"1"
 	"The Persian Persuader"						"1"
 	"The Quickiebomb Launcher"					"1"
@@ -126,22 +155,18 @@
 	"Natascha"							"1"
 	"The Brass Beast"						"1"
 	"The Buffalo Steak Sandvich"					"1"
-	"The Dalokohs Bar"						"1"
 	"The Eviction Notice"						"1"
 	"The Family Business"						"1"
 	"The Holiday Punch"						"1"
 	"The Huo Long Heatmaker"					"1"
 	"The Killing Gloves of Boxing"					"1"
 	"The Sandvich"							"1"
-	"The Second Banana"						"1"
 	"Tomislav"							"1"
 	"Warrior's Spirit"						"1"
 	//__________________________ Engineer ___________________________\\
 	"The Eureka Effect"						"1"
 	"The Frontier Justice"						"1"
-	"The Gunslinger"						"1"
 	"The Jag"							"1"
-	"The Pomson 6000"						"1"
 	"The Rescue Ranger"						"1"
 	"The Southern Hospitality"					"1"
 	"The Widowmaker"						"1"
@@ -152,21 +177,17 @@
 	"The Crusader's Crossbow"					"1"
 	"The Kritzkrieg"						"1"
 	"The Overdose"							"1"
-	"The Quick-Fix"							"1"
 	"The Solemn Vow"						"1"
 	"The Ubersaw"							"1"
-	"The Vaccinator"						"1"
-	"The Vita-Saw"							"1"
 	//___________________________ Sniper ____________________________\\
-	"Darwin's Danger Shield"					"1"
 	"Jarate"							"1"
-	"The Bazaar Bargain"						"1"
 	"The Bushwacka"							"1"
 	"The Classic"							"1"
 	"The Cleaner's Carbine"						"1"
 	"The Cozy Camper"						"1"
 	"The Hitman's Heatmaker"					"1"
 	"The Huntsman"							"1"
+	"The Machina"							"1"
 	"The Razorback"							"1"
 	"The Shahanshah"						"1"
 	"The Sydney Sleeper"						"1"
@@ -178,11 +199,12 @@
 	"The Big Earner"						"1"
 	"The Cloak and Dagger"						"1"
 	"The Dead Ringer"						"1"
+	"The Diamondback"						"1"
 	"The Enforcer"							"1"
 	"The Spy-cicle"							"1"
 	"Your Eternal Reward"						"1"
 
-	//------------- Allowed weapon reskins (Total: 314) -------------\\
+	//------------- Allowed weapon reskins (Total: 313) -------------\\
 	//_________________________ All classes _________________________\\
 	"Gold Frying Pan"						"1"
 	"Prinny Machete"						"1"
@@ -241,7 +263,6 @@
 	"Gold Botkiller Scattergun Mk.II"				"1"
 	"harvest_scattergun_macabreweb"					"1"
 	"harvest_scattergun_nutcracker"					"1"
-	"Mutated Milk"							"1"
 	"powerhouse_scattergun_currentevent"				"1"
 	"Promo Flying Guillotine"					"1"
 	"pyroland_scattergun_bluemew"					"1"
@@ -360,7 +381,6 @@
 	"Festive Gloves of Running Urgently"				"1"
 	"Festive Minigun 2011"						"1"
 	"Festive Sandvich"						"1"
-	"Fishcake"							"1"
 	"gentlemanne_minigun_coffinnail"				"1"
 	"gentlemanne_minigun_dressedtokill"				"1"
 	"gentlemanne_minigun_topshelf"					"1"
@@ -458,6 +478,7 @@
 	"pyroland_sniperrifle_balloonicorn"				"1"
 	"pyroland_sniperrifle_rainbow"					"1"
 	"Rust Botkiller Sniper Rifle Mk.I"				"1"
+	"Shooting Star"							"1"
 	"Silver Botkiller Sniper Rifle Mk.I"				"1"
 	"Silver Botkiller Sniper Rifle Mk.II"				"1"
 	"teufort_smg_teamsprayer"					"1"
@@ -509,22 +530,45 @@
 	"warbird_knife_blitzkrieg"					"1"
 	"warbird_revolver_blitzkrieg"					"1"
 
-	//------------- Blocked weapons/reskins (Total: 10) -------------\\
+	//------------- Blocked weapons/reskins (Total: 29) -------------\\
+	//______________________ Multiple classes _______________________\\
+	"The Reserve Shooter"						"0"
 	//____________________________ Scout ____________________________\\
 	"Crit-a-Cola"							"0"
+	"Mad Milk"							"0"
+	"Mutated Milk"							"0"
+	"The Sandman"							"0"
 	"The Soda Popper"						"0"
 	//___________________________ Soldier ___________________________\\
 	"The Air Strike"						"0"
+	"The Beggar's Bazooka"						"0"
+	"The Mantreads"							"0"
+	//____________________________ Pyro _____________________________\\
+	"The Back Scratcher"						"0"
+	"The Dragon's Fury"						"0"
+	"The Gas Passer"						"0"
+	"The Hot Hand"							"0"
+	"The Thermal Thruster"						"0"
+	//___________________________ Demoman ___________________________\\
+	"The Loch-n-Load"						"0"
 	//____________________________ Heavy ____________________________\\
 	"Deflector"							"0"
+	"Fishcake"							"0"
+	"The Dalokohs Bar"						"0"
+	"The Second Banana"						"0"
 	//__________________________ Engineer ___________________________\\
+	"The Gunslinger"						"0"
+	"The Pomson 6000"						"0"
 	"The Short Circuit"						"0"
+	//____________________________ Medic ____________________________\\
+	"The Quick-Fix"							"0"
+	"The Vaccinator"						"0"
+	"The Vita-Saw"							"0"
 	//___________________________ Sniper ____________________________\\
-	"Shooting Star"							"0"
-	"The Machina"							"0"
+	"Darwin's Danger Shield"					"0"
+	"The Bazaar Bargain"						"0"
 	//_____________________________ Spy _____________________________\\
 	"Promo Red-Tape Recorder"					"0"
-	"The Diamondback"						"0"
 	"The Red-Tape Recorder"						"0"
 
 	//------------- ConTrabanned ConTracker (Total: 1) --------------\\
@@ -3936,7 +3980,7 @@
 	"Taunt: Yeti Punch"						"1"
 	"Taunt: Yeti Smash"						"1"
 	"Taunt: Zoomin' Broom"						"0"
-	"The Shred Alert"						"1"
+	"The Shred Alert"						"0"
 	//____________________________ Scout ____________________________\\
 	"Battin' a Thousand Taunt"					"1"
 	"Deep Fried Desire Taunt"					"1"
@@ -3944,11 +3988,11 @@
 	"Taunt: The Boston Breakdance"					"1"
 	"Taunt: The Bunnyhopper"					"0"
 	"Taunt: The Carlton"						"0"
-	"Taunt: The Trackman's Touchdown"				"1"
+	"Taunt: The Trackman's Touchdown"				"0"
 	//___________________________ Soldier ___________________________\\
 	"Fresh Brewed Victory Taunt"					"1"
 	"Taunt: Soldier's Requiem"					"1"
-	"Taunt: The Fubar Fanfare"					"1"
+	"Taunt: The Fubar Fanfare"					"0"
 	//____________________________ Pyro _____________________________\\
 	"Party Trick Taunt"						"1"
 	"Pool Party Taunt"						"0"
@@ -3972,7 +4016,7 @@
 	"Taunt: The Dueling Banjo"					"0"
 	"Taunt: The Jumping Jack"					"0"
 	//____________________________ Medic ____________________________\\
-	"Meet the Medic Heroic Taunt"					"1"
+	"Meet the Medic Heroic Taunt"					"0"
 	"Results Are In Taunt"						"1"
 	"Taunt: Surgeon's Squeezebox"					"0"
 	//___________________________ Sniper ____________________________\\
