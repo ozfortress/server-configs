@@ -1,8 +1,8 @@
-// Whitelist generated at Tue, 31 Jul 2018 07:39:20 +0200
-// Custom Whitelist ID: 9152
+// Whitelist generated at Fri, 07 Sep 2018 15:25:39 +0200
+// Whitelist: Respawn League Highlander (Season 1) (ID: 9293)
 
 // Share or view this whitelist:
-//	https://whitelist.tf/9152
+//	https://whitelist.tf/respawn_hl_s1
 
 // New items added to the game are: NOT allowed
 // Hats are: allowed
@@ -16,13 +16,10 @@
 // Festive weapon reskins are: allowed
 // Botkiller weapon reskins are: allowed
 
-// Blocked weapons for Multiple classes
-// - Secondary
-//  * Reserve Shooter
-
 // Blocked weapons for Scout
 // - Secondary
 //  * Crit-a-Cola
+//  * Mad Milk
 
 // Blocked weapons for Soldier
 // - Primary
@@ -41,6 +38,8 @@
 // Blocked weapons for Sniper
 // - Primary
 //  * Machina
+// - Secondary
+//  * Jarate
 
 // Blocked weapons for Spy
 // - Secondary
@@ -50,16 +49,16 @@
 {
 	"unlisted_items_default_to"		"0"
 
-	//---------------- Allowed weapons (Total: 125) -----------------\\
+	//---------------- Allowed weapons (Total: 124) -----------------\\
 	//______________________ Multiple classes _______________________\\
 	"Panic Attack Shotgun"						"1"
 	"The B.A.S.E. Jumper"						"1"
 	"The Half-Zatoichi"						"1"
 	"The Pain Train"						"1"
+	"The Reserve Shooter"						"1"
 	//____________________________ Scout ____________________________\\
 	"Baby Face's Blaster"						"1"
 	"Bonk! Atomic Punch"						"1"
-	"Mad Milk"							"1"
 	"Pretty Boy's Pocket Pistol"					"1"
 	"Sun-on-a-Stick"						"1"
 	"The Atomizer"							"1"
@@ -163,7 +162,6 @@
 	"The Vita-Saw"							"1"
 	//___________________________ Sniper ____________________________\\
 	"Darwin's Danger Shield"					"1"
-	"Jarate"							"1"
 	"The Bazaar Bargain"						"1"
 	"The Bushwacka"							"1"
 	"The Classic"							"1"
@@ -187,7 +185,7 @@
 	"The Spy-cicle"							"1"
 	"Your Eternal Reward"						"1"
 
-	//------------- Allowed weapon reskins (Total: 315) -------------\\
+	//------------- Allowed weapon reskins (Total: 312) -------------\\
 	//_________________________ All classes _________________________\\
 	"Gold Frying Pan"						"1"
 	"Prinny Machete"						"1"
@@ -246,7 +244,6 @@
 	"Gold Botkiller Scattergun Mk.II"				"1"
 	"harvest_scattergun_macabreweb"					"1"
 	"harvest_scattergun_nutcracker"					"1"
-	"Mutated Milk"							"1"
 	"powerhouse_scattergun_currentevent"				"1"
 	"Promo Flying Guillotine"					"1"
 	"pyroland_scattergun_bluemew"					"1"
@@ -445,7 +442,6 @@
 	"craftsmann_sniperrifle_shotinthedark"				"1"
 	"Diamond Botkiller Sniper Rifle Mk.I"				"1"
 	"Festive Huntsman"						"1"
-	"Festive Jarate"						"1"
 	"Festive SMG 2014"						"1"
 	"Festive Sniper Rifle 2011"					"1"
 	"gentlemanne_smg_highrollers"					"1"
@@ -470,7 +466,6 @@
 	"teufort_sniperrifle_bogtrotter"				"1"
 	"The AWPer Hand"						"1"
 	"The Fortified Compound"					"1"
-	"The Self-Aware Beauty Mark"					"1"
 	"warbird_smg_blitzkrieg"					"1"
 	"warbird_sniperrifle_airwolf"					"1"
 	//_____________________________ Spy _____________________________\\
@@ -515,11 +510,11 @@
 	"warbird_knife_blitzkrieg"					"1"
 	"warbird_revolver_blitzkrieg"					"1"
 
-	//------------- Blocked weapons/reskins (Total: 10) -------------\\
-	//______________________ Multiple classes _______________________\\
-	"The Reserve Shooter"						"0"
+	//------------- Blocked weapons/reskins (Total: 14) -------------\\
 	//____________________________ Scout ____________________________\\
 	"Crit-a-Cola"							"0"
+	"Mad Milk"							"0"
+	"Mutated Milk"							"0"
 	//___________________________ Soldier ___________________________\\
 	"The Air Strike"						"0"
 	//____________________________ Pyro _____________________________\\
@@ -530,8 +525,11 @@
 	"The Pomson 6000"						"0"
 	"The Short Circuit"						"0"
 	//___________________________ Sniper ____________________________\\
+	"Festive Jarate"						"0"
+	"Jarate"							"0"
 	"Shooting Star"							"0"
 	"The Machina"							"0"
+	"The Self-Aware Beauty Mark"					"0"
 	//_____________________________ Spy _____________________________\\
 	"The Diamondback"						"0"
 
@@ -1417,7 +1415,7 @@
 	"The Upgrade"							"1"
 	"tw_spybot_hood"						"1"
 
-	//--------------------- Miscs (Total: 2510) ---------------------\\
+	//--------------------- Miscs (Total: 2581) ---------------------\\
 	//_________________________ All classes _________________________\\
 	"Altruist's Adornment"						"1"
 	"Antlers"							"1"
@@ -1689,6 +1687,11 @@
 	"ESL Season VII Premiership Division 2nd Place"			"1"
 	"ESL Season VII Premiership Division 3rd Place"			"1"
 	"ESL Season VII Premiership Division Participant"		"1"
+	"Essentials Monthly Contributor"				"1"
+	"Essentials Monthly First Place"				"1"
+	"Essentials Monthly Participant"				"1"
+	"Essentials Monthly Second Place"				"1"
+	"Essentials Monthly Third Place"				"1"
 	"ETF2L 6v6 Division 1 Bronze Medal Season 29"			"1"
 	"ETF2L 6v6 Division 1 Gold Medal Season 29"			"1"
 	"ETF2L 6v6 Division 1 Group Winner Season 10"			"1"
@@ -2444,6 +2447,11 @@
 	"Insomnia 61 Participant Medal"					"1"
 	"Insomnia 61 Second Place Medal"				"1"
 	"Insomnia 61 Third Place Medal"					"1"
+	"Insomnia 63 Contributor Medal"					"1"
+	"Insomnia 63 First Place Medal"					"1"
+	"Insomnia 63 Participant Medal"					"1"
+	"Insomnia 63 Second Place Medal"				"1"
+	"Insomnia 63 Third Place Medal"					"1"
 	"Invasion Community Update Medal"				"1"
 	"Israphel's Eleemosynary Expression"				"1"
 	"Jaunty Adventurer 2017"					"1"
@@ -2947,6 +2955,7 @@
 	"TF2Connexion Division 4 Silver Medal Season 14"		"1"
 	"TF2Maps 72hr TF2Jam Summer Participant 2016"			"1"
 	"TF2Maps 72hr TF2Jam Summer Participant 2017"			"1"
+	"TF2Maps 72hr TF2Jam Summer Participant 2018"			"1"
 	"TF2Maps 72hr TF2Jam Winter Participant 2017"			"1"
 	"TF2Maps Charitable Heart 2017"					"1"
 	"TF2Maps Ray of Sunshine 2018"					"1"
@@ -2957,41 +2966,53 @@
 	"TFCL 6v6 1st Place Alpha Season"				"1"
 	"TFCL 6v6 1st Place Season 2"					"1"
 	"TFCL 6v6 1st Place Season 3"					"1"
+	"TFCL 6v6 1st Place Season 4"					"1"
 	"TFCL 6v6 2nd Place Alpha Season"				"1"
 	"TFCL 6v6 2nd Place Season 2"					"1"
 	"TFCL 6v6 2nd Place Season 3"					"1"
+	"TFCL 6v6 2nd Place Season 4"					"1"
 	"TFCL 6v6 3rd Place Alpha Season"				"1"
 	"TFCL 6v6 3rd Place Season 2"					"1"
 	"TFCL 6v6 3rd Place Season 3"					"1"
+	"TFCL 6v6 3rd Place Season 4"					"1"
 	"TFCL 6v6 Alpha"						"1"
 	"TFCL 6v6 Alpha FC"						"1"
 	"TFCL 6v6 Alpha RK"						"1"
 	"TFCL 6v6 Participant Season 2"					"1"
 	"TFCL 6v6 Participant Season 3"					"1"
+	"TFCL 6v6 Participant Season 4"					"1"
 	"TFCL bball 1st Place Season 1"					"1"
 	"TFCL bball 2nd Place Season 1"					"1"
 	"TFCL bball 3rd Place Season 1"					"1"
 	"TFCL bball Participant Season 1"				"1"
 	"TFCL Highlander 1st Place Season 1"				"1"
+	"TFCL Highlander 1st Place Season 2"				"1"
 	"TFCL Highlander 2nd Place Season 1"				"1"
+	"TFCL Highlander 2nd Place Season 2"				"1"
 	"TFCL Highlander 3rd Place Season 1"				"1"
+	"TFCL Highlander 3rd Place Season 2"				"1"
 	"TFCL Highlander Participant Season 1"				"1"
+	"TFCL Highlander Participant Season 2"				"1"
 	"TFCL Ultiduo 1st Place Alpha Season"				"1"
 	"TFCL Ultiduo 1st Place Season 2"				"1"
 	"TFCL Ultiduo 1st Place Season 3"				"1"
 	"TFCL Ultiduo 1st Place Season 4"				"1"
+	"TFCL Ultiduo 1st Place Season 5"				"1"
 	"TFCL Ultiduo 2nd Place Alpha Season"				"1"
 	"TFCL Ultiduo 2nd Place Season 2"				"1"
 	"TFCL Ultiduo 2nd Place Season 3"				"1"
 	"TFCL Ultiduo 2nd Place Season 4"				"1"
+	"TFCL Ultiduo 2nd Place Season 5"				"1"
 	"TFCL Ultiduo 3rd Place Alpha Season"				"1"
 	"TFCL Ultiduo 3rd Place Season 2"				"1"
 	"TFCL Ultiduo 3rd Place Season 3"				"1"
 	"TFCL Ultiduo 3rd Place Season 4"				"1"
+	"TFCL Ultiduo 3rd Place Season 5"				"1"
 	"TFCL Ultiduo Alpha"						"1"
 	"TFCL Ultiduo Participant Season 2"				"1"
 	"TFCL Ultiduo Participant Season 3"				"1"
 	"TFCL Ultiduo Participant Season 4"				"1"
+	"TFCL Ultiduo Participant Season 5"				"1"
 	"The Atomic Accolade"						"1"
 	"The Audio File"						"1"
 	"The Baronial Badge"						"1"
@@ -3056,6 +3077,8 @@
 	"UGC 4vs4 1st Place Gold Season 10"				"1"
 	"UGC 4vs4 1st Place Gold Season 11"				"1"
 	"UGC 4vs4 1st Place Gold Season 12"				"1"
+	"UGC 4vs4 1st Place Gold Season 13"				"1"
+	"UGC 4vs4 1st Place Gold Season 14"				"1"
 	"UGC 4vs4 1st Place Gold Season 2"				"1"
 	"UGC 4vs4 1st Place Gold Season 3"				"1"
 	"UGC 4vs4 1st Place Gold Season 4"				"1"
@@ -3066,6 +3089,8 @@
 	"UGC 4vs4 2nd Place Gold Season 10"				"1"
 	"UGC 4vs4 2nd Place Gold Season 11"				"1"
 	"UGC 4vs4 2nd Place Gold Season 12"				"1"
+	"UGC 4vs4 2nd Place Gold Season 13"				"1"
+	"UGC 4vs4 2nd Place Gold Season 14"				"1"
 	"UGC 4vs4 2nd Place Gold Season 2"				"1"
 	"UGC 4vs4 2nd Place Gold Season 3"				"1"
 	"UGC 4vs4 2nd Place Gold Season 4"				"1"
@@ -3076,6 +3101,8 @@
 	"UGC 4vs4 3rd Place Gold Season 10"				"1"
 	"UGC 4vs4 3rd Place Gold Season 11"				"1"
 	"UGC 4vs4 3rd Place Gold Season 12"				"1"
+	"UGC 4vs4 3rd Place Gold Season 13"				"1"
+	"UGC 4vs4 3rd Place Gold Season 14"				"1"
 	"UGC 4vs4 3rd Place Gold Season 2"				"1"
 	"UGC 4vs4 3rd Place Gold Season 3"				"1"
 	"UGC 4vs4 3rd Place Gold Season 4"				"1"
@@ -3086,6 +3113,8 @@
 	"UGC 4vs4 Gold Participant Season 10"				"1"
 	"UGC 4vs4 Gold Participant Season 11"				"1"
 	"UGC 4vs4 Gold Participant Season 12"				"1"
+	"UGC 4vs4 Gold Participant Season 13"				"1"
+	"UGC 4vs4 Gold Participant Season 14"				"1"
 	"UGC 4vs4 Gold Participant Season 2"				"1"
 	"UGC 4vs4 Gold Participant Season 3"				"1"
 	"UGC 4vs4 Gold Participant Season 4"				"1"
@@ -3105,6 +3134,8 @@
 	"UGC 4vs4 Silver Participant Season 10"				"1"
 	"UGC 4vs4 Silver Participant Season 11"				"1"
 	"UGC 4vs4 Silver Participant Season 12"				"1"
+	"UGC 4vs4 Silver Participant Season 13"				"1"
+	"UGC 4vs4 Silver Participant Season 14"				"1"
 	"UGC 4vs4 Silver Participant Season 2"				"1"
 	"UGC 4vs4 Silver Participant Season 3"				"1"
 	"UGC 4vs4 Silver Participant Season 4"				"1"
@@ -3117,6 +3148,8 @@
 	"UGC 4vs4 Steel Participant Season 10"				"1"
 	"UGC 4vs4 Steel Participant Season 11"				"1"
 	"UGC 4vs4 Steel Participant Season 12"				"1"
+	"UGC 4vs4 Steel Participant Season 13"				"1"
+	"UGC 4vs4 Steel Participant Season 14"				"1"
 	"UGC 4vs4 Steel Participant Season 2"				"1"
 	"UGC 4vs4 Steel Participant Season 3"				"1"
 	"UGC 4vs4 Steel Participant Season 4"				"1"
@@ -3137,6 +3170,8 @@
 	"UGC 6vs6 1st Place Platinum Season 23"				"1"
 	"UGC 6vs6 1st Place Platinum Season 24"				"1"
 	"UGC 6vs6 1st Place Platinum Season 25"				"1"
+	"UGC 6vs6 1st Place Platinum Season 26"				"1"
+	"UGC 6vs6 1st Place Platinum Season 27"				"1"
 	"UGC 6vs6 2nd Place Gold Season 20"				"1"
 	"UGC 6vs6 2nd Place Gold Season 21"				"1"
 	"UGC 6vs6 2nd Place Platinum Season 13"				"1"
@@ -3149,6 +3184,8 @@
 	"UGC 6vs6 2nd Place Platinum Season 23"				"1"
 	"UGC 6vs6 2nd Place Platinum Season 24"				"1"
 	"UGC 6vs6 2nd Place Platinum Season 25"				"1"
+	"UGC 6vs6 2nd Place Platinum Season 26"				"1"
+	"UGC 6vs6 2nd Place Platinum Season 27"				"1"
 	"UGC 6vs6 3rd Place Gold Season 20"				"1"
 	"UGC 6vs6 3rd Place Gold Season 21"				"1"
 	"UGC 6vs6 3rd Place Platinum Season 13"				"1"
@@ -3161,6 +3198,8 @@
 	"UGC 6vs6 3rd Place Platinum Season 23"				"1"
 	"UGC 6vs6 3rd Place Platinum Season 24"				"1"
 	"UGC 6vs6 3rd Place Platinum Season 25"				"1"
+	"UGC 6vs6 3rd Place Platinum Season 26"				"1"
+	"UGC 6vs6 3rd Place Platinum Season 27"				"1"
 	"UGC 6vs6 European Participant Season 11"			"1"
 	"UGC 6vs6 Gold Participant Season 14"				"1"
 	"UGC 6vs6 Gold Participant Season 15"				"1"
@@ -3191,6 +3230,8 @@
 	"UGC 6vs6 Platinum Participant Season 23"			"1"
 	"UGC 6vs6 Platinum Participant Season 24"			"1"
 	"UGC 6vs6 Platinum Participant Season 25"			"1"
+	"UGC 6vs6 Platinum Participant Season 26"			"1"
+	"UGC 6vs6 Platinum Participant Season 27"			"1"
 	"UGC 6vs6 Silver Participant Season 11"				"1"
 	"UGC 6vs6 Silver Participant Season 13"				"1"
 	"UGC 6vs6 Silver Participant Season 14"				"1"
@@ -3205,6 +3246,8 @@
 	"UGC 6vs6 Silver Participant Season 23"				"1"
 	"UGC 6vs6 Silver Participant Season 24"				"1"
 	"UGC 6vs6 Silver Participant Season 25"				"1"
+	"UGC 6vs6 Silver Participant Season 26"				"1"
+	"UGC 6vs6 Silver Participant Season 27"				"1"
 	"UGC 6vs6 Steel Participant Season 11"				"1"
 	"UGC 6vs6 Steel Participant Season 13"				"1"
 	"UGC 6vs6 Steel Participant Season 14"				"1"
@@ -3219,6 +3262,8 @@
 	"UGC 6vs6 Steel Participant Season 23"				"1"
 	"UGC 6vs6 Steel Participant Season 24"				"1"
 	"UGC 6vs6 Steel Participant Season 25"				"1"
+	"UGC 6vs6 Steel Participant Season 26"				"1"
+	"UGC 6vs6 Steel Participant Season 27"				"1"
 	"UGC Highlander 1st Place European Platinum Season 6"		"1"
 	"UGC Highlander 1st Place European Silver Season 6"		"1"
 	"UGC Highlander 1st Place European Steel Season 6"		"1"
@@ -3252,6 +3297,8 @@
 	"UGC Highlander 1st Place Platinum Season 21"			"1"
 	"UGC Highlander 1st Place Platinum Season 22"			"1"
 	"UGC Highlander 1st Place Platinum Season 23"			"1"
+	"UGC Highlander 1st Place Platinum Season 24"			"1"
+	"UGC Highlander 1st Place Platinum Season 25"			"1"
 	"UGC Highlander 1st Place Platinum Season 8"			"1"
 	"UGC Highlander 1st Place Platinum Season 9"			"1"
 	"UGC Highlander 1st Place Season 8"				"1"
@@ -3268,6 +3315,8 @@
 	"UGC Highlander 1st Place Silver Season 21"			"1"
 	"UGC Highlander 1st Place Silver Season 22"			"1"
 	"UGC Highlander 1st Place Silver Season 23"			"1"
+	"UGC Highlander 1st Place Silver Season 24"			"1"
+	"UGC Highlander 1st Place Silver Season 25"			"1"
 	"UGC Highlander 1st Place Silver Season 8"			"1"
 	"UGC Highlander 1st Place Silver Season 9"			"1"
 	"UGC Highlander 1st Place South American Platinum Season 6"	"1"
@@ -3278,6 +3327,8 @@
 	"UGC Highlander 1st Place Steel Season 21"			"1"
 	"UGC Highlander 1st Place Steel Season 22"			"1"
 	"UGC Highlander 1st Place Steel Season 23"			"1"
+	"UGC Highlander 1st Place Steel Season 24"			"1"
+	"UGC Highlander 1st Place Steel Season 25"			"1"
 	"UGC Highlander 1st Place Steel Season 8"			"1"
 	"UGC Highlander 1st Place Steel Season 9"			"1"
 	"UGC Highlander 2nd Place European Platinum Season 6"		"1"
@@ -3313,6 +3364,8 @@
 	"UGC Highlander 2nd Place Platinum Season 21"			"1"
 	"UGC Highlander 2nd Place Platinum Season 22"			"1"
 	"UGC Highlander 2nd Place Platinum Season 23"			"1"
+	"UGC Highlander 2nd Place Platinum Season 24"			"1"
+	"UGC Highlander 2nd Place Platinum Season 25"			"1"
 	"UGC Highlander 2nd Place Platinum Season 8"			"1"
 	"UGC Highlander 2nd Place Platinum Season 9"			"1"
 	"UGC Highlander 2nd Place Season 8"				"1"
@@ -3329,6 +3382,8 @@
 	"UGC Highlander 2nd Place Silver Season 21"			"1"
 	"UGC Highlander 2nd Place Silver Season 22"			"1"
 	"UGC Highlander 2nd Place Silver Season 23"			"1"
+	"UGC Highlander 2nd Place Silver Season 24"			"1"
+	"UGC Highlander 2nd Place Silver Season 25"			"1"
 	"UGC Highlander 2nd Place Silver Season 8"			"1"
 	"UGC Highlander 2nd Place Silver Season 9"			"1"
 	"UGC Highlander 2nd Place South American Platinum Season 6"	"1"
@@ -3339,6 +3394,8 @@
 	"UGC Highlander 2nd Place Steel Season 21"			"1"
 	"UGC Highlander 2nd Place Steel Season 22"			"1"
 	"UGC Highlander 2nd Place Steel Season 23"			"1"
+	"UGC Highlander 2nd Place Steel Season 24"			"1"
+	"UGC Highlander 2nd Place Steel Season 25"			"1"
 	"UGC Highlander 2nd Place Steel Season 8"			"1"
 	"UGC Highlander 2nd Place Steel Season 9"			"1"
 	"UGC Highlander 3rd Place European Platinum Season 6"		"1"
@@ -3374,6 +3431,8 @@
 	"UGC Highlander 3rd Place Platinum Season 21"			"1"
 	"UGC Highlander 3rd Place Platinum Season 22"			"1"
 	"UGC Highlander 3rd Place Platinum Season 23"			"1"
+	"UGC Highlander 3rd Place Platinum Season 24"			"1"
+	"UGC Highlander 3rd Place Platinum Season 25"			"1"
 	"UGC Highlander 3rd Place Platinum Season 8"			"1"
 	"UGC Highlander 3rd Place Platinum Season 9"			"1"
 	"UGC Highlander 3rd Place Season 8"				"1"
@@ -3390,6 +3449,8 @@
 	"UGC Highlander 3rd Place Silver Season 21"			"1"
 	"UGC Highlander 3rd Place Silver Season 22"			"1"
 	"UGC Highlander 3rd Place Silver Season 23"			"1"
+	"UGC Highlander 3rd Place Silver Season 24"			"1"
+	"UGC Highlander 3rd Place Silver Season 25"			"1"
 	"UGC Highlander 3rd Place Silver Season 8"			"1"
 	"UGC Highlander 3rd Place Silver Season 9"			"1"
 	"UGC Highlander 3rd Place South American Platinum Season 6"	"1"
@@ -3400,6 +3461,8 @@
 	"UGC Highlander 3rd Place Steel Season 21"			"1"
 	"UGC Highlander 3rd Place Steel Season 22"			"1"
 	"UGC Highlander 3rd Place Steel Season 23"			"1"
+	"UGC Highlander 3rd Place Steel Season 24"			"1"
+	"UGC Highlander 3rd Place Steel Season 25"			"1"
 	"UGC Highlander 3rd Place Steel Season 8"			"1"
 	"UGC Highlander 3rd Place Steel Season 9"			"1"
 	"UGC Highlander Gold Participant Season 11"			"1"
@@ -3437,6 +3500,8 @@
 	"UGC Highlander Platinum Participant Season 21"			"1"
 	"UGC Highlander Platinum Participant Season 22"			"1"
 	"UGC Highlander Platinum Participant Season 23"			"1"
+	"UGC Highlander Platinum Participant Season 24"			"1"
+	"UGC Highlander Platinum Participant Season 25"			"1"
 	"UGC Highlander Platinum Participant Season 6"			"1"
 	"UGC Highlander Platinum Participant Season 8"			"1"
 	"UGC Highlander Platinum Participant Season 9"			"1"
@@ -3453,6 +3518,8 @@
 	"UGC Highlander Silver Participant Season 21"			"1"
 	"UGC Highlander Silver Participant Season 22"			"1"
 	"UGC Highlander Silver Participant Season 23"			"1"
+	"UGC Highlander Silver Participant Season 24"			"1"
+	"UGC Highlander Silver Participant Season 25"			"1"
 	"UGC Highlander Silver Participant Season 6"			"1"
 	"UGC Highlander Silver Participant Season 8"			"1"
 	"UGC Highlander Silver Participant Season 9"			"1"
@@ -3469,6 +3536,8 @@
 	"UGC Highlander Steel Participant Season 21"			"1"
 	"UGC Highlander Steel Participant Season 22"			"1"
 	"UGC Highlander Steel Participant Season 23"			"1"
+	"UGC Highlander Steel Participant Season 24"			"1"
+	"UGC Highlander Steel Participant Season 25"			"1"
 	"UGC Highlander Steel Participant Season 6"			"1"
 	"UGC Highlander Steel Participant Season 8"			"1"
 	"UGC Highlander Steel Participant Season 9"			"1"
@@ -4082,7 +4151,7 @@
 	"Taunt: The Dueling Banjo"					"0"
 	"Taunt: The Jumping Jack"					"0"
 	//____________________________ Medic ____________________________\\
-	"Meet the Medic Heroic Taunt"					"0"
+	"Meet the Medic Heroic Taunt"					"1"
 	"Results Are In Taunt"						"1"
 	"Taunt: Surgeon's Squeezebox"					"0"
 	//___________________________ Sniper ____________________________\\
