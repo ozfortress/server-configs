@@ -1,8 +1,8 @@
-// Whitelist generated at Tue, 12 Feb 2019 12:32:20 +0100
-// Whitelist: Respawn League Highlander (Season 2) (ID: 9447)
+// Whitelist generated at Tue, 12 Feb 2019 12:32:21 +0100
+// Whitelist: Respawn League 4v4 (Season 1) (ID: 9611)
 
 // Share or view this whitelist:
-//	https://whitelist.tf/respawn_hl_s2
+//	https://whitelist.tf/respawn_4v4_s1
 
 // New items added to the game are: NOT allowed
 // Hats are: allowed
@@ -17,6 +17,8 @@
 // Botkiller weapon reskins are: allowed
 
 // Blocked weapons for Scout
+// - Primary
+//  * Soda Popper
 // - Secondary
 //  * Crit-a-Cola
 //  * Mad Milk
@@ -28,6 +30,10 @@
 // Blocked weapons for Pyro
 // - Secondary
 //  * Gas Passer
+
+// Blocked weapons for Demoman
+// - Primary
+//  * Loch-n-Load
 
 // Blocked weapons for Heavy
 // - Primary
@@ -41,10 +47,12 @@
 
 // Blocked weapons for Medic
 // - Secondary
+//  * Quick-Fix
 //  * Vaccinator
 
 // Blocked weapons for Sniper
 // - Primary
+//  * Bazaar Bargain
 //  * Machina
 // - Secondary
 //  * Jarate
@@ -57,7 +65,7 @@
 {
 	"unlisted_items_default_to"		"0"
 
-	//---------------- Allowed weapons (Total: 122) -----------------\\
+	//---------------- Allowed weapons (Total: 118) -----------------\\
 	//______________________ Multiple classes _______________________\\
 	"Panic Attack Shotgun"						"1"
 	"The B.A.S.E. Jumper"						"1"
@@ -78,7 +86,6 @@
 	"The Force-a-Nature"						"1"
 	"The Sandman"							"1"
 	"The Shortstop"							"1"
-	"The Soda Popper"						"1"
 	"The Winger"							"1"
 	"The Wrap Assassin"						"1"
 	//___________________________ Soldier ___________________________\\
@@ -123,7 +130,6 @@
 	"The Claidheamohmor"						"1"
 	"The Eyelander"							"1"
 	"The Iron Bomber"						"1"
-	"The Loch-n-Load"						"1"
 	"The Loose Cannon"						"1"
 	"The Persian Persuader"						"1"
 	"The Quickiebomb Launcher"					"1"
@@ -162,13 +168,11 @@
 	"The Crusader's Crossbow"					"1"
 	"The Kritzkrieg"						"1"
 	"The Overdose"							"1"
-	"The Quick-Fix"							"1"
 	"The Solemn Vow"						"1"
 	"The Ubersaw"							"1"
 	"The Vita-Saw"							"1"
 	//___________________________ Sniper ____________________________\\
 	"Darwin's Danger Shield"					"1"
-	"The Bazaar Bargain"						"1"
 	"The Bushwacka"							"1"
 	"The Classic"							"1"
 	"The Cleaner's Carbine"						"1"
@@ -516,15 +520,18 @@
 	"warbird_knife_blitzkrieg"					"1"
 	"warbird_revolver_blitzkrieg"					"1"
 
-	//------------- Blocked weapons/reskins (Total: 16) -------------\\
+	//------------- Blocked weapons/reskins (Total: 20) -------------\\
 	//____________________________ Scout ____________________________\\
 	"Crit-a-Cola"							"0"
 	"Mad Milk"							"0"
 	"Mutated Milk"							"0"
+	"The Soda Popper"						"0"
 	//___________________________ Soldier ___________________________\\
 	"The Air Strike"						"0"
 	//____________________________ Pyro _____________________________\\
 	"The Gas Passer"						"0"
+	//___________________________ Demoman ___________________________\\
+	"The Loch-n-Load"						"0"
 	//____________________________ Heavy ____________________________\\
 	"Deflector"							"0"
 	"Natascha"							"0"
@@ -532,11 +539,13 @@
 	"The Pomson 6000"						"0"
 	"The Short Circuit"						"0"
 	//____________________________ Medic ____________________________\\
+	"The Quick-Fix"							"0"
 	"The Vaccinator"						"0"
 	//___________________________ Sniper ____________________________\\
 	"Festive Jarate"						"0"
 	"Jarate"							"0"
 	"Shooting Star"							"0"
+	"The Bazaar Bargain"						"0"
 	"The Machina"							"0"
 	"The Self-Aware Beauty Mark"					"0"
 	//_____________________________ Spy _____________________________\\
