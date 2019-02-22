@@ -1,8 +1,8 @@
-// Whitelist generated at Thu, 20 Dec 2018 04:18:13 +0100
-// Whitelist: Respawn League Highlander (Season 1) (ID: 9293)
+// Whitelist generated at Tue, 22 Jan 2019 05:12:38 +0100
+// Whitelist: Respawn League Highlander (Season 2) (ID: 9447)
 
 // Share or view this whitelist:
-//	https://whitelist.tf/respawn_hl_s1
+//	https://whitelist.tf/respawn_hl_s2
 
 // New items added to the game are: NOT allowed
 // Hats are: allowed
@@ -29,11 +29,19 @@
 // - Secondary
 //  * Gas Passer
 
+// Blocked weapons for Heavy
+// - Primary
+//  * Natascha
+
 // Blocked weapons for Engineer
 // - Primary
 //  * Pomson 6000
 // - Secondary
 //  * Short Circuit
+
+// Blocked weapons for Medic
+// - Secondary
+//  * Vaccinator
 
 // Blocked weapons for Sniper
 // - Primary
@@ -49,7 +57,7 @@
 {
 	"unlisted_items_default_to"		"0"
 
-	//---------------- Allowed weapons (Total: 124) -----------------\\
+	//---------------- Allowed weapons (Total: 122) -----------------\\
 	//______________________ Multiple classes _______________________\\
 	"Panic Attack Shotgun"						"1"
 	"The B.A.S.E. Jumper"						"1"
@@ -127,7 +135,6 @@
 	//____________________________ Heavy ____________________________\\
 	"Fists of Steel"						"1"
 	"Gloves of Running Urgently"					"1"
-	"Natascha"							"1"
 	"The Brass Beast"						"1"
 	"The Buffalo Steak Sandvich"					"1"
 	"The Dalokohs Bar"						"1"
@@ -158,7 +165,6 @@
 	"The Quick-Fix"							"1"
 	"The Solemn Vow"						"1"
 	"The Ubersaw"							"1"
-	"The Vaccinator"						"1"
 	"The Vita-Saw"							"1"
 	//___________________________ Sniper ____________________________\\
 	"Darwin's Danger Shield"					"1"
@@ -510,7 +516,7 @@
 	"warbird_knife_blitzkrieg"					"1"
 	"warbird_revolver_blitzkrieg"					"1"
 
-	//------------- Blocked weapons/reskins (Total: 14) -------------\\
+	//------------- Blocked weapons/reskins (Total: 16) -------------\\
 	//____________________________ Scout ____________________________\\
 	"Crit-a-Cola"							"0"
 	"Mad Milk"							"0"
@@ -521,9 +527,12 @@
 	"The Gas Passer"						"0"
 	//____________________________ Heavy ____________________________\\
 	"Deflector"							"0"
+	"Natascha"							"0"
 	//__________________________ Engineer ___________________________\\
 	"The Pomson 6000"						"0"
 	"The Short Circuit"						"0"
+	//____________________________ Medic ____________________________\\
+	"The Vaccinator"						"0"
 	//___________________________ Sniper ____________________________\\
 	"Festive Jarate"						"0"
 	"Jarate"							"0"
@@ -1434,7 +1443,7 @@
 	"The Upgrade"							"1"
 	"tw_spybot_hood"						"1"
 
-	//--------------------- Miscs (Total: 2899) ---------------------\\
+	//--------------------- Miscs (Total: 2909) ---------------------\\
 	//_________________________ All classes _________________________\\
 	"Altruist's Adornment"						"1"
 	"Antlers"							"1"
@@ -2815,10 +2824,15 @@
 	"Moscow LAN Helper Summer 2018"					"1"
 	"Moscow LAN Participant Summer 2018"				"1"
 	"NewbiDuo Cup 1st Place Summer 2018"				"1"
+	"NewbiDuo Cup 1st Place Winter 2019"				"1"
 	"NewbiDuo Cup 2nd Place Summer 2018"				"1"
+	"NewbiDuo Cup 2nd Place Winter 2019"				"1"
 	"NewbiDuo Cup 3rd Place Summer 2018"				"1"
+	"NewbiDuo Cup 3rd Place Winter 2019"				"1"
 	"NewbiDuo Cup Helper Summer 2018"				"1"
+	"NewbiDuo Cup Helper Winter 2019"				"1"
 	"NewbiDuo Cup Participant Summer 2018"				"1"
+	"NewbiDuo Cup Participant Winter 2019"				"1"
 	"Newbie Highlander Cup Bronze Medal Season 2"			"1"
 	"Newbie Highlander Cup Bronze Medal Season 4"			"1"
 	"Newbie Highlander Cup Gold Medal Season 2"			"1"
@@ -3226,6 +3240,11 @@
 	"Special Snowflake 2016"					"1"
 	"Spectral Snowflake"						"1"
 	"Spirit Of Giving"						"1"
+	"Streamer Cup Bronze Medal Season 1"				"1"
+	"Streamer Cup Gold Medal Season 1"				"1"
+	"Streamer Cup Participant Season 1"				"1"
+	"Streamer Cup Silver Medal Season 1"				"1"
+	"Streamer Cup Staff Season 1"					"1"
 	"Summer Shades"							"1"
 	"Terror-antula"							"1"
 	"TF2Connexion Division 1 Bronze Medal Season 14"		"1"
