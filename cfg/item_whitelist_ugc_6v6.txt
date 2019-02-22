@@ -1,8 +1,8 @@
-// Whitelist generated at Thu, 20 Dec 2018 04:17:46 +0100
-// Whitelist: UGC 6v6 (Season 28) (ID: 8319)
+// Whitelist generated at Tue, 22 Jan 2019 05:11:43 +0100
+// Whitelist: UGC 6v6 (Season 29) (ID: 8477)
 
 // Share or view this whitelist:
-//	https://whitelist.tf/ugc_6v6_s28
+//	https://whitelist.tf/ugc_6v6_s29
 
 // New items added to the game are: NOT allowed
 // Hats are: allowed
@@ -45,7 +45,9 @@
 // - Primary
 //  * Dragon's Fury
 // - Secondary
+//  * Detonator
 //  * Gas Passer
+//  * Scorch Shot
 
 // Blocked weapons for Heavy
 // - Primary
@@ -80,7 +82,7 @@
 {
 	"unlisted_items_default_to"		"0"
 
-	//---------------- Allowed weapons (Total: 107) -----------------\\
+	//---------------- Allowed weapons (Total: 105) -----------------\\
 	//______________________ Multiple classes _______________________\\
 	"Panic Attack Shotgun"						"1"
 	"The Half-Zatoichi"						"1"
@@ -118,7 +120,6 @@
 	"The Back Scratcher"						"1"
 	"The Backburner"						"1"
 	"The Degreaser"							"1"
-	"The Detonator"							"1"
 	"The Flare Gun"							"1"
 	"The Homewrecker"						"1"
 	"The Hot Hand"							"1"
@@ -126,7 +127,6 @@
 	"The Neon Annihilator"						"1"
 	"The Phlogistinator"						"1"
 	"The Powerjack"							"1"
-	"The Scorch Shot"						"1"
 	"The Thermal Thruster"						"1"
 	"The Third Degree"						"1"
 	//___________________________ Demoman ___________________________\\
@@ -520,7 +520,7 @@
 	"warbird_knife_blitzkrieg"					"1"
 	"warbird_revolver_blitzkrieg"					"1"
 
-	//------------- Blocked weapons/reskins (Total: 35) -------------\\
+	//------------- Blocked weapons/reskins (Total: 37) -------------\\
 	//______________________ Multiple classes _______________________\\
 	"The B.A.S.E. Jumper"						"0"
 	"The Reserve Shooter"						"0"
@@ -540,8 +540,10 @@
 	"The Disciplinary Action"					"0"
 	"The Mantreads"							"0"
 	//____________________________ Pyro _____________________________\\
+	"The Detonator"							"0"
 	"The Dragon's Fury"						"0"
 	"The Gas Passer"						"0"
+	"The Scorch Shot"						"0"
 	//____________________________ Heavy ____________________________\\
 	"Deflector"							"0"
 	"Fists of Steel"						"0"
@@ -1465,7 +1467,7 @@
 	"The Upgrade"							"1"
 	"tw_spybot_hood"						"1"
 
-	//--------------------- Miscs (Total: 2899) ---------------------\\
+	//--------------------- Miscs (Total: 2909) ---------------------\\
 	//_________________________ All classes _________________________\\
 	"Altruist's Adornment"						"1"
 	"Antlers"							"1"
@@ -2846,10 +2848,15 @@
 	"Moscow LAN Helper Summer 2018"					"1"
 	"Moscow LAN Participant Summer 2018"				"1"
 	"NewbiDuo Cup 1st Place Summer 2018"				"1"
+	"NewbiDuo Cup 1st Place Winter 2019"				"1"
 	"NewbiDuo Cup 2nd Place Summer 2018"				"1"
+	"NewbiDuo Cup 2nd Place Winter 2019"				"1"
 	"NewbiDuo Cup 3rd Place Summer 2018"				"1"
+	"NewbiDuo Cup 3rd Place Winter 2019"				"1"
 	"NewbiDuo Cup Helper Summer 2018"				"1"
+	"NewbiDuo Cup Helper Winter 2019"				"1"
 	"NewbiDuo Cup Participant Summer 2018"				"1"
+	"NewbiDuo Cup Participant Winter 2019"				"1"
 	"Newbie Highlander Cup Bronze Medal Season 2"			"1"
 	"Newbie Highlander Cup Bronze Medal Season 4"			"1"
 	"Newbie Highlander Cup Gold Medal Season 2"			"1"
@@ -3257,6 +3264,11 @@
 	"Special Snowflake 2016"					"1"
 	"Spectral Snowflake"						"1"
 	"Spirit Of Giving"						"1"
+	"Streamer Cup Bronze Medal Season 1"				"1"
+	"Streamer Cup Gold Medal Season 1"				"1"
+	"Streamer Cup Participant Season 1"				"1"
+	"Streamer Cup Silver Medal Season 1"				"1"
+	"Streamer Cup Staff Season 1"					"1"
 	"Summer Shades"							"1"
 	"Terror-antula"							"1"
 	"TF2Connexion Division 1 Bronze Medal Season 14"		"1"

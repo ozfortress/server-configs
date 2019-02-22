@@ -1,4 +1,4 @@
-// Whitelist generated at Thu, 20 Dec 2018 04:18:35 +0100
+// Whitelist generated at Tue, 22 Jan 2019 05:12:21 +0100
 // Whitelist: ozfortress Ultiduo 12 (ID: 8683)
 
 // Share or view this whitelist:
@@ -1410,7 +1410,7 @@
 	"The Upgrade"							"1"
 	"tw_spybot_hood"						"1"
 
-	//--------------------- Miscs (Total: 2899) ---------------------\\
+	//--------------------- Miscs (Total: 2909) ---------------------\\
 	//_________________________ All classes _________________________\\
 	"Altruist's Adornment"						"1"
 	"Antlers"							"1"
@@ -2791,10 +2791,15 @@
 	"Moscow LAN Helper Summer 2018"					"1"
 	"Moscow LAN Participant Summer 2018"				"1"
 	"NewbiDuo Cup 1st Place Summer 2018"				"1"
+	"NewbiDuo Cup 1st Place Winter 2019"				"1"
 	"NewbiDuo Cup 2nd Place Summer 2018"				"1"
+	"NewbiDuo Cup 2nd Place Winter 2019"				"1"
 	"NewbiDuo Cup 3rd Place Summer 2018"				"1"
+	"NewbiDuo Cup 3rd Place Winter 2019"				"1"
 	"NewbiDuo Cup Helper Summer 2018"				"1"
+	"NewbiDuo Cup Helper Winter 2019"				"1"
 	"NewbiDuo Cup Participant Summer 2018"				"1"
+	"NewbiDuo Cup Participant Winter 2019"				"1"
 	"Newbie Highlander Cup Bronze Medal Season 2"			"1"
 	"Newbie Highlander Cup Bronze Medal Season 4"			"1"
 	"Newbie Highlander Cup Gold Medal Season 2"			"1"
@@ -3202,6 +3207,11 @@
 	"Special Snowflake 2016"					"1"
 	"Spectral Snowflake"						"1"
 	"Spirit Of Giving"						"1"
+	"Streamer Cup Bronze Medal Season 1"				"1"
+	"Streamer Cup Gold Medal Season 1"				"1"
+	"Streamer Cup Participant Season 1"				"1"
+	"Streamer Cup Silver Medal Season 1"				"1"
+	"Streamer Cup Staff Season 1"					"1"
 	"Summer Shades"							"1"
 	"Terror-antula"							"1"
 	"TF2Connexion Division 1 Bronze Medal Season 14"		"1"
