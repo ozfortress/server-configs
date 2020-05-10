@@ -38,13 +38,13 @@ Load this configuration using `rcon exec ozfortress_golden_cap` or simply `rcon 
 The following formats are also included in the ozfortress server configurations but does not have a respective active competition.
 
 ### Ultiduo
-Ultiduo maps are played with a Soldier and Medic pair on each team. There is no timelimit or winlimit as this format is mostly used for training.
+Ultiduo maps are played with a Soldier and Medic pair on each team. There is a winlimit of 1.
 
 ```
 mp_timelimit 0
 mp_winlimit 1
 ```
-Load this configuration using `rcon exec ultiduo` or simply `rcon ultiduo` on ozfortress servers.
+Load this configuration using `rcon exec ozfortress_ultiduo` or simply `rcon ultiduo` on ozfortress servers.
 
 ---
 [![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
