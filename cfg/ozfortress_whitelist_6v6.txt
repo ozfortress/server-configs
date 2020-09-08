@@ -62,8 +62,7 @@
 // - Secondary
 //  * Quick-Fix
 //  * Vaccinator
-// - Melee
-//  * Solemn Vow
+
 
 // Blocked weapons for Sniper
 // - Primary
@@ -173,6 +172,7 @@
 	"The Crusader's Crossbow"					"1"
 	"The Kritzkrieg"						"1"
 	"The Overdose"							"1"
+	"The Solemn Vow"						"1"
 	"The Ubersaw"							"1"
 	"The Vita-Saw"							"1"
 	//___________________________ Sniper ____________________________\\
@@ -520,7 +520,7 @@
 	"warbird_knife_blitzkrieg"					"1"
 	"warbird_revolver_blitzkrieg"					"1"
 
-	//------------- Blocked weapons/reskins (Total: 35) -------------\\
+	//------------- Blocked weapons/reskins (Total: 34) -------------\\
 	//______________________ Multiple classes _______________________\\
 	"The B.A.S.E. Jumper"						"0"
 	"The Reserve Shooter"						"0"
@@ -554,7 +554,6 @@
 	"The Wrangler"							"0"
 	//____________________________ Medic ____________________________\\
 	"The Quick-Fix"							"0"
-	"The Solemn Vow"						"0"
 	"The Vaccinator"						"0"
 	//___________________________ Sniper ____________________________\\
 	"Festive Jarate"						"0"
