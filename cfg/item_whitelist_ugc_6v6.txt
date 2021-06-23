@@ -1,8 +1,8 @@
-// Whitelist generated at Wed, 30 Sep 2020 23:58:26 +0200
-// Whitelist: UGC 6v6 (Season 34) (ID: 11062)
+// Whitelist generated at Wed, 23 Jun 2021 02:18:53 +0200
+// Whitelist: UGC 6v6 (Season 35) (ID: 11559)
 
 // Share or view this whitelist:
-//	https://whitelist.tf/ugc_6v6_s34
+//	https://whitelist.tf/ugc_6v6_s35
 
 // New items added to the game are: allowed
 // Hats are: allowed
@@ -32,10 +32,14 @@
 //  * Pretty Boy's Pocket Pistol
 
 // Blocked weapons for Soldier
+// - Primary
+//  * Cow Mangler 5000
 // - Melee
 //  * Disciplinary Action
 
 // Blocked weapons for Pyro
+// - Primary
+//  * Dragon's Fury
 // - Secondary
 //  * Detonator
 //  * Gas Passer
@@ -76,7 +80,7 @@
 {
 	"unlisted_items_default_to"		"1"
 
-	//------------- Blocked weapons/reskins (Total: 33) -------------\\
+	//------------- Blocked weapons/reskins (Total: 35) -------------\\
 	//______________________ Multiple classes _______________________\\
 	"The B.A.S.E. Jumper"						"0"
 	"The Reserve Shooter"						"0"
@@ -91,9 +95,11 @@
 	"The Flying Guillotine"						"0"
 	"The Soda Popper"						"0"
 	//___________________________ Soldier ___________________________\\
+	"The Cow Mangler 5000"						"0"
 	"The Disciplinary Action"					"0"
 	//____________________________ Pyro _____________________________\\
 	"The Detonator"							"0"
+	"The Dragon's Fury"						"0"
 	"The Gas Passer"						"0"
 	"The Scorch Shot"						"0"
 	//____________________________ Heavy ____________________________\\
@@ -152,12 +158,14 @@
 	"The Lollichop"							"0"
 	"The Rainblower"						"0"
 
-	//------ Noise making/Explosion on death miscs (Total: 3) -------\\
-	"Bombinomicon"							"0"
+	//------ Noise making/Explosion on death miscs (Total: 5) -------\\
+	"Jolly Jingler"							"0"
+	"Reindoonibeanie"						"0"
 	"The Bootie Time"						"0"
 	"The Jingle Belt"						"0"
+	"Elf Care Provider"						"0"
 
-	//--------------------- Taunts (Total: 31) ----------------------\\
+	//--------------------- Taunts (Total: 39) ----------------------\\
 	//_________________________ All classes _________________________\\
 	"Conga Taunt"							"0"
 	"Flippin' Awesome Taunt"					"0"
@@ -167,21 +175,27 @@
 	"Square Dance Taunt"						"0"
 	"Taunt: Kazotsky Kick"						"0"
 	"Taunt: Mannrobics"						"0"
+	"Taunt: The Fist Bump"						"0"
 	"Taunt: The Victory Lap"					"0"
 	"Taunt: Zoomin' Broom"						"0"
 	//____________________________ Scout ____________________________\\
 	"Taunt: Runner's Rhythm"					"0"
+	"Taunt: Spin-to-Win"						"0"
+	"Taunt: The Boston Boarder"					"0"
 	"Taunt: The Bunnyhopper"					"0"
 	"Taunt: The Carlton"						"0"
 	"Taunt: The Scooty Scoot"					"0"
 	//___________________________ Soldier ___________________________\\
 	"Taunt: Panzer Pants"						"0"
+	"Taunt: Rocket Jockey"						"0"
 	//____________________________ Pyro _____________________________\\
 	"Pool Party Taunt"						"0"
+	"Taunt: Scorcher's Solo"					"0"
 	"Taunt: The Balloonibouncer"					"0"
 	"Taunt: The Skating Scorcher"					"0"
 	//___________________________ Demoman ___________________________\\
 	"Taunt: Scotsmann's Stagger"					"0"
+	"Taunt: The Pooped Deck"					"0"
 	//____________________________ Heavy ____________________________\\
 	"Taunt: The Boiling Point"					"0"
 	"Taunt: The Russian Arms Race"					"0"
@@ -190,10 +204,12 @@
 	//__________________________ Engineer ___________________________\\
 	"Rancho Relaxo Taunt"						"0"
 	"Taunt: Bucking Bronco"						"0"
+	"Taunt: Texas Truckin"						"0"
 	"Taunt: The Dueling Banjo"					"0"
 	"Taunt: The Jumping Jack"					"0"
 	//____________________________ Medic ____________________________\\
 	"Taunt: Surgeon's Squeezebox"					"0"
+	"Taunt: Time Out Therapy"					"0"
 	//___________________________ Sniper ____________________________\\
 	"Taunt: Didgeridrongo"						"0"
 	//_____________________________ Spy _____________________________\\

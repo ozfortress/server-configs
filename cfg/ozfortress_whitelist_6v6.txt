@@ -1,8 +1,8 @@
-// Whitelist generated at Fri, 02 Oct 2020 12:19:29 +0200
-// Whitelist: ozfortress 6v6 (Season 29) (ID: 10885)
+// Whitelist generated at Wed, 23 Jun 2021 02:13:08 +0200
+// Whitelist: ozfortress 6v6 (Season 30) (ID: 10885)
 
 // Share or view this whitelist:
-//	https://whitelist.tf/ozfortress_6v6_s29
+//	https://whitelist.tf/ozfortress_6v6_s30
 
 // New items added to the game are: allowed
 // Hats are: allowed
@@ -155,12 +155,14 @@
 	"The Lollichop"							"0"
 	"The Rainblower"						"0"
 
-	//------ Noise making/Explosion on death miscs (Total: 3) -------\\
-	"Bombinomicon"							"0"
+	//------ Noise making/Explosion on death miscs (Total: 5) -------\\
+	"Jolly Jingler"							"0"
+	"Reindoonibeanie"						"0"
 	"The Bootie Time"						"0"
 	"The Jingle Belt"						"0"
+	"Elf Care Provider"						"0"
 
-	//--------------------- Taunts (Total: 31) ----------------------\\
+	//--------------------- Taunts (Total: 39) ----------------------\\
 	//_________________________ All classes _________________________\\
 	"Conga Taunt"							"0"
 	"Flippin' Awesome Taunt"					"0"
@@ -170,21 +172,27 @@
 	"Square Dance Taunt"						"0"
 	"Taunt: Kazotsky Kick"						"0"
 	"Taunt: Mannrobics"						"0"
+	"Taunt: The Fist Bump"						"0"
 	"Taunt: The Victory Lap"					"0"
 	"Taunt: Zoomin' Broom"						"0"
 	//____________________________ Scout ____________________________\\
 	"Taunt: Runner's Rhythm"					"0"
+	"Taunt: Spin-to-Win"						"0"
+	"Taunt: The Boston Boarder"					"0"
 	"Taunt: The Bunnyhopper"					"0"
 	"Taunt: The Carlton"						"0"
 	"Taunt: The Scooty Scoot"					"0"
 	//___________________________ Soldier ___________________________\\
 	"Taunt: Panzer Pants"						"0"
+	"Taunt: Rocket Jockey"						"0"
 	//____________________________ Pyro _____________________________\\
 	"Pool Party Taunt"						"0"
+	"Taunt: Scorcher's Solo"					"0"
 	"Taunt: The Balloonibouncer"					"0"
 	"Taunt: The Skating Scorcher"					"0"
 	//___________________________ Demoman ___________________________\\
 	"Taunt: Scotsmann's Stagger"					"0"
+	"Taunt: The Pooped Deck"					"0"
 	//____________________________ Heavy ____________________________\\
 	"Taunt: The Boiling Point"					"0"
 	"Taunt: The Russian Arms Race"					"0"
@@ -193,10 +201,12 @@
 	//__________________________ Engineer ___________________________\\
 	"Rancho Relaxo Taunt"						"0"
 	"Taunt: Bucking Bronco"						"0"
+	"Taunt: Texas Truckin"						"0"
 	"Taunt: The Dueling Banjo"					"0"
 	"Taunt: The Jumping Jack"					"0"
 	//____________________________ Medic ____________________________\\
 	"Taunt: Surgeon's Squeezebox"					"0"
+	"Taunt: Time Out Therapy"					"0"
 	//___________________________ Sniper ____________________________\\
 	"Taunt: Didgeridrongo"						"0"
 	//_____________________________ Spy _____________________________\\
