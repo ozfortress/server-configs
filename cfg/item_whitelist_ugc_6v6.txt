@@ -1,8 +1,8 @@
-// Whitelist generated at Wed, 23 Jun 2021 02:18:53 +0200
-// Whitelist: UGC 6v6 (Season 35) (ID: 11559)
+// Whitelist generated at Sat, 02 Oct 2021 10:00:16 +0200
+// Whitelist: UGC 6v6 (Season 36) (ID: 11666)
 
 // Share or view this whitelist:
-//	https://whitelist.tf/ugc_6v6_s35
+//	https://whitelist.tf/ugc_6v6_s36
 
 // New items added to the game are: allowed
 // Hats are: allowed
@@ -29,7 +29,6 @@
 //  * Crit-a-Cola
 //  * Flying Guillotine
 //  * Mad Milk
-//  * Pretty Boy's Pocket Pistol
 
 // Blocked weapons for Soldier
 // - Primary
@@ -38,8 +37,6 @@
 //  * Disciplinary Action
 
 // Blocked weapons for Pyro
-// - Primary
-//  * Dragon's Fury
 // - Secondary
 //  * Detonator
 //  * Gas Passer
@@ -80,7 +77,7 @@
 {
 	"unlisted_items_default_to"		"1"
 
-	//------------- Blocked weapons/reskins (Total: 35) -------------\\
+	//------------- Blocked weapons/reskins (Total: 33) -------------\\
 	//______________________ Multiple classes _______________________\\
 	"The B.A.S.E. Jumper"						"0"
 	"The Reserve Shooter"						"0"
@@ -90,7 +87,6 @@
 	"Festive Bonk 2014"						"0"
 	"Mad Milk"							"0"
 	"Mutated Milk"							"0"
-	"Pretty Boy's Pocket Pistol"					"0"
 	"Promo Flying Guillotine"					"0"
 	"The Flying Guillotine"						"0"
 	"The Soda Popper"						"0"
@@ -99,7 +95,6 @@
 	"The Disciplinary Action"					"0"
 	//____________________________ Pyro _____________________________\\
 	"The Detonator"							"0"
-	"The Dragon's Fury"						"0"
 	"The Gas Passer"						"0"
 	"The Scorch Shot"						"0"
 	//____________________________ Heavy ____________________________\\
