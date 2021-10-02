@@ -1,8 +1,8 @@
-// Whitelist generated at Wed, 23 Jun 2021 02:13:08 +0200
-// Whitelist: ozfortress 6v6 (Season 30) (ID: 10885)
+// Whitelist generated at Sat, 02 Oct 2021 09:48:55 +0200
+// Whitelist: ozfortress 6v6 (Season 31) (ID: 10885)
 
 // Share or view this whitelist:
-//	https://whitelist.tf/ozfortress_6v6_s30
+//	https://whitelist.tf/ozfortress_6v6_s31
 
 // New items added to the game are: allowed
 // Hats are: allowed
