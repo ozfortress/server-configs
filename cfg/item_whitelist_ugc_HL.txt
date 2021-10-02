@@ -1,8 +1,8 @@
-// Whitelist generated at Wed, 23 Jun 2021 02:19:36 +0200
-// Whitelist: UGC Highlander (Season 33) (ID: 11558)
+// Whitelist generated at Sat, 02 Oct 2021 10:04:35 +0200
+// Whitelist: UGC Highlander (Season 35) (ID: 11558)
 
 // Share or view this whitelist:
-//	https://whitelist.tf/ugc_9v9_s33
+//	https://whitelist.tf/ugc_9v9_s35
 
 // New items added to the game are: allowed
 // Hats are: allowed
