@@ -47,7 +47,7 @@ mp_winlimit 5
 mp_timelimit 30
 mp_winlimit 0
 ```
-Load this configuration using `rcon exec ozfortress_6v6_5cp` or simply `rcon ozf-6s-5cp` on ozfortress servers.
+Load this configuration using `rcon exec ozfortress_hl_5cp` or simply `rcon ozf-hl-5cp` on ozfortress servers.
 
 #### King of the Hill
 King of the Hill (KOTH) maps are played first to 3 with no time limit. The following configuration represents this format:
@@ -56,7 +56,7 @@ mp_windifference 0
 mp_timelimit 0
 mp_winlimit 3
 ```
-Load this configuration using `rcon exec ozfortress_6v6_koth` or simply `rcon ozf-6s-koth` on ozfortress servers.
+Load this configuration using `rcon exec ozfortress_hl_koth` or simply `rcon ozf-hl-koth` on ozfortress servers.
 
 #### Stopwatch
 Stopwatch maps are played to a max of 2 rounds with no time limit. The following configuration represents this format:
@@ -65,7 +65,7 @@ mp_maxrounds 2
 mp_timelimit 0
 mp_tournament_stopwatch 1
 ```
-Load this configuration using `rcon exec ozfortress_6v6_koth` or simply `rcon ozf-6s-koth` on ozfortress servers.
+Load this configuration using `rcon exec ozfortress_hl_stopwatch` or simply `rcon ozf-hl-stopwatch` on ozfortress servers.
 
 ---
 
