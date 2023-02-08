@@ -33,7 +33,7 @@ mp_windifference 0
 mp_timelimit 0
 mp_winlimit 1
 ```
-Load this configuration using `rcon exec ozfortress_golden_cap` or simply `rcon golden` on ozfortress servers.
+Load this configuration using `rcon exec ozfortress_6v6_golden_cap` or simply `rcon ozf-6s-golden` on ozfortress servers.
 
 ---
 
@@ -66,6 +66,16 @@ mp_timelimit 0
 mp_tournament_stopwatch 1
 ```
 Load this configuration using `rcon exec ozfortress_hl_stopwatch` or simply `rcon ozf-hl-stopwatch` on ozfortress servers.
+
+#### Golden Cap
+In formats where ties are not allowed, a golden cap may be used to determine the winner of a 5CP match tied at 30 minutes. Golden Cap rounds are played till the first capture of the last point with no time limit. The following configuration represents this format:
+
+```
+mp_windifference 0
+mp_timelimit 0
+mp_winlimit 1
+```
+Load this configuration using `rcon exec ozfortress_hl_golden_cap` or simply `rcon ozf-hl-golden` on ozfortress servers.
 
 ---
 
