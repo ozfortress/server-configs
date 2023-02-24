@@ -1,8 +1,8 @@
-// Whitelist generated at Sat, 02 Oct 2021 09:54:14 +0200
-// Whitelist: ozfortress Ultiduo (Season 15) (ID: 11824)
+// Whitelist generated at Fri, 24 Feb 2023 20:41:00 +0100
+// Whitelist: ozfortress Ultiduo (Season 16) (ID: 12544)
 
 // Share or view this whitelist:
-//	https://whitelist.tf/ozfortress_ultiduo15
+//	https://whitelist.tf/ozfortress_ultiduo16
 
 // New items added to the game are: allowed
 // Hats are: allowed
@@ -213,6 +213,11 @@
 	//_________________________ All classes _________________________\\
 	"Activated Campaign 3 Pass"					"0"
 
+	//----- Globally Competitive League banned items (Total: 2) -----\\
+	//____________________________ Scout ____________________________\\
+	"The Corpse Carrier"						"0"
+	"The Sprinting Cephalopod"					"0"
+
 	//------------------- Noisemakers (Total: 14) -------------------\\
 	"Charity Noise Maker - Bell"					"0"
 	"Charity Noise Maker - Tingsha"					"0"
@@ -241,14 +246,18 @@
 	"The Lollichop"							"0"
 	"The Rainblower"						"0"
 
-	//------ Noise making/Explosion on death miscs (Total: 5) -------\\
+	//------ Noise making/Explosion on death miscs (Total: 9) -------\\
+	"Elf-Made Bandanna"						"0"
 	"Jolly Jingler"							"0"
 	"Reindoonibeanie"						"0"
+	"Seasonal Employee"						"0"
 	"The Bootie Time"						"0"
+	"Elf Defence"							"0"
+	"Elf Ignition"							"0"
 	"The Jingle Belt"						"0"
 	"Elf Care Provider"						"0"
 
-	//--------------------- Taunts (Total: 54) ----------------------\\
+	//--------------------- Taunts (Total: 68) ----------------------\\
 	//_________________________ All classes _________________________\\
 	"Conga Taunt"							"0"
 	"Flippin' Awesome Taunt"					"0"
@@ -259,6 +268,7 @@
 	"Taunt: Kazotsky Kick"						"0"
 	"Taunt: Mannrobics"						"0"
 	"Taunt: The Fist Bump"						"0"
+	"Taunt: The Scaredy-cat!"					"0"
 	"Taunt: The Victory Lap"					"0"
 	"Taunt: Zoomin' Broom"						"0"
 	//____________________________ Scout ____________________________\\
@@ -270,6 +280,7 @@
 	"Taunt: The Boston Breakdance"					"0"
 	"Taunt: The Bunnyhopper"					"0"
 	"Taunt: The Carlton"						"0"
+	"Taunt: The Homerunner's Hobby"					"0"
 	"Taunt: The Scooty Scoot"					"0"
 	"Taunt: The Trackman's Touchdown"				"0"
 	//___________________________ Soldier ___________________________\\
@@ -278,17 +289,24 @@
 	//____________________________ Pyro _____________________________\\
 	"Party Trick Taunt"						"0"
 	"Pool Party Taunt"						"0"
+	"Taunt: Roasty Toasty"						"0"
 	"Taunt: Scorcher's Solo"					"0"
 	"Taunt: The Balloonibouncer"					"0"
 	"Taunt: The Headcase"						"0"
+	"Taunt: The Hot Wheeler"					"0"
 	"Taunt: The Skating Scorcher"					"0"
 	//___________________________ Demoman ___________________________\\
 	"Oblooterated Taunt"						"0"
 	"Spent Well Spirits Taunt"					"0"
+	"Taunt: Drunk Mann's Cannon"					"0"
 	"Taunt: Scotsmann's Stagger"					"0"
+	"Taunt: Shanty Shipmate"					"0"
+	"Taunt: The Drunken Sailor"					"0"
 	"Taunt: The Pooped Deck"					"0"
 	"Taunt: True Scotsman's Call"					"0"
 	//____________________________ Heavy ____________________________\\
+	"Taunt: Bare Knuckle Beatdown"					"0"
+	"Taunt: Russian Rubdown"					"0"
 	"Taunt: The Boiling Point"					"0"
 	"Taunt: The Proletariat Showoff"				"0"
 	"Taunt: The Russian Arms Race"					"0"
@@ -298,19 +316,24 @@
 	"Rancho Relaxo Taunt"						"0"
 	"Taunt: Bucking Bronco"						"0"
 	"Taunt: Texas Truckin"						"0"
+	"Taunt: Texas Twirl 'Em"					"0"
 	"Taunt: The Dueling Banjo"					"0"
 	"Taunt: The Jumping Jack"					"0"
 	//____________________________ Medic ____________________________\\
 	"Taunt: Surgeon's Squeezebox"					"0"
+	"Taunt: The Mannbulance!"					"0"
 	"Taunt: Time Out Therapy"					"0"
 	//___________________________ Sniper ____________________________\\
 	"I See You Taunt"						"0"
 	"Taunt: Didgeridrongo"						"0"
 	"Taunt: Most Wanted"						"0"
+	"Taunt: Shooter's Stakeout"					"0"
 	"Taunt: The Killer Solo"					"0"
 	//_____________________________ Spy _____________________________\\
 	"Buy A Life Taunt"						"0"
 	"Taunt: Disco Fever"						"0"
 	"Taunt: Luxury Lounge"						"0"
+	"Taunt: Tailored Terminal"					"0"
 	"Taunt: The Boxtrot"						"0"
+	"Taunt: The Travel Agent"					"0"
 }
