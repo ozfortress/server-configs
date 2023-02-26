@@ -13,6 +13,7 @@ Standard 5 Control Points (5CP) maps are played to 30 minutes with a 5 point dif
 mp_windifference 5
 mp_timelimit 30
 mp_winlimit 0
+round_time_override 240
 ```
 Load this configuration using `rcon exec ozfortress_6v6_5cp` or simply `rcon ozf-6s-5cp` on ozfortress servers.
 
@@ -32,6 +33,7 @@ In formats where ties are not allowed, a golden cap may be used to determine the
 mp_windifference 0
 mp_timelimit 0
 mp_winlimit 1
+round_time_override 240
 ```
 Load this configuration using `rcon exec ozfortress_6v6_golden_cap` or simply `rcon ozf-6s-golden` on ozfortress servers.
 
