@@ -1,4 +1,4 @@
-// Whitelist generated at Fri, 24 Feb 2023 20:41:00 +0100
+// Whitelist generated at Tue, 07 Mar 2023 11:38:39 +0100
 // Whitelist: ozfortress Ultiduo (Season 16) (ID: 12544)
 
 // Share or view this whitelist:

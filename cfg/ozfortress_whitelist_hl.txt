@@ -1,4 +1,4 @@
-// Whitelist generated at Fri, 24 Feb 2023 20:40:56 +0100
+// Whitelist generated at Tue, 07 Mar 2023 11:37:44 +0100
 // Whitelist: ozfortress Highlander (Season 3) (ID: 13582)
 
 // Share or view this whitelist:
@@ -1578,7 +1578,7 @@
 	"tw_spybot_hood"						"1"
 	"Voodoo Vizier"							"1"
 
-	//--------------------- Miscs (Total: 5933) ---------------------\\
+	//--------------------- Miscs (Total: 5950) ---------------------\\
 	//_________________________ All classes _________________________\\
 	"A Handsome Handy Thing"					"1"
 	"Altruist's Adornment"						"1"
@@ -2030,12 +2030,16 @@
 	"CappingTV PASS Time Championship Participant 2020"		"1"
 	"CappingTV Summer Brawl 1st Place 2020"				"1"
 	"CappingTV Summer Brawl 1st Place 2022"				"1"
+	"CappingTV Summer Brawl 1st Place 2023"				"1"
 	"CappingTV Summer Brawl 2nd Place 2020"				"1"
 	"CappingTV Summer Brawl 2nd Place 2022"				"1"
+	"CappingTV Summer Brawl 2nd Place 2023"				"1"
 	"CappingTV Summer Brawl 3rd Place 2020"				"1"
 	"CappingTV Summer Brawl 3rd Place 2022"				"1"
+	"CappingTV Summer Brawl 3rd Place 2023"				"1"
 	"CappingTV Summer Brawl Participant 2020"			"1"
 	"CappingTV Summer Brawl Participant 2022"			"1"
+	"CappingTV Summer Brawl Participant 2023"			"1"
 	"CappingTV Ultiduo 1st Place 2020"				"1"
 	"CappingTV Ultiduo 2nd Place 2020"				"1"
 	"CappingTV Ultiduo 3rd Place 2020"				"1"
@@ -4778,6 +4782,18 @@
 	"ozfortress Summer Cup Division 4 3rd Place 2021"		"1"
 	"ozfortress Summer Cup Division 4 Participant 2021"		"1"
 	"ozfortress Summer Cup Participant 2016"			"1"
+	"ozfortress Summer Cup Sixes Division 1 1st Place 2023"		"1"
+	"ozfortress Summer Cup Sixes Division 1 2nd Place 2023"		"1"
+	"ozfortress Summer Cup Sixes Division 1 3rd Place 2023"		"1"
+	"ozfortress Summer Cup Sixes Division 1 Participant 2023"	"1"
+	"ozfortress Summer Cup Sixes Division 2 1st Place 2023"		"1"
+	"ozfortress Summer Cup Sixes Division 2 2nd Place 2023"		"1"
+	"ozfortress Summer Cup Sixes Division 2 3rd Place 2023"		"1"
+	"ozfortress Summer Cup Sixes Division 2 Participant 2023"	"1"
+	"ozfortress Summer Cup Sixes Division 3 1st Place 2023"		"1"
+	"ozfortress Summer Cup Sixes Division 3 2nd Place 2023"		"1"
+	"ozfortress Summer Cup Sixes Division 3 3rd Place 2023"		"1"
+	"ozfortress Summer Cup Sixes Division 3 Participant 2023"	"1"
 	"ozfortress Winter League Division 1 1st Place 2021"		"1"
 	"ozfortress Winter League Division 1 2nd Place 2021"		"1"
 	"ozfortress Winter League Division 1 3rd Place 2021"		"1"
@@ -4841,6 +4857,7 @@
 	"Pocket Yeti"							"1"
 	"Polycount Pin"							"1"
 	"Portal 2 Pin"							"1"
+	"Potato of Labor"						"1"
 	"Prehistoric Pullover"						"1"
 	"Prinny Pouch"							"1"
 	"Promo Marxman"							"1"
