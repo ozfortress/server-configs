@@ -1,8 +1,8 @@
-// Whitelist generated at Tue, 07 Mar 2023 11:37:44 +0100
-// Whitelist: ozfortress Highlander (Season 3) (ID: 13582)
+// Whitelist generated at Sun, 11 Jun 2023 19:59:18 +0200
+// Custom Whitelist ID: 13781
 
 // Share or view this whitelist:
-//	https://whitelist.tf/ozfortress_hl_s3
+//	https://whitelist.tf/13781
 
 // New items added to the game are: NOT allowed
 // Hats are: allowed
@@ -41,6 +41,7 @@
 // - Primary
 //  * Machina
 // - Secondary
+//  * Darwin's Danger Shield
 //  * Jarate
 
 // Blocked weapons for Spy
@@ -51,7 +52,7 @@
 {
 	"unlisted_items_default_to"		"0"
 
-	//---------------- Allowed weapons (Total: 124) -----------------\\
+	//---------------- Allowed weapons (Total: 123) -----------------\\
 	//______________________ Multiple classes _______________________\\
 	"Panic Attack Shotgun"						"1"
 	"The B.A.S.E. Jumper"						"1"
@@ -163,7 +164,6 @@
 	"The Vaccinator"						"1"
 	"The Vita-Saw"							"1"
 	//___________________________ Sniper ____________________________\\
-	"Darwin's Danger Shield"					"1"
 	"The Bazaar Bargain"						"1"
 	"The Bushwacka"							"1"
 	"The Classic"							"1"
@@ -512,7 +512,7 @@
 	"warbird_knife_blitzkrieg"					"1"
 	"warbird_revolver_blitzkrieg"					"1"
 
-	//------------- Blocked weapons/reskins (Total: 14) -------------\\
+	//------------- Blocked weapons/reskins (Total: 15) -------------\\
 	//____________________________ Scout ____________________________\\
 	"Crit-a-Cola"							"0"
 	"Mad Milk"							"0"
@@ -527,6 +527,7 @@
 	//__________________________ Engineer ___________________________\\
 	"The Short Circuit"						"0"
 	//___________________________ Sniper ____________________________\\
+	"Darwin's Danger Shield"					"0"
 	"Festive Jarate"						"0"
 	"Jarate"							"0"
 	"Shooting Star"							"0"
@@ -572,12 +573,7 @@
 	"Store Purchase Promotion Package"				"1"
 	"Team Fortress 2 Soundtrack Promo Package"			"1"
 
-	//----- Globally Competitive League banned items (Total: 2) -----\\
-	//____________________________ Scout ____________________________\\
-	"The Corpse Carrier"						"0"
-	"The Sprinting Cephalopod"					"0"
-
-	//----------- Halloween/Full Moon items (Total: 252) ------------\\
+	//----------- Halloween/Full Moon items (Total: 254) ------------\\
 	//_________________________ All classes _________________________\\
 	"Cursed Cruise"							"1"
 	"Ghost of Spies Checked Past"					"1"
@@ -638,10 +634,12 @@
 	"Talon Trotters"						"1"
 	"The Alien Cranium"						"1"
 	"The Biomech Backpack"						"1"
+	"The Corpse Carrier"						"1"
 	"The Face Plante"						"1"
 	"The Halloweiner"						"1"
 	"The Horrific Head of Hare"					"1"
 	"The Hound's Hood"						"1"
+	"The Sprinting Cephalopod"					"1"
 	"The Terrier Trousers"						"1"
 	"The Xeno Suit"							"1"
 	"Wild Whip"							"1"
@@ -1578,7 +1576,7 @@
 	"tw_spybot_hood"						"1"
 	"Voodoo Vizier"							"1"
 
-	//--------------------- Miscs (Total: 5950) ---------------------\\
+	//--------------------- Miscs (Total: 5995) ---------------------\\
 	//_________________________ All classes _________________________\\
 	"A Handsome Handy Thing"					"1"
 	"Altruist's Adornment"						"1"
@@ -4325,6 +4323,11 @@
 	"NHBL Sasha Heavyweight Champion Season 9"			"1"
 	"Oh Deer!"							"1"
 	"Ominous Offering"						"1"
+	"Operation Last Laugh Alluring Artifact 2023"			"1"
+	"Operation Last Laugh Bruised Johnstone 2023"			"1"
+	"Operation Last Laugh Caustic Container 2023"			"1"
+	"Operation Last Laugh Copper Chicanery 2023"			"1"
+	"Operation Last Laugh Happy Spud 2023"				"1"
 	"OSL.tf First Place Cup #1"					"1"
 	"OSL.tf Participant Cup #1"					"1"
 	"OSL.tf Second Place Cup #1"					"1"
@@ -4447,25 +4450,37 @@
 	"ozfortress High Participant Season 29"				"1"
 	"ozfortress High Participant Season 32"				"1"
 	"ozfortress Highlander Intermediate First Place Season 1"	"1"
+	"ozfortress Highlander Intermediate First Place Season 3"	"1"
 	"ozfortress Highlander Intermediate Participant Season 1"	"1"
+	"ozfortress Highlander Intermediate Participant Season 3"	"1"
 	"ozfortress Highlander Intermediate Second Place Season 1"	"1"
+	"ozfortress Highlander Intermediate Second Place Season 3"	"1"
 	"ozfortress Highlander Intermediate Third Place Season 1"	"1"
+	"ozfortress Highlander Intermediate Third Place Season 3"	"1"
 	"ozfortress Highlander Main First Place Season 2"		"1"
 	"ozfortress Highlander Main Participant Season 2"		"1"
 	"ozfortress Highlander Main Second Place Season 2"		"1"
 	"ozfortress Highlander Main Third Place Season 2"		"1"
 	"ozfortress Highlander Open First Place Season 1"		"1"
+	"ozfortress Highlander Open First Place Season 3"		"1"
 	"ozfortress Highlander Open Participant Season 1"		"1"
+	"ozfortress Highlander Open Participant Season 3"		"1"
 	"ozfortress Highlander Open Second Place Season 1"		"1"
+	"ozfortress Highlander Open Second Place Season 3"		"1"
 	"ozfortress Highlander Open Third Place Season 1"		"1"
+	"ozfortress Highlander Open Third Place Season 3"		"1"
 	"ozfortress Highlander Premier First Place Season 1"		"1"
 	"ozfortress Highlander Premier First Place Season 2"		"1"
+	"ozfortress Highlander Premier First Place Season 3"		"1"
 	"ozfortress Highlander Premier Participant Season 1"		"1"
 	"ozfortress Highlander Premier Participant Season 2"		"1"
+	"ozfortress Highlander Premier Participant Season 3"		"1"
 	"ozfortress Highlander Premier Second Place Season 1"		"1"
 	"ozfortress Highlander Premier Second Place Season 2"		"1"
+	"ozfortress Highlander Premier Second Place Season 3"		"1"
 	"ozfortress Highlander Premier Third Place Season 1"		"1"
 	"ozfortress Highlander Premier Third Place Season 2"		"1"
+	"ozfortress Highlander Premier Third Place Season 3"		"1"
 	"ozfortress Intermediate 1st Place Season 15"			"1"
 	"ozfortress Intermediate 1st Place Season 16"			"1"
 	"ozfortress Intermediate 1st Place Season 17"			"1"
@@ -4487,6 +4502,7 @@
 	"ozfortress Intermediate 1st Place Season 33"			"1"
 	"ozfortress Intermediate 1st Place Season 34"			"1"
 	"ozfortress Intermediate 1st Place Season 35"			"1"
+	"ozfortress Intermediate 1st Place Season 36"			"1"
 	"ozfortress Intermediate 2nd Place Season 15"			"1"
 	"ozfortress Intermediate 2nd Place Season 16"			"1"
 	"ozfortress Intermediate 2nd Place Season 17"			"1"
@@ -4508,6 +4524,7 @@
 	"ozfortress Intermediate 2nd Place Season 33"			"1"
 	"ozfortress Intermediate 2nd Place Season 34"			"1"
 	"ozfortress Intermediate 2nd Place Season 35"			"1"
+	"ozfortress Intermediate 2nd Place Season 36"			"1"
 	"ozfortress Intermediate 3rd Place Season 15"			"1"
 	"ozfortress Intermediate 3rd Place Season 16"			"1"
 	"ozfortress Intermediate 3rd Place Season 17"			"1"
@@ -4529,6 +4546,7 @@
 	"ozfortress Intermediate 3rd Place Season 33"			"1"
 	"ozfortress Intermediate 3rd Place Season 34"			"1"
 	"ozfortress Intermediate 3rd Place Season 35"			"1"
+	"ozfortress Intermediate 3rd Place Season 36"			"1"
 	"ozfortress Intermediate Participant Season 15"			"1"
 	"ozfortress Intermediate Participant Season 16"			"1"
 	"ozfortress Intermediate Participant Season 17"			"1"
@@ -4550,6 +4568,7 @@
 	"ozfortress Intermediate Participant Season 33"			"1"
 	"ozfortress Intermediate Participant Season 34"			"1"
 	"ozfortress Intermediate Participant Season 35"			"1"
+	"ozfortress Intermediate Participant Season 36"			"1"
 	"ozfortress Main 1st Place Season 25"				"1"
 	"ozfortress Main 1st Place Season 26"				"1"
 	"ozfortress Main 1st Place Season 27"				"1"
@@ -4561,6 +4580,7 @@
 	"ozfortress Main 1st Place Season 33"				"1"
 	"ozfortress Main 1st Place Season 34"				"1"
 	"ozfortress Main 1st Place Season 35"				"1"
+	"ozfortress Main 1st Place Season 36"				"1"
 	"ozfortress Main 2nd Place Season 25"				"1"
 	"ozfortress Main 2nd Place Season 26"				"1"
 	"ozfortress Main 2nd Place Season 27"				"1"
@@ -4572,6 +4592,7 @@
 	"ozfortress Main 2nd Place Season 33"				"1"
 	"ozfortress Main 2nd Place Season 34"				"1"
 	"ozfortress Main 2nd Place Season 35"				"1"
+	"ozfortress Main 2nd Place Season 36"				"1"
 	"ozfortress Main 3rd Place Season 25"				"1"
 	"ozfortress Main 3rd Place Season 26"				"1"
 	"ozfortress Main 3rd Place Season 27"				"1"
@@ -4583,6 +4604,7 @@
 	"ozfortress Main 3rd Place Season 33"				"1"
 	"ozfortress Main 3rd Place Season 34"				"1"
 	"ozfortress Main 3rd Place Season 35"				"1"
+	"ozfortress Main 3rd Place Season 36"				"1"
 	"ozfortress Main Participant Season 25"				"1"
 	"ozfortress Main Participant Season 26"				"1"
 	"ozfortress Main Participant Season 27"				"1"
@@ -4594,6 +4616,7 @@
 	"ozfortress Main Participant Season 33"				"1"
 	"ozfortress Main Participant Season 34"				"1"
 	"ozfortress Main Participant Season 35"				"1"
+	"ozfortress Main Participant Season 36"				"1"
 	"ozfortress Open 1st Place Season 15"				"1"
 	"ozfortress Open 1st Place Season 16"				"1"
 	"ozfortress Open 1st Place Season 17"				"1"
@@ -4615,6 +4638,7 @@
 	"ozfortress Open 1st Place Season 33"				"1"
 	"ozfortress Open 1st Place Season 34"				"1"
 	"ozfortress Open 1st Place Season 35"				"1"
+	"ozfortress Open 1st Place Season 36"				"1"
 	"ozfortress Open 2nd Place Season 15"				"1"
 	"ozfortress Open 2nd Place Season 16"				"1"
 	"ozfortress Open 2nd Place Season 17"				"1"
@@ -4636,6 +4660,7 @@
 	"ozfortress Open 2nd Place Season 33"				"1"
 	"ozfortress Open 2nd Place Season 34"				"1"
 	"ozfortress Open 2nd Place Season 35"				"1"
+	"ozfortress Open 2nd Place Season 36"				"1"
 	"ozfortress Open 3rd Place Season 15"				"1"
 	"ozfortress Open 3rd Place Season 16"				"1"
 	"ozfortress Open 3rd Place Season 17"				"1"
@@ -4657,6 +4682,7 @@
 	"ozfortress Open 3rd Place Season 33"				"1"
 	"ozfortress Open 3rd Place Season 34"				"1"
 	"ozfortress Open 3rd Place Season 35"				"1"
+	"ozfortress Open 3rd Place Season 36"				"1"
 	"ozfortress Open Participant Season 15"				"1"
 	"ozfortress Open Participant Season 16"				"1"
 	"ozfortress Open Participant Season 17"				"1"
@@ -4678,6 +4704,7 @@
 	"ozfortress Open Participant Season 33"				"1"
 	"ozfortress Open Participant Season 34"				"1"
 	"ozfortress Open Participant Season 35"				"1"
+	"ozfortress Open Participant Season 36"				"1"
 	"ozfortress Premier 1st Place Season 15"			"1"
 	"ozfortress Premier 1st Place Season 16"			"1"
 	"ozfortress Premier 1st Place Season 17"			"1"
@@ -4699,6 +4726,7 @@
 	"ozfortress Premier 1st Place Season 33"			"1"
 	"ozfortress Premier 1st Place Season 34"			"1"
 	"ozfortress Premier 1st Place Season 35"			"1"
+	"ozfortress Premier 1st Place Season 36"			"1"
 	"ozfortress Premier 2nd Place Season 15"			"1"
 	"ozfortress Premier 2nd Place Season 16"			"1"
 	"ozfortress Premier 2nd Place Season 17"			"1"
@@ -4720,6 +4748,7 @@
 	"ozfortress Premier 2nd Place Season 33"			"1"
 	"ozfortress Premier 2nd Place Season 34"			"1"
 	"ozfortress Premier 2nd Place Season 35"			"1"
+	"ozfortress Premier 2nd Place Season 36"			"1"
 	"ozfortress Premier 3rd Place Season 15"			"1"
 	"ozfortress Premier 3rd Place Season 16"			"1"
 	"ozfortress Premier 3rd Place Season 17"			"1"
@@ -4741,6 +4770,7 @@
 	"ozfortress Premier 3rd Place Season 33"			"1"
 	"ozfortress Premier 3rd Place Season 34"			"1"
 	"ozfortress Premier 3rd Place Season 35"			"1"
+	"ozfortress Premier 3rd Place Season 36"			"1"
 	"ozfortress Premier Participant Season 15"			"1"
 	"ozfortress Premier Participant Season 16"			"1"
 	"ozfortress Premier Participant Season 17"			"1"
@@ -4762,6 +4792,7 @@
 	"ozfortress Premier Participant Season 33"			"1"
 	"ozfortress Premier Participant Season 34"			"1"
 	"ozfortress Premier Participant Season 35"			"1"
+	"ozfortress Premier Participant Season 36"			"1"
 	"ozfortress Summer Cup 1st Place 2016"				"1"
 	"ozfortress Summer Cup 2nd Place 2016"				"1"
 	"ozfortress Summer Cup 3rd Place 2016"				"1"
@@ -4781,6 +4812,18 @@
 	"ozfortress Summer Cup Division 4 2nd Place 2021"		"1"
 	"ozfortress Summer Cup Division 4 3rd Place 2021"		"1"
 	"ozfortress Summer Cup Division 4 Participant 2021"		"1"
+	"ozfortress Summer Cup Highlander Division 1 1st Place 2023"	"1"
+	"ozfortress Summer Cup Highlander Division 1 2nd Place 2023"	"1"
+	"ozfortress Summer Cup Highlander Division 1 3rd Place 2023"	"1"
+	"ozfortress Summer Cup Highlander Division 1 Participant 2023"	"1"
+	"ozfortress Summer Cup Highlander Division 2 1st Place 2023"	"1"
+	"ozfortress Summer Cup Highlander Division 2 2nd Place 2023"	"1"
+	"ozfortress Summer Cup Highlander Division 2 3rd Place 2023"	"1"
+	"ozfortress Summer Cup Highlander Division 2 Participant 2023"	"1"
+	"ozfortress Summer Cup Highlander Division 3 1st Place 2023"	"1"
+	"ozfortress Summer Cup Highlander Division 3 2nd Place 2023"	"1"
+	"ozfortress Summer Cup Highlander Division 3 3rd Place 2023"	"1"
+	"ozfortress Summer Cup Highlander Division 3 Participant 2023"	"1"
 	"ozfortress Summer Cup Participant 2016"			"1"
 	"ozfortress Summer Cup Sixes Division 1 1st Place 2023"		"1"
 	"ozfortress Summer Cup Sixes Division 1 2nd Place 2023"		"1"
