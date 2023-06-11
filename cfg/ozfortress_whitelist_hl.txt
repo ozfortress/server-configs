@@ -1,8 +1,8 @@
-// Whitelist generated at Sun, 11 Jun 2023 19:59:18 +0200
-// Custom Whitelist ID: 13781
+// Whitelist generated at Sun, 11 Jun 2023 20:01:51 +0200
+// Whitelist: ozfortress Highlander (Season 4) (ID: 13781)
 
 // Share or view this whitelist:
-//	https://whitelist.tf/13781
+//	https://whitelist.tf/ozfortress_hl_s4
 
 // New items added to the game are: NOT allowed
 // Hats are: allowed
@@ -573,7 +573,14 @@
 	"Store Purchase Promotion Package"				"1"
 	"Team Fortress 2 Soundtrack Promo Package"			"1"
 
-	//----------- Halloween/Full Moon items (Total: 254) ------------\\
+	//----- Globally Competitive League banned items (Total: 3) -----\\
+	//_________________________ All classes _________________________\\
+	"Yeti Park Cap"							"0"
+	//____________________________ Scout ____________________________\\
+	"The Corpse Carrier"						"0"
+	"The Sprinting Cephalopod"					"0"
+
+	//----------- Halloween/Full Moon items (Total: 252) ------------\\
 	//_________________________ All classes _________________________\\
 	"Cursed Cruise"							"1"
 	"Ghost of Spies Checked Past"					"1"
@@ -634,12 +641,10 @@
 	"Talon Trotters"						"1"
 	"The Alien Cranium"						"1"
 	"The Biomech Backpack"						"1"
-	"The Corpse Carrier"						"1"
 	"The Face Plante"						"1"
 	"The Halloweiner"						"1"
 	"The Horrific Head of Hare"					"1"
 	"The Hound's Hood"						"1"
-	"The Sprinting Cephalopod"					"1"
 	"The Terrier Trousers"						"1"
 	"The Xeno Suit"							"1"
 	"Wild Whip"							"1"
@@ -831,7 +836,7 @@
 	"Under Cover"							"1"
 	"Zombie Spy"							"1"
 
-	//---------------------- Hats (Total: 732) ----------------------\\
+	//---------------------- Hats (Total: 731) ----------------------\\
 	//_________________________ All classes _________________________\\
 	"A Rather Festive Tree"						"1"
 	"A Well Wrapped Hat"						"1"
@@ -1020,7 +1025,6 @@
 	"Woolen Warmer"							"1"
 	"World Traveler"						"1"
 	"Wrap-A-Khamon"							"1"
-	"Yeti Park Cap"							"1"
 	"Yeti Park Hardhat"						"1"
 	//______________________ Multiple classes _______________________\\
 	"Bobby Bonnet"							"1"
