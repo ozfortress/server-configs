@@ -1,4 +1,4 @@
-// Whitelist generated at Tue, 07 Mar 2023 11:38:39 +0100
+// Whitelist generated at Tue, 10 Oct 2023 11:46:59 +0200
 // Whitelist: ozfortress Ultiduo (Season 16) (ID: 12544)
 
 // Share or view this whitelist:
@@ -213,7 +213,9 @@
 	//_________________________ All classes _________________________\\
 	"Activated Campaign 3 Pass"					"0"
 
-	//----- Globally Competitive League banned items (Total: 2) -----\\
+	//----- Globally Competitive League banned items (Total: 3) -----\\
+	//_________________________ All classes _________________________\\
+	"Yeti Park Cap"							"0"
 	//____________________________ Scout ____________________________\\
 	"The Corpse Carrier"						"0"
 	"The Sprinting Cephalopod"					"0"
@@ -257,7 +259,7 @@
 	"The Jingle Belt"						"0"
 	"Elf Care Provider"						"0"
 
-	//--------------------- Taunts (Total: 68) ----------------------\\
+	//--------------------- Taunts (Total: 78) ----------------------\\
 	//_________________________ All classes _________________________\\
 	"Conga Taunt"							"0"
 	"Flippin' Awesome Taunt"					"0"
@@ -266,6 +268,7 @@
 	"Skullcracker Taunt"						"0"
 	"Square Dance Taunt"						"0"
 	"Taunt: Kazotsky Kick"						"0"
+	"Taunt: Killer Joke"						"0"
 	"Taunt: Mannrobics"						"0"
 	"Taunt: The Fist Bump"						"0"
 	"Taunt: The Scaredy-cat!"					"0"
@@ -281,11 +284,14 @@
 	"Taunt: The Bunnyhopper"					"0"
 	"Taunt: The Carlton"						"0"
 	"Taunt: The Homerunner's Hobby"					"0"
+	"Taunt: The Killer Signature"					"0"
 	"Taunt: The Scooty Scoot"					"0"
 	"Taunt: The Trackman's Touchdown"				"0"
 	//___________________________ Soldier ___________________________\\
+	"Taunt: Neck Snap"						"0"
 	"Taunt: Panzer Pants"						"0"
 	"Taunt: Rocket Jockey"						"0"
+	"Taunt: Star-Spangled Strategy"					"0"
 	//____________________________ Pyro _____________________________\\
 	"Party Trick Taunt"						"0"
 	"Pool Party Taunt"						"0"
@@ -299,6 +305,7 @@
 	"Oblooterated Taunt"						"0"
 	"Spent Well Spirits Taunt"					"0"
 	"Taunt: Drunk Mann's Cannon"					"0"
+	"Taunt: Roar O'War"						"0"
 	"Taunt: Scotsmann's Stagger"					"0"
 	"Taunt: Shanty Shipmate"					"0"
 	"Taunt: The Drunken Sailor"					"0"
@@ -309,6 +316,7 @@
 	"Taunt: Russian Rubdown"					"0"
 	"Taunt: The Boiling Point"					"0"
 	"Taunt: The Proletariat Showoff"				"0"
+	"Taunt: The Road Rager"						"0"
 	"Taunt: The Russian Arms Race"					"0"
 	"Taunt: The Soviet Strongarm"					"0"
 	"Taunt: The Table Tantrum"					"0"
@@ -320,7 +328,9 @@
 	"Taunt: The Dueling Banjo"					"0"
 	"Taunt: The Jumping Jack"					"0"
 	//____________________________ Medic ____________________________\\
+	"Taunt: Borrowed Bones"						"0"
 	"Taunt: Surgeon's Squeezebox"					"0"
+	"Taunt: The Head Doctor"					"0"
 	"Taunt: The Mannbulance!"					"0"
 	"Taunt: Time Out Therapy"					"0"
 	//___________________________ Sniper ____________________________\\
@@ -335,5 +345,7 @@
 	"Taunt: Luxury Lounge"						"0"
 	"Taunt: Tailored Terminal"					"0"
 	"Taunt: The Boxtrot"						"0"
+	"Taunt: The Crypt Creeper"					"0"
 	"Taunt: The Travel Agent"					"0"
+	"Taunt: Tuefort Tango"						"0"
 }
