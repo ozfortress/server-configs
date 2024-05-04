@@ -1,8 +1,8 @@
-// Whitelist generated at Tue, 10 Oct 2023 11:46:59 +0200
-// Whitelist: ozfortress Ultiduo (Season 16) (ID: 12544)
+// Whitelist generated at Sat, 04 May 2024 02:40:21 +0200
+// Whitelist: ozfortress Ultiduo (Season 18) (ID: 14466)
 
 // Share or view this whitelist:
-//	https://whitelist.tf/ozfortress_ultiduo16
+//	https://whitelist.tf/ozfortress_ultiduo18
 
 // New items added to the game are: allowed
 // Hats are: allowed
@@ -18,19 +18,21 @@
 
 // Allowed weapons for Soldier
 // - Melee
+//  * Disciplinary Action
 //  * Escape Plan
 
 // Allowed weapons for Medic
 // - Primary
 //  * Crusader's Crossbow
 // - Melee
+//  * Solemn Vow
 //  * Ubersaw
 
 "item_whitelist"
 {
 	"unlisted_items_default_to"		"1"
 
-	//------------ Blocked weapons/reskins (Total: 167) -------------\\
+	//------------ Blocked weapons/reskins (Total: 165) -------------\\
 	//______________________ Multiple classes _______________________\\
 	"Panic Attack Shotgun"						"0"
 	"The B.A.S.E. Jumper"						"0"
@@ -73,7 +75,6 @@
 	"The Concheror"							"0"
 	"The Cow Mangler 5000"						"0"
 	"The Direct Hit"						"0"
-	"The Disciplinary Action"					"0"
 	"The Equalizer"							"0"
 	"The Gunboats"							"0"
 	"The Liberty Launcher"						"0"
@@ -170,7 +171,6 @@
 	"The Kritzkrieg"						"0"
 	"The Overdose"							"0"
 	"The Quick-Fix"							"0"
-	"The Solemn Vow"						"0"
 	"The Vaccinator"						"0"
 	"The Vita-Saw"							"0"
 	//___________________________ Sniper ____________________________\\
@@ -259,7 +259,7 @@
 	"The Jingle Belt"						"0"
 	"Elf Care Provider"						"0"
 
-	//--------------------- Taunts (Total: 78) ----------------------\\
+	//--------------------- Taunts (Total: 75) ----------------------\\
 	//_________________________ All classes _________________________\\
 	"Conga Taunt"							"0"
 	"Flippin' Awesome Taunt"					"0"
@@ -268,7 +268,6 @@
 	"Skullcracker Taunt"						"0"
 	"Square Dance Taunt"						"0"
 	"Taunt: Kazotsky Kick"						"0"
-	"Taunt: Killer Joke"						"0"
 	"Taunt: Mannrobics"						"0"
 	"Taunt: The Fist Bump"						"0"
 	"Taunt: The Scaredy-cat!"					"0"
@@ -277,6 +276,7 @@
 	//____________________________ Scout ____________________________\\
 	"Battin' a Thousand Taunt"					"0"
 	"Deep Fried Desire Taunt"					"0"
+	"Taunt: Foul Play"						"0"
 	"Taunt: Runner's Rhythm"					"0"
 	"Taunt: Spin-to-Win"						"0"
 	"Taunt: The Boston Boarder"					"0"
@@ -291,7 +291,6 @@
 	"Taunt: Neck Snap"						"0"
 	"Taunt: Panzer Pants"						"0"
 	"Taunt: Rocket Jockey"						"0"
-	"Taunt: Star-Spangled Strategy"					"0"
 	//____________________________ Pyro _____________________________\\
 	"Party Trick Taunt"						"0"
 	"Pool Party Taunt"						"0"
@@ -328,9 +327,7 @@
 	"Taunt: The Dueling Banjo"					"0"
 	"Taunt: The Jumping Jack"					"0"
 	//____________________________ Medic ____________________________\\
-	"Taunt: Borrowed Bones"						"0"
 	"Taunt: Surgeon's Squeezebox"					"0"
-	"Taunt: The Head Doctor"					"0"
 	"Taunt: The Mannbulance!"					"0"
 	"Taunt: Time Out Therapy"					"0"
 	//___________________________ Sniper ____________________________\\
