@@ -1,4 +1,4 @@
-// Whitelist generated at Tue, 16 Jan 2024 13:18:40 +0100
+// Whitelist generated at Sun, 23 Jun 2024 13:26:53 +0200
 // Whitelist: ozfortress 6v6 (Season 38) (ID: 14123)
 
 // Share or view this whitelist:
