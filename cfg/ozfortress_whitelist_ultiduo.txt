@@ -1,4 +1,4 @@
-// Whitelist generated at Sun, 23 Jun 2024 13:28:54 +0200
+// Whitelist generated at Fri, 19 Jul 2024 16:22:46 +0200
 // Whitelist: ozfortress Ultiduo (Season 18) (ID: 14466)
 
 // Share or view this whitelist:
@@ -259,7 +259,7 @@
 	"The Jingle Belt"						"0"
 	"Elf Care Provider"						"0"
 
-	//--------------------- Taunts (Total: 75) ----------------------\\
+	//--------------------- Taunts (Total: 79) ----------------------\\
 	//_________________________ All classes _________________________\\
 	"Conga Taunt"							"0"
 	"Flippin' Awesome Taunt"					"0"
@@ -272,6 +272,7 @@
 	"Taunt: The Fist Bump"						"0"
 	"Taunt: The Scaredy-cat!"					"0"
 	"Taunt: The Victory Lap"					"0"
+	"Taunt: Unleashed Rage"						"0"
 	"Taunt: Zoomin' Broom"						"0"
 	//____________________________ Scout ____________________________\\
 	"Battin' a Thousand Taunt"					"0"
@@ -288,12 +289,14 @@
 	"Taunt: The Scooty Scoot"					"0"
 	"Taunt: The Trackman's Touchdown"				"0"
 	//___________________________ Soldier ___________________________\\
+	"Taunt: Can It!"						"0"
 	"Taunt: Neck Snap"						"0"
 	"Taunt: Panzer Pants"						"0"
 	"Taunt: Rocket Jockey"						"0"
 	//____________________________ Pyro _____________________________\\
 	"Party Trick Taunt"						"0"
 	"Pool Party Taunt"						"0"
+	"Taunt: Cremator's Condolences"					"0"
 	"Taunt: Roasty Toasty"						"0"
 	"Taunt: Scorcher's Solo"					"0"
 	"Taunt: The Balloonibouncer"					"0"
@@ -335,6 +338,7 @@
 	"Taunt: Didgeridrongo"						"0"
 	"Taunt: Most Wanted"						"0"
 	"Taunt: Shooter's Stakeout"					"0"
+	"Taunt: Straight Shooter Tutor"					"0"
 	"Taunt: The Killer Solo"					"0"
 	//_____________________________ Spy _____________________________\\
 	"Buy A Life Taunt"						"0"

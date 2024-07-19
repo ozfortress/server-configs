@@ -1,4 +1,4 @@
-// Whitelist generated at Sun, 23 Jun 2024 13:27:37 +0200
+// Whitelist generated at Fri, 19 Jul 2024 16:22:50 +0200
 // Whitelist: ozfortress 4v4 (ID: 14207)
 
 // Share or view this whitelist:
@@ -151,7 +151,7 @@
 	"The Jingle Belt"						"0"
 	"Elf Care Provider"						"0"
 
-	//--------------------- Taunts (Total: 60) ----------------------\\
+	//--------------------- Taunts (Total: 64) ----------------------\\
 	//_________________________ All classes _________________________\\
 	"Conga Taunt"							"0"
 	"Flippin' Awesome Taunt"					"0"
@@ -167,6 +167,7 @@
 	"Taunt: The Fist Bump"						"0"
 	"Taunt: The Scaredy-cat!"					"0"
 	"Taunt: The Victory Lap"					"0"
+	"Taunt: Unleashed Rage"						"0"
 	"Taunt: Zoomin' Broom"						"0"
 	//____________________________ Scout ____________________________\\
 	"Taunt: Foul Play"						"0"
@@ -178,11 +179,13 @@
 	"Taunt: The Homerunner's Hobby"					"0"
 	"Taunt: The Scooty Scoot"					"0"
 	//___________________________ Soldier ___________________________\\
+	"Taunt: Can It!"						"0"
 	"Taunt: Neck Snap"						"0"
 	"Taunt: Panzer Pants"						"0"
 	"Taunt: Rocket Jockey"						"0"
 	//____________________________ Pyro _____________________________\\
 	"Pool Party Taunt"						"0"
+	"Taunt: Cremator's Condolences"					"0"
 	"Taunt: Roasty Toasty"						"0"
 	"Taunt: Scorcher's Solo"					"0"
 	"Taunt: The Balloonibouncer"					"0"
@@ -215,6 +218,7 @@
 	//___________________________ Sniper ____________________________\\
 	"Taunt: Didgeridrongo"						"0"
 	"Taunt: Shooter's Stakeout"					"0"
+	"Taunt: Straight Shooter Tutor"					"0"
 	//_____________________________ Spy _____________________________\\
 	"Taunt: Luxury Lounge"						"0"
 	"Taunt: Tailored Terminal"					"0"
