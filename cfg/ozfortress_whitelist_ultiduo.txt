@@ -1,4 +1,4 @@
-// Whitelist generated at Fri, 19 Jul 2024 16:22:46 +0200
+// Whitelist generated at Sat, 11 Jan 2025 10:44:21 +0100
 // Whitelist: ozfortress Ultiduo (Season 18) (ID: 14466)
 
 // Share or view this whitelist:
@@ -88,8 +88,8 @@
 	"Promo Neon Annihilator"					"0"
 	"Sharpened Volcano Fragment"					"0"
 	"The Axtinguisher"						"0"
-	"The Back Scratcher"						"0"
 	"The Backburner"						"0"
+	"The Back Scratcher"						"0"
 	"The Degreaser"							"0"
 	"The Detonator"							"0"
 	"The Dragon's Fury"						"0"
@@ -259,7 +259,7 @@
 	"The Jingle Belt"						"0"
 	"Elf Care Provider"						"0"
 
-	//--------------------- Taunts (Total: 79) ----------------------\\
+	//--------------------- Taunts (Total: 86) ----------------------\\
 	//_________________________ All classes _________________________\\
 	"Conga Taunt"							"0"
 	"Flippin' Awesome Taunt"					"0"
@@ -267,8 +267,10 @@
 	"RPS Taunt"							"0"
 	"Skullcracker Taunt"						"0"
 	"Square Dance Taunt"						"0"
+	"Taunt: Commending Clap"					"0"
 	"Taunt: Kazotsky Kick"						"0"
 	"Taunt: Mannrobics"						"0"
+	"Taunt: Peace!"							"0"
 	"Taunt: The Fist Bump"						"0"
 	"Taunt: The Scaredy-cat!"					"0"
 	"Taunt: The Victory Lap"					"0"
@@ -278,6 +280,7 @@
 	"Battin' a Thousand Taunt"					"0"
 	"Deep Fried Desire Taunt"					"0"
 	"Taunt: Foul Play"						"0"
+	"Taunt: Peace Out"						"0"
 	"Taunt: Runner's Rhythm"					"0"
 	"Taunt: Spin-to-Win"						"0"
 	"Taunt: The Boston Boarder"					"0"
@@ -307,6 +310,7 @@
 	"Oblooterated Taunt"						"0"
 	"Spent Well Spirits Taunt"					"0"
 	"Taunt: Drunk Mann's Cannon"					"0"
+	"Taunt: Fore-Head Slice"					"0"
 	"Taunt: Roar O'War"						"0"
 	"Taunt: Scotsmann's Stagger"					"0"
 	"Taunt: Shanty Shipmate"					"0"
@@ -315,6 +319,7 @@
 	"Taunt: True Scotsman's Call"					"0"
 	//____________________________ Heavy ____________________________\\
 	"Taunt: Bare Knuckle Beatdown"					"0"
+	"Taunt: Crushing Defeat"					"0"
 	"Taunt: Russian Rubdown"					"0"
 	"Taunt: The Boiling Point"					"0"
 	"Taunt: The Proletariat Showoff"				"0"
@@ -342,11 +347,13 @@
 	"Taunt: The Killer Solo"					"0"
 	//_____________________________ Spy _____________________________\\
 	"Buy A Life Taunt"						"0"
+	"Taunt: Curtain Call"						"0"
 	"Taunt: Disco Fever"						"0"
 	"Taunt: Luxury Lounge"						"0"
 	"Taunt: Tailored Terminal"					"0"
 	"Taunt: The Boxtrot"						"0"
 	"Taunt: The Crypt Creeper"					"0"
+	"Taunt: The Punchline"						"0"
 	"Taunt: The Travel Agent"					"0"
 	"Taunt: Tuefort Tango"						"0"
 }

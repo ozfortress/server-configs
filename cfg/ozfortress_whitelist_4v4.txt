@@ -1,4 +1,4 @@
-// Whitelist generated at Fri, 19 Jul 2024 16:22:50 +0200
+// Whitelist generated at Sat, 11 Jan 2025 10:44:26 +0100
 // Whitelist: ozfortress 4v4 (ID: 14207)
 
 // Share or view this whitelist:
@@ -151,7 +151,7 @@
 	"The Jingle Belt"						"0"
 	"Elf Care Provider"						"0"
 
-	//--------------------- Taunts (Total: 64) ----------------------\\
+	//--------------------- Taunts (Total: 71) ----------------------\\
 	//_________________________ All classes _________________________\\
 	"Conga Taunt"							"0"
 	"Flippin' Awesome Taunt"					"0"
@@ -161,9 +161,11 @@
 	"Skullcracker Taunt"						"0"
 	"Square Dance Taunt"						"0"
 	"Taunt: Cheers!"						"0"
+	"Taunt: Commending Clap"					"0"
 	"Taunt: Kazotsky Kick"						"0"
 	"Taunt: Mannrobics"						"0"
 	"Taunt: Mourning Mercs"						"0"
+	"Taunt: Peace!"							"0"
 	"Taunt: The Fist Bump"						"0"
 	"Taunt: The Scaredy-cat!"					"0"
 	"Taunt: The Victory Lap"					"0"
@@ -171,6 +173,7 @@
 	"Taunt: Zoomin' Broom"						"0"
 	//____________________________ Scout ____________________________\\
 	"Taunt: Foul Play"						"0"
+	"Taunt: Peace Out"						"0"
 	"Taunt: Runner's Rhythm"					"0"
 	"Taunt: Spin-to-Win"						"0"
 	"Taunt: The Boston Boarder"					"0"
@@ -193,12 +196,14 @@
 	"Taunt: The Skating Scorcher"					"0"
 	//___________________________ Demoman ___________________________\\
 	"Taunt: Drunk Mann's Cannon"					"0"
+	"Taunt: Fore-Head Slice"					"0"
 	"Taunt: Scotsmann's Stagger"					"0"
 	"Taunt: Shanty Shipmate"					"0"
 	"Taunt: The Drunken Sailor"					"0"
 	"Taunt: The Pooped Deck"					"0"
 	//____________________________ Heavy ____________________________\\
 	"Taunt: Bare Knuckle Beatdown"					"0"
+	"Taunt: Crushing Defeat"					"0"
 	"Taunt: Russian Rubdown"					"0"
 	"Taunt: The Boiling Point"					"0"
 	"Taunt: The Road Rager"						"0"
@@ -220,10 +225,12 @@
 	"Taunt: Shooter's Stakeout"					"0"
 	"Taunt: Straight Shooter Tutor"					"0"
 	//_____________________________ Spy _____________________________\\
+	"Taunt: Curtain Call"						"0"
 	"Taunt: Luxury Lounge"						"0"
 	"Taunt: Tailored Terminal"					"0"
 	"Taunt: The Boxtrot"						"0"
 	"Taunt: The Crypt Creeper"					"0"
+	"Taunt: The Punchline"						"0"
 	"Taunt: The Travel Agent"					"0"
 	"Taunt: Tuefort Tango"						"0"
 }
