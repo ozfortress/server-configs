@@ -14,6 +14,7 @@ mp_windifference 5
 mp_timelimit 30
 mp_winlimit 0
 round_time_override 240
+mp_timelimit_improved_threshold -1
 ```
 Load this configuration using `rcon exec ozfortress_6v6_5cp` or simply `rcon ozf-6s-5cp` on ozfortress servers.
 
@@ -48,6 +49,7 @@ Standard 5 Control Points (5CP) maps are played to 30 minutes with a 5 point/rou
 mp_winlimit 5
 mp_timelimit 30
 mp_winlimit 0
+mp_timelimit_improved_threshold 0
 ```
 Load this configuration using `rcon exec ozfortress_hl_5cp` or simply `rcon ozf-hl-5cp` on ozfortress servers.
 
