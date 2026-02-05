@@ -1,0 +1,15 @@
+- name: Deploy to TF2 Server via rsync
+        uses: Burnett01/rsync-deployments@v8
+        with:
+          switches: -avzr --delete
+          path: cfg/
+          remote_path: ${{ secrets.REMOTE_TARGET }}
+          remote_host: ${{ secrets.SSH_HOST }}
+          remote_user: ${{ secrets.SSH_USER }}
+          remote_key: ${{ secrets.SSH_PRIVATE_KEY }}
+          args: -e "ssh -o StrictHostKeyChecking=no" --exclude=".git*" --exclude=".github*"
+          post_cmd: |
+            MASTER_DIR="${{ secrets.REMOTE_TARGET }}"
+            for i in {1..20}; do
+              ln -sf "${MASTER_DIR}"*ozfortress*.cfg "/home/tf2/servers/sv${i}/tf/cfg/"
+            done
