@@ -19,6 +19,7 @@ jobs:
           path: cfg/
           remote_path: ${{ secrets.REMOTE_TARGET }}
           remote_host: ${{ secrets.SSH_HOST }}
+          remote_port: ${{ secrets.SSH_PORT }}
           remote_user: ${{ secrets.SSH_USER }}
           remote_key: ${{ secrets.SSH_PRIVATE_KEY }}
           args: -e "ssh -o StrictHostKeyChecking=no" --exclude=".git*" --exclude=".github*"
