@@ -1,4 +1,18 @@
-- name: Deploy to TF2 Server via rsync
+name: Deploy League Configs
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  deploy-configs:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Deploy to TF2 Server via rsync
         uses: Burnett01/rsync-deployments@v8
         with:
           switches: -avzr --delete
