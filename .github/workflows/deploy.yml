@@ -24,16 +24,16 @@ jobs:
           remote_key: ${{ secrets.SSH_PRIVATE_KEY }}
           args: -e "ssh -o StrictHostKeyChecking=no" --exclude=".git*" --exclude=".github*"
           post_cmd: |
-            # Ensure the path ends with a slash for the shell
             MASTER_DIR="${{ secrets.REMOTE_TARGET }}"
+            # Ensure the path ends with a slash
             [[ "$MASTER_DIR" != */ ]] && MASTER_DIR="$MASTER_DIR/"
 
             for i in {1..20}; do
               TARGET="/home/tf2/servers/sv${i}/tf/cfg/"
               
               if [ -d "$TARGET" ]; then
-                echo "Linking configs to $TARGET"
-                ln -sf "${MASTER_DIR}"*ozfortress*.cfg "$TARGET"
+                echo "Copying configs to $TARGET"
+                cp -fp "${MASTER_DIR}"*ozfortress*.cfg "$TARGET"
               else
                 echo "Directory $TARGET not found, skipping..."
               fi
