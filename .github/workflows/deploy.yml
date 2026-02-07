@@ -3,38 +3,35 @@ name: Deploy League Configs
 on:
   push:
     branches:
-      - master
+      - master  # Note: that repo uses 'master', not 'main'
 
 jobs:
   deploy-configs:
     runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        server_num: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
+      fail-fast: false
+
     steps:
       - name: Checkout code
         uses: actions/checkout@v6.0.2
 
-      - name: Deploy to TF2 Server via rsync
+      - name: Deploy All Configs to sv${{ matrix.server_num }}
         uses: Burnett01/rsync-deployments@v8
         with:
-          switches: -avzr --delete
-          path: cfg/
-          remote_path: ${{ secrets.REMOTE_TARGET }}
+          # IMPORTANT: No --delete. This only adds/updates files.
+          switches: -avz 
+          # Matches the folder structure in the ozfortress/server-configs repo
+          path: cfg/ 
+          # Targets the destination cfg folder on your servers
+          remote_path: /home/tf2/servers/sv${{ matrix.server_num }}/tf/cfg/
           remote_host: ${{ secrets.SSH_HOST }}
           remote_port: ${{ secrets.SSH_PORT }}
           remote_user: ${{ secrets.SSH_USER }}
           remote_key: ${{ secrets.SSH_PRIVATE_KEY }}
-          args: -e "ssh -o StrictHostKeyChecking=no" --exclude=".git*" --exclude=".github*"
-          post_cmd: |
-            MASTER_DIR="${{ secrets.REMOTE_TARGET }}"
-            # Ensure the path ends with a slash
-            [[ "$MASTER_DIR" != */ ]] && MASTER_DIR="$MASTER_DIR/"
-
-            for i in {1..20}; do
-              TARGET="/home/tf2/servers/sv${i}/tf/cfg/"
-              
-              if [ -d "$TARGET" ]; then
-                echo "Copying configs to $TARGET"
-                cp -fp "${MASTER_DIR}"*ozfortress*.cfg "$TARGET"
-              else
-                echo "Directory $TARGET not found, skipping..."
-              fi
-            done
+          args: >-
+            -e "ssh -o StrictHostKeyChecking=no"
+            --include="*.cfg"
+            --include="*.txt"
+            --exclude="*"
