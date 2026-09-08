@@ -1,18 +1,18 @@
-// Whitelist generated at Mon, 07 Sep 2026 13:02:37 +0200
-// Custom Whitelist ID: 9682
+// Whitelist generated at Tue, 08 Sep 2026 11:52:52 +0200
+// Whitelist: ozfortress Australian Hightower Highjinx (ID: 19527)
 
 // Share or view this whitelist:
-//	https://whitelist.tf/9682
+//	https://whitelist.tf/ozfortress_ahh
 
 // New items added to the game are: allowed
 // Hats are: allowed
 // Miscs are: allowed
-// Pyrovision is: allowed
-// Noisemakers are: allowed
-// Restricted noisemakers are: allowed
+// Pyrovision is: NOT allowed
+// Noisemakers are: NOT allowed
+// Restricted noisemakers are: NOT allowed
 // Halloween/Full Moon items are: allowed
-// Noise making miscs are: allowed
-// Explosion on death miscs are: allowed
+// Noise making miscs are: NOT allowed
+// Explosion on death miscs are: NOT allowed
 // Festive weapon reskins are: allowed
 // Botkiller weapon reskins are: allowed
 // All weapons are: allowed
@@ -29,135 +29,49 @@
 	//_________________________ All classes _________________________\\
 	"Activated Campaign 3 Pass"					"0"
 
-	//--------------------- Taunts (Total: 120) ---------------------\\
+	//----- Globally Competitive League banned items (Total: 3) -----\\
 	//_________________________ All classes _________________________\\
-	"Conga Taunt"							"0"
-	"Flippin' Awesome Taunt"					"0"
-	"High Five Taunt"						"0"
-	"Laugh Taunt"							"0"
-	"Replay Taunt"							"0"
-	"RPS Taunt"							"0"
-	"Skullcracker Taunt"						"0"
-	"Square Dance Taunt"						"0"
-	"Taunt: Burstchester"						"0"
-	"Taunt: Cheers!"						"0"
-	"Taunt: Commending Clap"					"0"
-	"Taunt: Flying Colors"						"0"
-	"Taunt: Kazotsky Kick"						"0"
-	"Taunt: Killer Joke"						"0"
-	"Taunt: Mannrobics"						"0"
-	"Taunt: Mourning Mercs"						"0"
-	"Taunt: Peace!"							"0"
-	"Taunt: Second Rate Sorcery"					"0"
-	"Taunt: The Critical Fail"					"0"
-	"Taunt: The Final Score"					"0"
-	"Taunt: The Fist Bump"						"0"
-	"Taunt: The Scaredy-cat!"					"0"
-	"Taunt: The Victory Lap"					"0"
-	"Taunt: Unleashed Rage"						"0"
-	"Taunt: Yeti Punch"						"0"
-	"Taunt: Yeti Smash"						"0"
-	"Taunt: Zoomin' Broom"						"0"
-	"The Shred Alert"						"0"
+	"Yeti Park Cap"							"0"
 	//____________________________ Scout ____________________________\\
-	"Battin' a Thousand Taunt"					"0"
-	"Deep Fried Desire Taunt"					"0"
-	"Taunt: Chairholder"						"0"
-	"Taunt: Foul Play"						"0"
-	"Taunt: Healthcare Hog"						"0"
-	"Taunt: Peace Out"						"0"
-	"Taunt: Runner's Rhythm"					"0"
-	"Taunt: Spin-to-Win"						"0"
-	"Taunt: The Boston Boarder"					"0"
-	"Taunt: The Boston Breakdance"					"0"
-	"Taunt: The Bunnyhopper"					"0"
-	"Taunt: The Carlton"						"0"
-	"Taunt: The Homerunner's Hobby"					"0"
-	"Taunt: The Killer Signature"					"0"
-	"Taunt: The Scooty Scoot"					"0"
-	"Taunt: The Trackman's Touchdown"				"0"
-	//___________________________ Soldier ___________________________\\
-	"Fresh Brewed Victory Taunt"					"0"
-	"Taunt: Buffoon's Bivouac"					"0"
-	"Taunt: Can It!"						"0"
-	"Taunt: Neck Snap"						"0"
-	"Taunt: Panzer Pants"						"0"
-	"Taunt: Rocket Jockey"						"0"
-	"Taunt: Soldier's Requiem"					"0"
-	"Taunt: Star-Spangled Strategy"					"0"
-	"Taunt: The Fubar Fanfare"					"0"
-	"Taunt: The Profane Puppeteer"					"0"
+	"The Corpse Carrier"						"0"
+	"The Sprinting Cephalopod"					"0"
+
+	//------------------- Noisemakers (Total: 14) -------------------\\
+	"Charity Noise Maker - Bell"					"0"
+	"Charity Noise Maker - Tingsha"					"0"
+	"Halloween Noise Maker - Banshee"				"0"
+	"Halloween Noise Maker - Black Cat"				"0"
+	"Halloween Noise Maker - Crazy Laugh"				"0"
+	"Halloween Noise Maker - Gremlin"				"0"
+	"Halloween Noise Maker - Stabby"				"0"
+	"Halloween Noise Maker - Werewolf"				"0"
+	"Halloween Noise Maker - Witch"					"0"
+	"Noise Maker - TF Birthday"					"0"
+	"Noise Maker - Vuvuzela"					"0"
+	"Noise Maker - Winter 2011"					"0"
+	"Promotional Noise Maker - Fireworks"				"0"
+	"Promotional Noise Maker - Koto"				"0"
+
+	//-------------- Pyro/Romevision items (Total: 8) ---------------\\
+	//_________________________ All classes _________________________\\
+	"Autogrant Pyrovision Goggles"					"0"
+	"Pet Balloonicorn"						"0"
+	"Pet Reindoonicorn"						"0"
+	"Pyrovision Goggles"						"0"
 	//____________________________ Pyro _____________________________\\
-	"Party Trick Taunt"						"0"
-	"Pool Party Taunt"						"0"
-	"Taunt: Cremator's Condolences"					"0"
-	"Taunt: Friendly Fire"						"0"
-	"Taunt: Roasty Toasty"						"0"
-	"Taunt: Scorcher's Solo"					"0"
-	"Taunt: The Balloonibouncer"					"0"
-	"Taunt: The Headcase"						"0"
-	"Taunt: The Hot Wheeler"					"0"
-	"Taunt: The Skating Scorcher"					"0"
-	//___________________________ Demoman ___________________________\\
-	"Oblooterated Taunt"						"0"
-	"Spent Well Spirits Taunt"					"0"
-	"Taunt: Dead Mann's Drink"					"0"
-	"Taunt: Drunk Mann's Cannon"					"0"
-	"Taunt: Fore-Head Slice"					"0"
-	"Taunt: Roar O'War"						"0"
-	"Taunt: Scotsmann's Stagger"					"0"
-	"Taunt: Shanty Shipmate"					"0"
-	"Taunt: The Drunken Sailor"					"0"
-	"Taunt: The Pooped Deck"					"0"
-	"Taunt: True Scotsman's Call"					"0"
-	//____________________________ Heavy ____________________________\\
-	"Taunt: Bare Knuckle Beatdown"					"0"
-	"Taunt: Bear Hug"						"0"
-	"Taunt: Crushing Defeat"					"0"
-	"Taunt: Ring King"						"0"
-	"Taunt: Russian Rubdown"					"0"
-	"Taunt: The Boiling Point"					"0"
-	"Taunt: The Circuit Breaker"					"0"
-	"Taunt: The Proletariat Showoff"				"0"
-	"Taunt: The Road Rager"						"0"
-	"Taunt: The Russian Arms Race"					"0"
-	"Taunt: The Soviet Strongarm"					"0"
-	"Taunt: The Table Tantrum"					"0"
-	//__________________________ Engineer ___________________________\\
-	"Rancho Relaxo Taunt"						"0"
-	"Taunt: Bucking Bronco"						"0"
-	"Taunt: Texan Trickshot"					"0"
-	"Taunt: Texas Truckin"						"0"
-	"Taunt: Texas Twirl 'Em"					"0"
-	"Taunt: The Dueling Banjo"					"0"
-	"Taunt: The Jumping Jack"					"0"
-	//____________________________ Medic ____________________________\\
-	"Meet the Medic Heroic Taunt"					"0"
-	"Results Are In Taunt"						"0"
-	"Taunt: Borrowed Bones"						"0"
-	"Taunt: Doctor's Defibrillators"				"0"
-	"Taunt: Heartbreaker"						"0"
-	"Taunt: Surgeon's Squeezebox"					"0"
-	"Taunt: The Head Doctor"					"0"
-	"Taunt: The Mannbulance!"					"0"
-	"Taunt: Time Out Therapy"					"0"
-	//___________________________ Sniper ____________________________\\
-	"I See You Taunt"						"0"
-	"Taunt: Didgeridrongo"						"0"
-	"Taunt: Most Wanted"						"0"
-	"Taunt: Shooter's Stakeout"					"0"
-	"Taunt: Straight Shooter Tutor"					"0"
-	"Taunt: The Killer Solo"					"0"
-	//_____________________________ Spy _____________________________\\
-	"Buy A Life Taunt"						"0"
-	"Taunt: Curtain Call"						"0"
-	"Taunt: Disco Fever"						"0"
-	"Taunt: Faux-calization"					"0"
-	"Taunt: Luxury Lounge"						"0"
-	"Taunt: Tailored Terminal"					"0"
-	"Taunt: The Boxtrot"						"0"
-	"Taunt: The Crypt Creeper"					"0"
-	"Taunt: The Punchline"						"0"
-	"Taunt: The Travel Agent"					"0"
-	"Taunt: Tuefort Tango"						"0"
+	"The Burning Bongos"						"0"
+	"The Infernal Orchestrina"					"0"
+	"The Lollichop"							"0"
+	"The Rainblower"						"0"
+
+	//------ Noise making/Explosion on death miscs (Total: 9) -------\\
+	"Elf-Made Bandanna"						"0"
+	"Jolly Jingler"							"0"
+	"Reindoonibeanie"						"0"
+	"Seasonal Employee"						"0"
+	"The Bootie Time"						"0"
+	"Elf Defence"							"0"
+	"Elf Ignition"							"0"
+	"The Jingle Belt"						"0"
+	"Elf Care Provider"						"0"
 }
